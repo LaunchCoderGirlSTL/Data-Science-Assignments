@@ -7,6 +7,7 @@ Repository for the Data Science learning track to host assignments.
     - [Hello World](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-1-saying-hello-world-and-basic-inputoutput)
     - [Basic types](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-4--built-in-data-structures-strings-lists-tuples-dictionaries-mutability) - Just read sections 1 - 3.
     - [String manipulations](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation)
+    - [If-else](https://www.w3schools.com/python/python_conditions.asp)
     
 * Signup for Hackerrank and complete the following Hackerrank chanllenges.
     - [Python Hello World](https://www.hackerrank.com/challenges/py-hello-world/problem)
@@ -31,3 +32,17 @@ Repository for the Data Science learning track to host assignments.
     - [Nested lists](https://www.hackerrank.com/challenges/nested-list/problem)
     - [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
     - [Your first Python function](https://www.hackerrank.com/challenges/whats-your-name/problem)
+    
+# Week 3
+## Homework due Feb 13, 2019
+* Readings
+    - [Numerical types](https://www.w3schools.com/python/python_numbers.asp)
+    
+* Hackerrank
+    - [Numpy arrays](https://www.hackerrank.com/challenges/np-arrays/problem)
+    - [Zeros and ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
+    - [Vector math](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
+    - [Min and max](https://www.hackerrank.com/challenges/np-min-and-max/problem)
+
+# Week 4
+## Homework due Feb 20, 2019
