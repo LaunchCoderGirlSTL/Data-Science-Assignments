@@ -1,8 +1,16 @@
 # Data-Science-Assignments
 Repository for the Data Science learning track to host assignments.
 
+# Week 0
+## In Class Assignment due Saturday Jan 26, 2019 @ 8pm
+* Readings (The Unix Shell)
+    - [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/index.html)
+    - [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/index.html)
+    - [Working with Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html)
+    - [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html)
+
 # Week 1
-## Homework due Jan 30, 2019
+## Homework due Wednesday Jan 30, 2019 @ 6pm
 * Readings
     - [Hello World](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-1-saying-hello-world-and-basic-inputoutput)
     - [Basic types](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-4--built-in-data-structures-strings-lists-tuples-dictionaries-mutability) - Just read sections 1 - 3.
@@ -23,7 +31,7 @@ Repository for the Data Science learning track to host assignments.
     - [Verify](https://help.github.com/articles/testing-your-ssh-connection/) your SSH connection.
 
 # Week 2
-## Homework due Feb 6, 2019
+## Homework due Wednesday Feb 6, 2019 @ 6pm
 * Readings
     - [List comprehensions](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-15--generators-and-list-comprehensions)
     - [Functions](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-7--functions-and-recursion-multiple-function-arguments-and-partial-functions)
@@ -34,7 +42,7 @@ Repository for the Data Science learning track to host assignments.
     - [Your first Python function](https://www.hackerrank.com/challenges/whats-your-name/problem)
     
 # Week 3
-## Homework due Feb 13, 2019
+## Homework due Wednesday Feb 13, 2019 @ 6pm
 * Readings
     - [Numerical types](https://www.w3schools.com/python/python_numbers.asp)
     
@@ -45,4 +53,4 @@ Repository for the Data Science learning track to host assignments.
     - [Min and max](https://www.hackerrank.com/challenges/np-min-and-max/problem)
 
 # Week 4
-## Homework due Feb 20, 2019
+## Homework due Wednesday Feb 20, 2019 @ 6pm
