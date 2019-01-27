@@ -12,12 +12,12 @@ Repository for the Data Science learning track to host assignments.
 # Week 2
 ## Homework due Wednesday Jan 30, 2019 @ 6pm
 * Readings
-    - [Hello World](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-1-saying-hello-world-and-basic-inputoutput)
-    - [Basic types](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-4--built-in-data-structures-strings-lists-tuples-dictionaries-mutability) - Just read sections 1 - 3.
+    - [Hello World tutorial](https://www.learnpython.org/en/Hello,_World!)
+    - [Data types & data structures](https://www.datacamp.com/community/tutorials/data-structures-python)
     - [String manipulations](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation)
     - [If-else](https://www.w3schools.com/python/python_conditions.asp)
     
-* Signup for Hackerrank and complete the following Hackerrank chanllenges.
+* Signup for Hackerrank and complete the following Hackerrank challenges.
     - [Python Hello World](https://www.hackerrank.com/challenges/py-hello-world/problem)
     - [Basic math](https://www.hackerrank.com/challenges/python-division/problem)
     - [String manipulations](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
@@ -29,22 +29,31 @@ Repository for the Data Science learning track to host assignments.
     - [Create an SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/).
     - [Link your SSH key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
     - [Verify](https://help.github.com/articles/testing-your-ssh-connection/) your SSH connection.
+    
+## In Class Assignment due Saturday Feb 2, 2019 @ 8pm
+* Finish working through the [Intro to Python notebook](http://nbviewer.jupyter.org/github/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-scrubbed.ipynb).
+    - Note this version has no "answers" -- none of the cells are executed. You can work through all the sections, but minimally work through the code blocks we didn't get through Wednesday night.
 
 # Week 3
 ## Homework due Wednesday Feb 6, 2019 @ 6pm
 * Readings
-    - [List comprehensions](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-15--generators-and-list-comprehensions)
-    - [Functions](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-7--functions-and-recursion-multiple-function-arguments-and-partial-functions)
+    - [Type conversion](https://www.datacamp.com/community/tutorials/python-data-type-conversion)
+    - [List comprehensions](https://www.datacamp.com/community/tutorials/python-list-comprehension)
+    - [Functions](hhttps://www.datacamp.com/community/tutorials/functions-python-tutorial)
 * Hackerrank Python
     - [Lists](https://www.hackerrank.com/challenges/python-lists/problem)
     - [Nested lists](https://www.hackerrank.com/challenges/nested-list/problem)
     - [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
     - [Your first Python function](https://www.hackerrank.com/challenges/whats-your-name/problem)
-    
+
+## In Class Assignment due Saturday Feb 9, 2019 @ 8pm
+* Finish working through the Intro to Python 2 notebook
+
 # Week 4
 ## Homework due Wednesday Feb 13, 2019 @ 6pm
 * Readings
-    - [Numerical types](https://www.w3schools.com/python/python_numbers.asp)
+    - [Numpy overview](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
+        - Note: You won't need to install numpy (it should be with your Anaconda installation). 
     
 * Hackerrank
     - [Numpy arrays](https://www.hackerrank.com/challenges/np-arrays/problem)
