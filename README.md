@@ -38,11 +38,14 @@ Repository for the Data Science learning track to host assignments.
 ## Homework due Wednesday Feb 6, 2019 @ 6pm
 * Readings
     - [Type conversion](https://www.datacamp.com/community/tutorials/python-data-type-conversion)
-    - [List comprehensions](https://www.datacamp.com/community/tutorials/python-list-comprehension)
     - [Functions](hhttps://www.datacamp.com/community/tutorials/functions-python-tutorial)
-    - You'll need to use the *modulo* operator for one of your homeworks
+    - [Modulo documentation](https://python-reference.readthedocs.io/en/latest/docs/operators/modulus.html)
+        - Supplemental: You'll need to use the *modulo* operator for one of your homeworks. If the documentation below isn't enough to help you solve the challenge, see the video as well.
         - [Modulo video](https://www.youtube.com/watch?v=ythAmIKawv0)
-        - [Modulo documentation](https://python-reference.readthedocs.io/en/latest/docs/operators/modulus.html)
+    - [List comprehensions](https://www.datacamp.com/community/tutorials/python-list-comprehension)
+        - Supplemental (not required): [more on list comprehensions](https://www.python-course.eu/python3_list_comprehension.php)
+    - [Lambda functions & map, filter, reduce](https://www.python-course.eu/python3_lambda.php)
+        
 * Hackerrank Python
     - [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
     - [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
