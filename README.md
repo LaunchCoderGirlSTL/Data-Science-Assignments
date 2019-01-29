@@ -30,7 +30,7 @@ Repository for the Data Science learning track to host assignments.
     - [Link your SSH key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
     - [Verify](https://help.github.com/articles/testing-your-ssh-connection/) your SSH connection.
     
-## In Class Assignment due Saturday Feb 2, 2019 @ 8pm
+## In Class Assignment due Friday Feb 1, 2019 @ 8pm
 * Finish working through the [Intro to Python notebook](http://nbviewer.jupyter.org/github/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-scrubbed.ipynb).
     - Note this version has no "answers" -- none of the cells are executed. You can work through all the sections, but minimally work through the code blocks we didn't get through Wednesday night.
 
@@ -55,7 +55,7 @@ Repository for the Data Science learning track to host assignments.
     - Bonus: [Nested lists](https://www.hackerrank.com/challenges/nested-list/problem)
 
 
-## In Class Assignment due Saturday Feb 9, 2019 @ 8pm
+## In Class Assignment due Friday Feb 8, 2019 @ 8pm
 * Finish working through the [Intro to Python 2 notebook](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-2-scrubbed.ipynb)
 
 # Week 4
