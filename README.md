@@ -53,7 +53,7 @@ Repository for the Data Science learning track to host assignments.
 
 
 ## In Class Assignment due Saturday Feb 9, 2019 @ 8pm
-* Finish working through the Intro to Python 2 notebook
+* Finish working through the [Intro to Python 2 notebook](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-2-scrubbed.ipynb)
 
 # Week 4
 ## Homework due Wednesday Feb 13, 2019 @ 6pm
@@ -69,3 +69,9 @@ Repository for the Data Science learning track to host assignments.
 
 # Week 5
 ## Homework due Wednesday Feb 20, 2019 @ 6pm
+
+# Week 6
+
+# Week 7
+
+# Week 8
