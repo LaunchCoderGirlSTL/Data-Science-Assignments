@@ -38,7 +38,7 @@ Repository for the Data Science learning track to host assignments.
 ## Homework due Wednesday Feb 6, 2019 @ 6pm
 * Readings
     - [Type conversion](https://www.datacamp.com/community/tutorials/python-data-type-conversion)
-    - [Functions](hhttps://www.datacamp.com/community/tutorials/functions-python-tutorial)
+    - [Functions](https://www.datacamp.com/community/tutorials/functions-python-tutorial)
     - [Modulo documentation](https://python-reference.readthedocs.io/en/latest/docs/operators/modulus.html)
         - Supplemental: You'll need to use the *modulo* operator for one of your homeworks. If the documentation below isn't enough to help you solve the challenge, see the video as well.
         - [Modulo video](https://www.youtube.com/watch?v=ythAmIKawv0)
