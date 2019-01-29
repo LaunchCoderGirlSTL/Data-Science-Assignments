@@ -40,11 +40,17 @@ Repository for the Data Science learning track to host assignments.
     - [Type conversion](https://www.datacamp.com/community/tutorials/python-data-type-conversion)
     - [List comprehensions](https://www.datacamp.com/community/tutorials/python-list-comprehension)
     - [Functions](hhttps://www.datacamp.com/community/tutorials/functions-python-tutorial)
+    - You'll need to use the *modulo* operator for one of your homeworks
+        - [Modulo video](https://www.youtube.com/watch?v=ythAmIKawv0)
+        - [Modulo documentation](https://python-reference.readthedocs.io/en/latest/docs/operators/modulus.html)
 * Hackerrank Python
-    - [Lists](https://www.hackerrank.com/challenges/python-lists/problem)
-    - [Nested lists](https://www.hackerrank.com/challenges/nested-list/problem)
+    - [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
     - [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
     - [Your first Python function](https://www.hackerrank.com/challenges/whats-your-name/problem)
+        - Bonus: Try testing your code against custom input (your name!).
+    - [More functions](https://www.hackerrank.com/challenges/write-a-function/problem?h_r=next-challenge&h_v=zen)
+    - Bonus: [Nested lists](https://www.hackerrank.com/challenges/nested-list/problem)
+
 
 ## In Class Assignment due Saturday Feb 9, 2019 @ 8pm
 * Finish working through the Intro to Python 2 notebook
