@@ -40,8 +40,7 @@ Repository for the Data Science learning track to host assignments.
     - [Loops](https://www.datacamp.com/community/tutorials/loops-python-tutorial)
     - [Functions](https://www.datacamp.com/community/tutorials/functions-python-tutorial)
     - [Modulo documentation](https://python-reference.readthedocs.io/en/latest/docs/operators/modulus.html)
-        - Supplemental: You'll need to use the *modulo* operator for one of your homeworks. If the documentation below isn't enough to help you solve the challenge, see the video as well.
-        - [Modulo video](https://www.youtube.com/watch?v=ythAmIKawv0)
+        - Supplemental (not required): [Modulo video](https://www.youtube.com/watch?v=ythAmIKawv0). You'll need to use the *modulo* operator for one of your homeworks. If the documentation below isn't enough to help you solve the challenge, see the video as well.
     - [List comprehensions](https://www.datacamp.com/community/tutorials/python-list-comprehension)
         - Supplemental (not required): [more on list comprehensions](https://www.python-course.eu/python3_list_comprehension.php)
     - [Lambda functions & map, filter, reduce](https://www.python-course.eu/python3_lambda.php)
@@ -62,7 +61,7 @@ Repository for the Data Science learning track to host assignments.
     - [Your first Python function](https://www.hackerrank.com/challenges/whats-your-name/problem)
         - Bonus: Try testing your code against custom input (your name!).
     - [More functions](https://www.hackerrank.com/challenges/write-a-function/problem?h_r=next-challenge&h_v=zen)
-    - Bonus: [Nested lists](https://www.hackerrank.com/challenges/nested-list/problem)
+    - Bonus (not required): [Nested lists](https://www.hackerrank.com/challenges/nested-list/problem)
 
 
 ## In Class Assignment due Friday Feb 8, 2019 @ 8pm
