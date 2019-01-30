@@ -37,7 +37,7 @@ Repository for the Data Science learning track to host assignments.
 # Week 3
 ## Homework due Wednesday Feb 6, 2019 @ 6pm
 * Readings
-    - [Type conversion](https://www.datacamp.com/community/tutorials/python-data-type-conversion)
+    - [Loops](https://www.datacamp.com/community/tutorials/loops-python-tutorial)
     - [Functions](https://www.datacamp.com/community/tutorials/functions-python-tutorial)
     - [Modulo documentation](https://python-reference.readthedocs.io/en/latest/docs/operators/modulus.html)
         - Supplemental: You'll need to use the *modulo* operator for one of your homeworks. If the documentation below isn't enough to help you solve the challenge, see the video as well.
@@ -45,13 +45,23 @@ Repository for the Data Science learning track to host assignments.
     - [List comprehensions](https://www.datacamp.com/community/tutorials/python-list-comprehension)
         - Supplemental (not required): [more on list comprehensions](https://www.python-course.eu/python3_list_comprehension.php)
     - [Lambda functions & map, filter, reduce](https://www.python-course.eu/python3_lambda.php)
+    
+* Cheat Sheets
+    - [Jupyter notebooks](https://datacamp-community-prod.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40)
+    - [Python for Data Science](https://datacamp-community-prod.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612)
         
 * Hackerrank Python
-    - [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
-    - [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
-    - [Your first Python function](https://www.hackerrank.com/challenges/whats-your-name/problem)
+    1. [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
+    2. [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
+        - The Problem statement and Tutorial should be sufficient to guide you through this exercise, but the example code using list comprehensions on the Problem page is difficult to read. Here it is line by line (and in Python3):
+        __Code using list comprehensions:__
+        `x = int( raw_input())`
+        `y = int( raw_input())`
+        `n = int( raw_input())`
+        `print( [ [i, j] for i in range(x + 1) for j in range(y + 1) if( ( i + j ) != n )] )`
+    3. [Your first Python function](https://www.hackerrank.com/challenges/whats-your-name/problem)
         - Bonus: Try testing your code against custom input (your name!).
-    - [More functions](https://www.hackerrank.com/challenges/write-a-function/problem?h_r=next-challenge&h_v=zen)
+    4. [More functions](https://www.hackerrank.com/challenges/write-a-function/problem?h_r=next-challenge&h_v=zen)
     - Bonus: [Nested lists](https://www.hackerrank.com/challenges/nested-list/problem)
 
 
@@ -61,9 +71,13 @@ Repository for the Data Science learning track to host assignments.
 # Week 4
 ## Homework due Wednesday Feb 13, 2019 @ 6pm
 * Readings
+    - [Type conversion](https://www.datacamp.com/community/tutorials/python-data-type-conversion)
     - [Numpy overview](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
-        - Note: You won't need to install numpy (it should be with your Anaconda installation). 
-    
+        - Note: You won't need to install numpy (it should be included with your Anaconda installation). 
+
+* Cheat Sheets
+    - [NumPy](https://datacamp-community-prod.s3.amazonaws.com/e9f83f72-a81b-42c7-af44-4e35b48b20b7)
+
 * Hackerrank
     - [Numpy arrays](https://www.hackerrank.com/challenges/np-arrays/problem)
     - [Zeros and ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
@@ -72,6 +86,11 @@ Repository for the Data Science learning track to host assignments.
 
 # Week 5
 ## Homework due Wednesday Feb 20, 2019 @ 6pm
+* Readings
+    - [Pandas DataFrames](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
+
+* Cheat Sheets
+    - [Pandas](https://datacamp-community-prod.s3.amazonaws.com/fbc502d0-46b2-4e1b-b6b0-5402ff273251)
 
 # Week 6
 
