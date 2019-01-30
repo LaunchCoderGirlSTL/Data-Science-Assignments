@@ -51,17 +51,17 @@ Repository for the Data Science learning track to host assignments.
     - [Python for Data Science](https://datacamp-community-prod.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612)
         
 * Hackerrank Python
-    1. [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
-    2. [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
+    - [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
+    - [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
         - The Problem statement and Tutorial should be sufficient to guide you through this exercise, but the example code using list comprehensions on the Problem page is difficult to read. Here it is line by line (and in Python3):
         __Code using list comprehensions:__
-        `x = int( raw_input())`
-        `y = int( raw_input())`
-        `n = int( raw_input())`
-        `print( [ [i, j] for i in range(x + 1) for j in range(y + 1) if( ( i + j ) != n )] )`
-    3. [Your first Python function](https://www.hackerrank.com/challenges/whats-your-name/problem)
+        `x = int( raw_input())`  
+        `y = int( raw_input())`  
+        `n = int( raw_input())`  
+        `print( [ [i, j] for i in range(x + 1) for j in range(y + 1) if( ( i + j ) != n )] )`  
+    - [Your first Python function](https://www.hackerrank.com/challenges/whats-your-name/problem)
         - Bonus: Try testing your code against custom input (your name!).
-    4. [More functions](https://www.hackerrank.com/challenges/write-a-function/problem?h_r=next-challenge&h_v=zen)
+    - [More functions](https://www.hackerrank.com/challenges/write-a-function/problem?h_r=next-challenge&h_v=zen)
     - Bonus: [Nested lists](https://www.hackerrank.com/challenges/nested-list/problem)
 
 
