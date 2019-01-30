@@ -54,10 +54,10 @@ Repository for the Data Science learning track to host assignments.
     - [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
     - [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
         - The Problem statement and Tutorial should be sufficient to guide you through this exercise, but the example code using list comprehensions on the Problem page is difficult to read. Here it is line by line (and in Python3):
-        __Code using list comprehensions:__
-        `x = int( raw_input())`  
-        `y = int( raw_input())`  
-        `n = int( raw_input())`  
+        __Code using list comprehensions:__  
+        `x = int( raw_input() )`  
+        `y = int( raw_input() )`  
+        `n = int( raw_input() )`  
         `print( [ [i, j] for i in range(x + 1) for j in range(y + 1) if( ( i + j ) != n )] )`  
     - [Your first Python function](https://www.hackerrank.com/challenges/whats-your-name/problem)
         - Bonus: Try testing your code against custom input (your name!).
