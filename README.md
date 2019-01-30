@@ -25,7 +25,7 @@ Repository for the Data Science learning track to host assignments.
     - [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
     
 * Setup & configure git
-    - Create a GitHub account.
+    - Create a [GitHub](https://github.com/) account.
     - [Create an SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/).
     - [Link your SSH key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
     - [Verify](https://help.github.com/articles/testing-your-ssh-connection/) your SSH connection.
