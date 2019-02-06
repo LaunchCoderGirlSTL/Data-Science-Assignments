@@ -74,6 +74,9 @@ Repository for the Data Science learning track to host assignments.
     - [Numpy overview](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
         - Note: You won't need to install numpy (it should be included with your Anaconda installation). 
 
+* Jupyter notebooks
+    - Computing with NumPy arrays: _Will be posted Thursday morning_. You can download the data and execute the code in this notebook yourself, or just read through the executed version. Make sure you understand all the `numpy` methods.
+
 * Cheat Sheets
     - [NumPy](https://datacamp-community-prod.s3.amazonaws.com/e9f83f72-a81b-42c7-af44-4e35b48b20b7)
 
@@ -82,6 +85,8 @@ Repository for the Data Science learning track to host assignments.
     - [Zeros and ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
     - [Vector math](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
     - [Min and max](https://www.hackerrank.com/challenges/np-min-and-max/problem)
+    - [Floor/ceiling/rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)
+    - [Reshape arrays](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
 
 # Week 5
 ## Homework due Wednesday Feb 20, 2019 @ 6pm
@@ -91,7 +96,12 @@ Repository for the Data Science learning track to host assignments.
 * Cheat Sheets
     - [Pandas](https://datacamp-community-prod.s3.amazonaws.com/fbc502d0-46b2-4e1b-b6b0-5402ff273251)
 
+* Hackerrank
+    - [Numpy array stats](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
+
 # Week 6
+* Readings
+    - [Exploratory analysis with Pandas](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python)
 
 # Week 7
 
