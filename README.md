@@ -75,7 +75,7 @@ Repository for the Data Science learning track to host assignments.
         - Note: You won't need to install numpy (it should be included with your Anaconda installation). 
 
 * Jupyter notebooks
-    - Computing with NumPy arrays: _Will be posted Thursday morning_. You can download the data and execute the code in this notebook yourself, or just read through the executed version. Make sure you understand all the `numpy` methods.
+    - [Tutorial: Computing with NumPy arrays](https://github.com/rlowd/python-bigdata/blob/master/ipython-minibook/numpy-computing.ipynb). You can download the data and execute the code in this notebook yourself, or just read through the executed version. Make sure you understand all the `numpy` methods.
 
 * Cheat Sheets
     - [NumPy](https://datacamp-community-prod.s3.amazonaws.com/e9f83f72-a81b-42c7-af44-4e35b48b20b7)
@@ -87,6 +87,9 @@ Repository for the Data Science learning track to host assignments.
     - [Min and max](https://www.hackerrank.com/challenges/np-min-and-max/problem)
     - [Floor/ceiling/rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)
     - [Reshape arrays](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
+
+## In Class Assignment due Friday Feb 15, 2019 @ 8pm
+* Finish working through the Numerical computing notebook.
 
 # Week 5
 ## Homework due Wednesday Feb 20, 2019 @ 6pm
