@@ -89,23 +89,41 @@ Repository for the Data Science learning track to host assignments.
     - [Reshape arrays](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
 
 ## In Class Assignment due Friday Feb 15, 2019 @ 8pm
-* Finish working through the Numerical computing notebook.
+* Finish working through the [Numerical computing notebook](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/numerical-slides-scrubbed.ipynb) and the associated readings (linked in the notebook).
 
 # Week 5
 ## Homework due Wednesday Feb 20, 2019 @ 6pm
 * Readings
     - [Pandas DataFrames](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
+    - [Time Series tutorial with Pandas](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial)
+    - [Matplotlib tutorial](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
+    - Notebooks to read through:
+        - Pulling data & assembling Pandas DataFrame - [Chipotle dataset](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/chipotle-getting-and-knowing-read-only.ipynb)
+        - Exploratory analysis with `matplotlib` - [Retail dataset](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/online-retail-plotting.ipynb)
+
+* Coding challenges: 
+    - Notebooks with fill-in-the-blank code blocks - _will be posted by 12p Friday, Feb 15_.
+        - Reading in & assembling Pandas Data Frames - Occupations dataset
+        - Plotting practice - Titanic dataset
+    - Hackerrank
+        - [Numpy array stats](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
+        - [Floating point practice](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
+        - [Working with integers](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
+
+## In Class Assignment due Friday Feb 22, 2019 @ 8pm
+* Work through TWO notebooks:
+    - More plotting practice - tips dataset
+    - Time series notebook - TBD
+# Week 6
+## Homework due Wednesday Feb 27, 2019 @ 6pm
+* Readings
+    - [Exploratory analysis with Pandas](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python)
 
 * Cheat Sheets
     - [Pandas](https://datacamp-community-prod.s3.amazonaws.com/fbc502d0-46b2-4e1b-b6b0-5402ff273251)
 
-* Hackerrank
-    - [Numpy array stats](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
-
-# Week 6
-* Readings
-    - [Exploratory analysis with Pandas](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python)
-
 # Week 7
+## Homework due Wednesday March 6, 2019 @ 6pm
 
 # Week 8
+## Homework due Wednesday March 13, 2019 @ 6pm
