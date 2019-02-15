@@ -103,8 +103,10 @@ Repository for the Data Science learning track to host assignments.
 
 * Coding challenges: 
     - Notebooks with fill-in-the-blank code blocks - _will be posted by 12p Friday, Feb 15_.
-        - Reading in & assembling Pandas Data Frames - Occupations dataset
-        - Plotting practice - Titanic dataset
+        - Reading in & assembling Pandas Data Frames - [Occupations dataset](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/occupations/occupation-getting-and-knowing-blanks-scrubbed.ipynb)
+            - [Executed](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/occupations/occupation-getting-and-knowing-blanks-with-solutions.ipynb) but no solutions.
+        - Plotting practice - [Titanic dataset](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/titanic/titanic-plotting-blanks-scrubbed.ipynb)
+            - [Executed](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/titanic/titanic-plotting-blanks-with-solutions.ipynb) but no solutions.
     - Hackerrank
         - [Numpy array stats](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
         - [Floating point practice](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
