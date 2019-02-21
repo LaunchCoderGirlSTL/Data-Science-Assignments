@@ -114,7 +114,8 @@ Repository for the Data Science learning track to host assignments.
 
 ## In Class Assignment due Friday Feb 22, 2019 @ 8pm
 * Work through TWO notebooks:
-    - More plotting practice - tips dataset
+    - More plotting practice - [tips notebook](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/tips/tips-plotting-blanks-scrubbed.ipynb)
+        - [Executed](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/tips/tips-plotting-blanks-executed.ipynb)
     - Time series notebook - TBD
 # Week 6
 ## Homework due Wednesday Feb 27, 2019 @ 6pm
