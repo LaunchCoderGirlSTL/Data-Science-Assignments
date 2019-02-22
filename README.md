@@ -113,10 +113,10 @@ Repository for the Data Science learning track to host assignments.
         - [Working with integers](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
 
 ## In Class Assignment due Friday Feb 22, 2019 @ 8pm
-* Work through TWO notebooks:
+* Work through ONE notebooks:
     - More plotting practice - [tips notebook](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/tips/tips-plotting-blanks-scrubbed.ipynb)
         - [Executed](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/tips/tips-plotting-blanks-executed.ipynb)
-    - Time series notebook - TBD
+
 # Week 6
 ## Homework due Wednesday Feb 27, 2019 @ 6pm
 * Readings
@@ -124,6 +124,10 @@ Repository for the Data Science learning track to host assignments.
 
 * Cheat Sheets
     - [Pandas](https://datacamp-community-prod.s3.amazonaws.com/fbc502d0-46b2-4e1b-b6b0-5402ff273251)
+
+## In Class Assignment due Friday Mar 1, 2019 @ 8pm
+* Work through notebook
+    - Time series notebook - TBD
 
 # Week 7
 ## Homework due Wednesday March 6, 2019 @ 6pm
