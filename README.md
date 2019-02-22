@@ -136,6 +136,7 @@ Repository for the Data Science learning track to host assignments.
     - [Pandas Groupby](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-groupby.ipynb)
     - [Pandas Apply](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-apply.ipynb)
     - [Pandas Stats](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-stats.ipynb)
+    - [Pandas Visualization](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-visualization.ipynb)
 
 ## In Class Assignment due Friday Mar 1, 2019 @ 8pm
 * Work through notebook
