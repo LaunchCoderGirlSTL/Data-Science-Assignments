@@ -120,14 +120,26 @@ Repository for the Data Science learning track to host assignments.
 # Week 6
 ## Homework due Wednesday Feb 27, 2019 @ 6pm
 * Readings
-    - [Exploratory analysis with Pandas](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python)
+    - [Think Stats: Chapter 1 - Exploratory Data Analysis](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
+    - [Exploratory Data Analysis I](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python)
+    - [Exploratory Data Analysis II](https://www.datacamp.com/community/tutorials/python-data-profiling)
+    - [Hierarchical Indicies, Groupby](https://www.datacamp.com/community/tutorials/pandas-multi-index)
+    - [Think Stats: Chapter 2 - Distributions](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
 * Cheat Sheets
     - [Pandas](https://datacamp-community-prod.s3.amazonaws.com/fbc502d0-46b2-4e1b-b6b0-5402ff273251)
 
+* Hackerrank
+    - [Statistics Warmup](https://www.hackerrank.com/challenges/stat-warmup/problem)
+
+* Jupyter Notebooks
+    - [Pandas Groupby](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-groupby.ipynb)
+    - [Pandas Apply](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-apply.ipynb)
+    - [Pandas Stats](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-stats.ipynb)
+
 ## In Class Assignment due Friday Mar 1, 2019 @ 8pm
 * Work through notebook
-    - Time series notebook - TBD
+    - TBD
 
 # Week 7
 ## Homework due Wednesday March 6, 2019 @ 6pm
