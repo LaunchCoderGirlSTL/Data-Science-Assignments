@@ -139,8 +139,8 @@ Repository for the Data Science learning track to host assignments.
     - [Pandas Visualization](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-visualization.ipynb)
 
 ## In Class Assignment due Friday Mar 1, 2019 @ 8pm
-* Work through notebook
-    - TBD
+* Read through and run commands for following tutorial:
+    - [Seaborn Introduction](https://elitedatascience.com/python-seaborn-tutorial)
 
 # Week 7
 ## Homework due Wednesday March 6, 2019 @ 6pm
