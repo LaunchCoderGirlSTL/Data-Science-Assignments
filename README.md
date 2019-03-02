@@ -145,6 +145,21 @@ Repository for the Data Science learning track to host assignments.
 
 # Week 7
 ## Homework due Wednesday March 6, 2019 @ 6pm
+* Reading
+    - [ThinkStats](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
+        - Chapters 3-5. Don't worry about the `thinkplot` code or the exercises at the end of each chapter. Focus on the content! The goal is to be familiar with different types of distributions.
+        
+* Watch
+    - Videos on [normal distributions](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-normal-distribution-problems-qualitative-sense-of-normal-distributions).
+        - Work through [practice exercises](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/e/empirical_rule).
+        - Understand the [review page](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/a/normal-distributions-review).
+
+* Notebooks
+    - Download and work through the following 3 notebooks. Make sure you understand the concepts as well as the python code. You should complete the exercises throughout.
+        - [Warm-up](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/2.%20Warm-up.py3.ipynb).
+        - [Baisc Metrics](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/4.%20Basic%20Metrics.py3.ipynb)
+        - [Distributions](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/5.%20Distributions.py3.ipynb)
+        
 
 # Week 8
 ## Homework due Wednesday March 13, 2019 @ 6pm
