@@ -159,7 +159,7 @@ Repository for the Data Science learning track to host assignments.
         - [Warm-up](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/2.%20Warm-up.py3.ipynb).
         - [Baisc Metrics](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/4.%20Basic%20Metrics.py3.ipynb)
         - [Distributions](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/5.%20Distributions.py3.ipynb)
-        
+        - [Directory with datasets](https://github.com/rlowd/python-bigdata/tree/master/intro2stats/data) for the above 3 notebooks. You should download these data to the same directory where the notebooks are. You will need to provide the correct path to your data in each Jupyter Notebook.
 
 # Week 8
 ## Homework due Wednesday March 13, 2019 @ 6pm
