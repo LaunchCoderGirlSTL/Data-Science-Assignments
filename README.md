@@ -161,5 +161,34 @@ Repository for the Data Science learning track to host assignments.
         - [Distributions](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/5.%20Distributions.py3.ipynb)
         - [Directory with datasets](https://github.com/rlowd/python-bigdata/tree/master/intro2stats/data) for the above 3 notebooks. You should download these data to the same directory where the notebooks are. You will need to provide the correct path to your data in each Jupyter Notebook.
 
+## In Class Assignment due Friday, March 8, 2019 @ 8pm
+* Readings
+    - [Groupby documentation](https://pandas.pydata.org/pandas-docs/version/0.22/groupby.html) - this entire page is really good, but read at least the first two sections ("Splitting an object into groups" and "Aggregation," up to the "Transformation" section).
+        - Relevant to class Wednesday: [attributes for GroupBy objcets](https://pandas.pydata.org/pandas-docs/version/0.22/groupby.html#groupby-object-attributes) (e.g. how we found you can call `head` on a GroupBy object).
+        - For in-class assignment: [Iterating through groups](https://pandas.pydata.org/pandas-docs/version/0.22/groupby.html#iterating-through-groups).
+        
+* Complete blank code blocks in [groupby notebook](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/groupby-practice/regiment-executed-blanks.ipynb).
+
 # Week 8
 ## Homework due Wednesday March 13, 2019 @ 6pm
+* Readings
+    - [ThinkStats](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
+        - Chapters 6-8. Don't worry about the `thinkplot` code or the exercises at the end of each chapter. Focus on the content! 
+    - Bootstrapping -- _coming_
+    
+* Kahn Academy
+    - Probabilities
+        - Take [this quiz](https://www.khanacademy.org/math/statistics-probability/probability-library/modal/e/probability_1). If you have trouble with the answers, please watch the videos for the [basic probability](https://www.khanacademy.org/math/statistics-probability/probability-library#basic-theoretical-probability) section.
+        - Videos, articles & quizzes for [Experimental probability](https://www.khanacademy.org/math/statistics-probability/probability-library#experimental-probability-lib).
+        - Videos, articles & quizzes for [Randomness, probability & simulation](https://www.khanacademy.org/math/statistics-probability/probability-library#randomness-probability-and-simulation).
+    - Hypothesis testing
+        - Videos & quizzes for [Significance tests](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample#idea-of-significance-tests).
+    - Scatterplots & correlations
+        - Videos, articles & quizzes for [Introduction to scatterplots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data#introduction-to-scatterplots).
+        - Videos, articles & quizzes for [Correlation](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data#scatterplots-and-correlation)
+    
+* Notebooks
+    - Hypothesis testing -- _coming_
+    
+* Hackerrank
+    - Write _only_ your *pseudocode* solution for this challenge: [Expected value & variance](https://www.hackerrank.com/challenges/dice-stats/problem) of a weighted die.
