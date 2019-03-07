@@ -1,16 +1,6 @@
 # Data-Science-Assignments
 Repository for the Data Science learning track to host assignments.
 
-1. [Week 1](#Week 1)
-2. [Week 2](#Week 2)
-3. [Week 3](#Week 3)
-4. [Week 4](#Week 4)
-5. [Week 5](#Week 5)
-6. [Week 6](#Week 6)
-7. [Week 7](#Week 7)
-8. [Week 8](#Week 8)
-
-
 # Week 1
 ## In Class Assignment due Saturday Jan 26, 2019 @ 8pm
 * Readings (The Unix Shell)
