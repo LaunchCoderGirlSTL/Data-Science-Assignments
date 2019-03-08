@@ -188,7 +188,7 @@ Repository for the Data Science learning track to host assignments.
         - Videos, articles & quizzes for [Correlation](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data#scatterplots-and-correlation)
     
 * Notebooks
-    - Hypothesis testing -- _coming_
+    - [Hypothesis testing](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/Hypothesis-Testing-executed-no-solutions.ipynb)
     
 * Hackerrank
     - Write _only_ your *pseudocode* solution for this challenge: [Expected value & variance](https://www.hackerrank.com/challenges/dice-stats/problem) of a weighted die.
