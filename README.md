@@ -174,7 +174,6 @@ Repository for the Data Science learning track to host assignments.
 * Readings
     - [ThinkStats](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
         - Chapters 6-8. Don't worry about the `thinkplot` code or the exercises at the end of each chapter. Focus on the content! 
-    - Bootstrapping -- _coming_
     
 * Kahn Academy
     - Probabilities
@@ -192,3 +191,10 @@ Repository for the Data Science learning track to host assignments.
     
 * Hackerrank
     - Write _only_ your *pseudocode* solution for this challenge: [Expected value & variance](https://www.hackerrank.com/challenges/dice-stats/problem) of a weighted die.
+
+# Week 9
+## Homework due Wednesday March 20, 2019 @ 6pm
+
+* Readings & video
+    - [Bootstrapping introduction](https://statisticsbyjim.com/hypothesis-testing/bootstrapping/)
+    - [Bootstrapping video](https://www.youtube.com/watch?v=gcPIyeqymOU)
