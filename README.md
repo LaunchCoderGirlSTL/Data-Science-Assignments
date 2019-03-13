@@ -192,9 +192,11 @@ Repository for the Data Science learning track to host assignments.
 * Hackerrank
     - Write _only_ your *pseudocode* solution for this challenge: [Expected value & variance](https://www.hackerrank.com/challenges/dice-stats/problem) of a weighted die.
 
-# Week 9
-## Homework due Wednesday March 20, 2019 @ 6pm
-
+## In Class Assignment due Friday, March 15, 2019 @ 8pm
 * Readings & video
     - [Bootstrapping introduction](https://statisticsbyjim.com/hypothesis-testing/bootstrapping/)
     - [Bootstrapping video](https://www.youtube.com/watch?v=gcPIyeqymOU)
+
+# Week 9
+## Homework due Wednesday March 20, 2019 @ 6pm
+* To be posted on Friday March 15, 2019
