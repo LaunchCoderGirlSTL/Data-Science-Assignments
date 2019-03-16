@@ -204,7 +204,7 @@ Repository for the Data Science learning track to host assignments.
     - Finish all Readings, Videos, and Quizzes for the following sections in [Week 1: Introduction](https://www.coursera.org/learn/machine-learning/home/week/1):
         - [Introduction](https://www.coursera.org/learn/machine-learning/home/week/1)
         - [Linear Regression with One Variable](https://www.coursera.org/learn/machine-learning/home/week/1)
-* Google Machine Learning Crash Course
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
     - Enroll in Google's Machine Learning Crash course. The material is available antyime. [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
     - Finish all Videos, Readings, Key Terminology, and Check Your Understanding for the following sections:
         - [Introduction to ML](https://developers.google.com/machine-learning/crash-course/ml-intro)
