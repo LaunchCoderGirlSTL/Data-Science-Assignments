@@ -199,8 +199,8 @@ Repository for the Data Science learning track to host assignments.
 
 # Week 9
 ## Homework due Wednesday March 20, 2019 @ 6pm
-* Coursera Machine Learning Videos/Readings
-    - Enroll in Coursera's Machine Learning Cohort that starts on March 18th. You will be able to access lecture material today. [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
+    - Enroll in Coursera's Machine Learning Cohort that starts on March 18th: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) You will be able to access lecture material today.
     - Finish all Readings, Videos, and Quizzes for the following sections in [Week 1: Introduction](https://www.coursera.org/learn/machine-learning/home/week/1):
         - [Introduction](https://www.coursera.org/learn/machine-learning/home/week/1)
         - [Linear Regression with One Variable](https://www.coursera.org/learn/machine-learning/home/week/1)
