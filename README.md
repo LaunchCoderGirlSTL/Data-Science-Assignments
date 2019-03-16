@@ -199,4 +199,15 @@ Repository for the Data Science learning track to host assignments.
 
 # Week 9
 ## Homework due Wednesday March 20, 2019 @ 6pm
-* To be posted on Friday March 15, 2019
+* Coursera Machine Learning Videos/Readings
+    - Enroll in Coursera's Machine Learning Cohort that starts on March 18th. You will be able to access lecture material today. [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 1: Introduction](https://www.coursera.org/learn/machine-learning/home/week/1):
+        - [Introduction](https://www.coursera.org/learn/machine-learning/home/week/1)
+        - [Linear Regression with One Variable](https://www.coursera.org/learn/machine-learning/home/week/1)
+* Google Machine Learning Crash Course
+    - Enroll in Google's Machine Learning Crash course. The material is available antyime. [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
+    - Finish all Videos, Readings, Key Terminology, and Check Your Understanding for the following sections:
+        - [Introduction to ML](https://developers.google.com/machine-learning/crash-course/ml-intro)
+        - [Framing](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)
+        - [Descending into ML](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture)
+        - [Reducing Loss](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
