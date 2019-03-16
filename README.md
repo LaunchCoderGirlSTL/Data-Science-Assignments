@@ -229,4 +229,6 @@ Repository for the Data Science learning track to host assignments.
  
 ## In Class Assignment due Friday, March 22, 2019 @ 8pm
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
-    - Work through [01-introduction.ipynb](https://github.com/amueller/introduction_to_ml_with_python/blob/master/01-introduction.ipynb)
+    - Work through [Introduction to ML Notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/01-introduction.ipynb)
+* Bootstrapping Followup 
+    - Work through [Bootstrapping Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/bootstrapping.ipynb)
