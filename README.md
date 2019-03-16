@@ -204,6 +204,7 @@ Repository for the Data Science learning track to host assignments.
     - Finish all Readings, Videos, and Quizzes for the following sections in [Week 1: Introduction](https://www.coursera.org/learn/machine-learning/home/week/1):
         - [Introduction](https://www.coursera.org/learn/machine-learning/home/week/1)
         - [Linear Regression with One Variable](https://www.coursera.org/learn/machine-learning/home/week/1)
+
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
     - Enroll in Google's Machine Learning Crash course. The material is available antyime. [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
     - Finish all Videos, Readings, Key Terminology, and Check Your Understanding for the following sections:
@@ -211,3 +212,18 @@ Repository for the Data Science learning track to host assignments.
         - [Framing](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)
         - [Descending into ML](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture)
         - [Reducing Loss](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
+
+* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
+    - Clone or download the [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python) GitHub Repo. Ensure that all appropriate packages are installed on your computer before class Wednesday March 20th. We will be following through these notebooks as our In-Class Assignments. 
+    
+* [HackerRank](https://www.hackerrank.com/domains/mathematics?filters%5Bsubdomains%5D%5B%5D=linear-algebra-foundations)
+    - Solve the following HackerRank Linear Algebra Problems:
+        - [Linear Algebra Foundations #1 - Matrix Addition](https://www.hackerrank.com/challenges/linear-algebra-foundations-1/problem)
+        - [Linear Algebra Foundations #2 - Matrix Subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem)
+        - [Linear Algebra Foundations #3 - Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication/problem)
+        - [Linear Algebra Foundations #4 - Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication/problem)
+ 
+ 
+## In Class Assignment due Friday, March 22, 2019 @ 8pm
+* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
+    - Work through [01-introduction.ipynb](https://github.com/amueller/introduction_to_ml_with_python/blob/master/01-introduction.ipynb)
