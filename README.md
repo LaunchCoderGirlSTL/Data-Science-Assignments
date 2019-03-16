@@ -222,6 +222,9 @@ Repository for the Data Science learning track to host assignments.
         - [Linear Algebra Foundations #2 - Matrix Subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem)
         - [Linear Algebra Foundations #3 - Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication/problem)
         - [Linear Algebra Foundations #4 - Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication/problem)
+    - If you have trouble with any of the problems above, check out some of the review material on Khan Academy:
+        - [Adding vectors algebraically & graphically](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/adding-vectors)
+        - [Vector Examples](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-vector-examples)
  
  
 ## In Class Assignment due Friday, March 22, 2019 @ 8pm
