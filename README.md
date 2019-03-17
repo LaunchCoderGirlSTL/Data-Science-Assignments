@@ -214,7 +214,7 @@ Repository for the Data Science learning track to host assignments.
         - [Reducing Loss](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
 
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
-    - Clone or download the [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python) GitHub Repo. Ensure that all appropriate packages are installed on your computer before class Wednesday March 20th. We will be following through these notebooks as our In-Class Assignments. 
+    - Clone or download (click the green `Clone or Download` button) the entire [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python) GitHub Repo. Ensure that all appropriate packages are installed on your computer before class Wednesday March 20th. We will be following through these notebooks as our In-Class Assignments. 
     
 * [HackerRank](https://www.hackerrank.com/domains/mathematics?filters%5Bsubdomains%5D%5B%5D=linear-algebra-foundations)
     - Solve the following HackerRank Linear Algebra Problems:
