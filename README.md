@@ -253,6 +253,6 @@ Repository for the Data Science learning track to host assignments.
         
 ## In Class Assignment due Friday, March 29, 2019 @ 8pm
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
-    - Work through [Supervised Learning Notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/02-supervised-learning.ipynb) _only through Section:_ __Linear regression aka ordinary least squares__ This is a very long notebook and we will be working through the ML algorithms week-by-week. 
+    - Work through [Supervised Learning Notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/02-supervised-learning.ipynb) _through only Section:_ __Linear regression aka ordinary least squares__ This is a very long notebook and we will be working through the ML algorithms week-by-week. 
 
 
