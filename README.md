@@ -242,7 +242,11 @@ Repository for the Data Science learning track to host assignments.
         - [Linear Regression with Multiple Variables](https://www.coursera.org/learn/machine-learning/home/week/2)
 
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-    - Finish all Videos, Readings, Key Terminology, Playground Exercises, _Programming Assignments_, and Check Your Understanding for the following sections. If you didn't complete all items (*including Playground Exercises*) in [Introduction to ML](https://developers.google.com/machine-learning/crash-course/ml-intro), [Framing](https://developers.google.com/machine-learning/crash-course/framing/video-lecture), [Descending into ML](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture), or [Reducing Loss](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture), go back and finish all items.
-        - [First Steps with TF](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture)
+    - Finish all Videos, Readings, Key Terminology, Playground Exercises, _Programming Assignments_, and Check Your Understanding for the following sections. 
+        - [First Steps with TF](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture). There's are 3 _Programming Assignments_ with this section which will run on [Google's Colaboratory](https://colab.research.google.com/) platform. These are very similar to Jupyter notebooks, but will *not* run locally.  
+            - Quick Introduction to pandas
+            - First Steps with TensorFlow
+            - Synthetic Features and Outliers
         - [Generalization](https://developers.google.com/machine-learning/crash-course/generalization/)
+    - If you didn't complete all items in Week 9 (*including Playground Exercises*) in [Introduction to ML](https://developers.google.com/machine-learning/crash-course/ml-intro), [Framing](https://developers.google.com/machine-learning/crash-course/framing/video-lecture), [Descending into ML](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture), or [Reducing Loss](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture), go back and finish all items.
 
