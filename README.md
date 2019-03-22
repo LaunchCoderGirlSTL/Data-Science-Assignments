@@ -232,3 +232,17 @@ Repository for the Data Science learning track to host assignments.
     - Work through [Introduction to ML Notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/01-introduction.ipynb)
 * Bootstrapping Followup 
     - Work through [Bootstrapping Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/bootstrapping.ipynb)
+    
+    
+# Week 10
+## Homework due Wednesday March 20, 2019 @ 6pm
+* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
+    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 1](https://www.coursera.org/learn/machine-learning/home/week/1) and [Week 2](https://www.coursera.org/learn/machine-learning/home/week/2):
+        - [Linear Algebra Review](https://www.coursera.org/learn/machine-learning/home/week/1)
+        - [Linear Regression with Multiple Variables](https://www.coursera.org/learn/machine-learning/home/week/2)
+
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+    - Finish all Videos, Readings, Key Terminology, Playground Exercises, _Programming Assignments_, and Check Your Understanding for the following sections. If you didn't complete all items (*including Playground Exercises*) in [Introduction to ML](https://developers.google.com/machine-learning/crash-course/ml-intro), [Framing](https://developers.google.com/machine-learning/crash-course/framing/video-lecture), [Descending into ML](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture), or [Reducing Loss](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture), go back and finish all items.
+        - [First Steps with TF](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture)
+        - [Generalization](https://developers.google.com/machine-learning/crash-course/generalization/)
+
