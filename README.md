@@ -235,7 +235,7 @@ Repository for the Data Science learning track to host assignments.
     
     
 # Week 10
-## Homework due Wednesday March 20, 2019 @ 6pm
+## Homework due Wednesday March 27, 2019 @ 6pm
 * [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
     - Finish all Readings, Videos, and Quizzes for the following sections in [Week 1](https://www.coursera.org/learn/machine-learning/home/week/1) and [Week 2](https://www.coursera.org/learn/machine-learning/home/week/2):
         - [Linear Algebra Review](https://www.coursera.org/learn/machine-learning/home/week/1)
