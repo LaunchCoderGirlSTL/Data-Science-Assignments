@@ -249,5 +249,6 @@ Repository for the Data Science learning track to host assignments.
             - First Steps with TensorFlow
             - Synthetic Features and Outliers
         - [Generalization](https://developers.google.com/machine-learning/crash-course/generalization/)
+        - [Training and Test Sets](https://developers.google.com/machine-learning/crash-course/training-and-test-sets/video-lecture)
 
 
