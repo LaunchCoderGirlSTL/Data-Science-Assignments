@@ -250,5 +250,9 @@ Repository for the Data Science learning track to host assignments.
             - Synthetic Features and Outliers
         - [Generalization](https://developers.google.com/machine-learning/crash-course/generalization/)
         - [Training and Test Sets](https://developers.google.com/machine-learning/crash-course/training-and-test-sets/video-lecture)
+        
+## In Class Assignment due Friday, March 29, 2019 @ 8pm
+* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
+    - Work through [Supervised Learning Notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/02-supervised-learning.ipynb) _only through Section: *Linear regression aka ordinary least squares*_ This is a very long notebook and we will be working through the ML algorithms week-by-week. 
 
 
