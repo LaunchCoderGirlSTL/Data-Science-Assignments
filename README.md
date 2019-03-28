@@ -263,7 +263,7 @@ Repository for the Data Science learning track to host assignments.
         - [Regularization](https://www.coursera.org/learn/machine-learning/home/week/3)
 
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections. 
+    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
         - [Training and Test Sets](https://developers.google.com/machine-learning/crash-course/training-and-test-sets/video-lecture)
         - [Validation Set](https://developers.google.com/machine-learning/crash-course/validation/check-your-intuition)
         - [Regularization for Simplicity](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/playground-exercise-overcrossing)
