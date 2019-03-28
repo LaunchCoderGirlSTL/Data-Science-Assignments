@@ -255,4 +255,20 @@ Repository for the Data Science learning track to host assignments.
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
     - Work through [Supervised Learning Notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/02-supervised-learning.ipynb) _through only Section:_ __Linear regression aka ordinary least squares__ This is a very long notebook and we will be working through the ML algorithms week-by-week. 
 
+# Week 11
+## Homework due Wednesday April 3, 2019 @ 6pm
+* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
+    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 3](https://www.coursera.org/learn/machine-learning/home/week/3):
+        - [Logisitic Regression](https://www.coursera.org/learn/machine-learning/home/week/3)
+        - [Regularization](https://www.coursera.org/learn/machine-learning/home/week/3)
 
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections. 
+        - [Training and Test Sets](https://developers.google.com/machine-learning/crash-course/training-and-test-sets/video-lecture)
+        - [Validation Set](https://developers.google.com/machine-learning/crash-course/validation/check-your-intuition)
+        - [Regularization for Simplicity](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/playground-exercise-overcrossing)
+        - [Logistic Regression](https://developers.google.com/machine-learning/crash-course/logistic-regression/video-lecture)
+
+## In Class Assignment due Friday, April 5, 2019 @ 8pm
+* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
+    - Work through [Supervised Learning Notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/02-supervised-learning.ipynb) _through only Section:_ __Linear models for multiclass classification__ This is a very long notebook and we will be working through the ML algorithms week-by-week. 
