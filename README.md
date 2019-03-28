@@ -270,5 +270,4 @@ Repository for the Data Science learning track to host assignments.
         - [Logistic Regression](https://developers.google.com/machine-learning/crash-course/logistic-regression/video-lecture)
 
 ## In Class Assignment due Friday, April 5, 2019 @ 8pm
-* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
-    - Work through [Supervised Learning Notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/02-supervised-learning.ipynb) _through only Section:_ __Linear models for multiclass classification__ This is a very long notebook and we will be working through the ML algorithms week-by-week. 
+*  Will post new notebooks shortly with more explanation
