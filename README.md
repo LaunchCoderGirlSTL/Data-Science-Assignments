@@ -268,7 +268,8 @@ Repository for the Data Science learning track to host assignments.
         - [Validation Set](https://developers.google.com/machine-learning/crash-course/validation/check-your-intuition)
         - [Regularization for Simplicity](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/playground-exercise-overcrossing)
         - [Logistic Regression](https://developers.google.com/machine-learning/crash-course/logistic-regression/video-lecture)
-* Will also be posting a notebook to practice the material above. 
+* [Harvard CS109](https://github.com/cs109/content)
+    - Work through [Bias, Variance, Cross-Validation](https://nbviewer.jupyter.org/github/cs109/content/blob/master/labs/lab5/Lab5.ipynb) Notebook
 
 ## In Class Assignment due Friday, April 5, 2019 @ 8pm
 *  Will post new notebooks shortly with more explanation
