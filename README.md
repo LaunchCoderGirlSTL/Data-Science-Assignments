@@ -272,4 +272,5 @@ Repository for the Data Science learning track to host assignments.
     - Work through [Bias, Variance, Cross-Validation](https://nbviewer.jupyter.org/github/cs109/content/blob/master/labs/lab5/Lab5.ipynb) Notebook
 
 ## In Class Assignment due Friday, April 5, 2019 @ 8pm
-*  Will post new notebooks shortly with more explanation
+*  [Harvard CS109](https://github.com/cs109/content)
+    - Work through [Sklearn, Regression, PCA](https://nbviewer.jupyter.org/github/cs109/content/blob/master/labs/lab4/Lab4full.ipynb)
