@@ -274,3 +274,7 @@ Repository for the Data Science learning track to host assignments.
 ## In Class Assignment due Friday, April 5, 2019 @ 8pm
 *  [Harvard CS109](https://github.com/cs109/content)
     - Work through [Sklearn, Regression, PCA](https://nbviewer.jupyter.org/github/cs109/content/blob/master/labs/lab4/Lab4full.ipynb) Notebook
+    
+# Week 12
+## Homework due Wednesday April 10, 2019 @ 6pm
+*  Catch up Week! :) Make sure that you are caught up on all assignments through the Week 11 In Class Assignment
