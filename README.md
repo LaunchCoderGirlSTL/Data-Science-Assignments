@@ -278,3 +278,14 @@ Repository for the Data Science learning track to host assignments.
 # Week 12
 ## Homework due Wednesday April 10, 2019 @ 6pm
 *  Catch up Week! :) Make sure that you are caught up on all assignments through the Week 11 In Class Assignment
+
+# Week 13
+## Homework due Wednesday April 17, 2019 @ 6pm
+* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
+    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 4](https://www.coursera.org/learn/machine-learning/home/week/4):
+        - [Neural Networks: Representation](https://www.coursera.org/learn/machine-learning/home/week/4)
+
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
+        - [Representation](https://developers.google.com/machine-learning/crash-course/representation/video-lecture)
+        - [Feature Crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses/video-lecture)
