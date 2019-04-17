@@ -289,3 +289,6 @@ Repository for the Data Science learning track to host assignments.
     - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
         - [Representation](https://developers.google.com/machine-learning/crash-course/representation/video-lecture)
         - [Feature Crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses/video-lecture)
+        
+## In Class Assignment due Friday April 19, 2019 @ 8pm
+* Work through [Dense NN MINST Notebook](https://github.com/cschlosberg/codergirl-python/blob/master/Dense-NN-MINST_clean.ipynb)
