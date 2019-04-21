@@ -290,11 +290,11 @@ Repository for the Data Science learning track to host assignments.
         - [Representation](https://developers.google.com/machine-learning/crash-course/representation/video-lecture)
         - [Feature Crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses/video-lecture)
         
-## In Class Assignment due Friday April 19, 2019 @ 8pm
+## In Class Assignment due Wednesday April 24th, 2019 @ 6pm
 * Work through [Dense NN MINST Notebook](https://github.com/cschlosberg/codergirl-python/blob/master/Dense-NN-MINST_clean.ipynb)
 
 # Week 14
-## Homework due Wednesday April 24th, 2019 @6pm
+## Homework due Wednesday April 24th, 2019 @ 6pm
 * [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
     - Finish all Readings, Videos, and Quizzes for the following sections in [Week 5](https://www.coursera.org/learn/machine-learning/home/week/5):
         - [Neural Networks: Learning](https://www.coursera.org/learn/machine-learning/home/week/5)
