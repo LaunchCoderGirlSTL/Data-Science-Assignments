@@ -317,4 +317,3 @@ Repository for the Data Science learning track to host assignments.
         - [Classification](https://developers.google.com/machine-learning/crash-course/classification/video-lecture)
         - [Regularization: Sparsity](https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/video-lecture)
         - [Mutli-Class Neural Networks](https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/video-lecture)
-
