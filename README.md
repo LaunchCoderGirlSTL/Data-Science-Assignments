@@ -304,10 +304,10 @@ Repository for the Data Science learning track to host assignments.
         - [Neural Networks](https://developers.google.com/machine-learning/crash-course/representation/video-lecture)
         - [Training Neural Networks](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/video-lecture)
 
-# In Class Assignment
+## In Class Assignment
 * No In-Class Assignment due. Make sure to finish Week 13 In Class Assignment
 
-# Deep Learning Specialization
+## Deep Learning Specialization
 * For those of you interested in learning more in-depth material about Neural Networks, we highly recommend you to complete the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning). This is a 5 course series from Coursera which deals with implementing a set of state-of-the-art Neural Networks. This is well beyond the scope of CoderGirl- Data Science, but we wanted to keep this here as a reference. 
 
 # Week 15
