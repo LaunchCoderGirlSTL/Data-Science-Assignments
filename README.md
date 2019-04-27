@@ -303,3 +303,18 @@ Repository for the Data Science learning track to host assignments.
     - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
         - [Neural Networks](https://developers.google.com/machine-learning/crash-course/representation/video-lecture)
         - [Training Neural Networks](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/video-lecture)
+
+# In Class Assignment
+* No In-Class Assignment due. Make sure to finish Week 13 In Class Assignment
+
+# Deep Learning Specialization
+* For those of you interested in learning more in-depth material about Neural Networks, we highly recommend you to complete the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning). This is a 5 course series from Coursera which deals with implementing a set of state-of-the-art Neural Networks. This is well beyond the scope of CoderGirl- Data Science, but we wanted to keep this here as a reference. 
+
+# Week 15
+## Homework due Wednesday May 1st, 2019 @ 6pm
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
+        - [Classification](https://developers.google.com/machine-learning/crash-course/classification/video-lecture)
+        - [Regularization: Sparsity](https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/video-lecture)
+        - [Mutli-Class Neural Networks](https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/video-lecture)
+
