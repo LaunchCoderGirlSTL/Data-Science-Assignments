@@ -323,4 +323,4 @@ Repository for the Data Science learning track to host assignments.
 
 ## In Class Assignment due Friday May 3rd, 2019 @ 8pm
 * Work through [Fashion CNN Notebook](https://github.com/cschlosberg/codergirl-python/blob/master/Fashion-CNN-Clean.ipynb)
-* Use [Keras Cheat Sheet](https://www.datacamp.com/community/blog/keras-cheat-sheet) if needed
+* Use [Keras Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf) if needed
