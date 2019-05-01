@@ -320,3 +320,7 @@ Repository for the Data Science learning track to host assignments.
 
 * Introduction to Convolutional Neural Networks
     - Read [An Initutive Explanation of Convnets](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+
+## In Class Assignment due Friday May 3rd, 2019 @ 8pm
+* Work through [Fashion CNN Notebook](https://github.com/cschlosberg/codergirl-python/blob/master/Fashion-CNN-Clean.ipynb)
+* Use [Keras Cheat Sheet](https://www.datacamp.com/community/blog/keras-cheat-sheet) if needed
