@@ -324,3 +324,11 @@ Repository for the Data Science learning track to host assignments.
 ## In Class Assignment due Friday May 3rd, 2019 @ 8pm
 * Work through [Fashion CNN Notebook](https://github.com/cschlosberg/codergirl-python/blob/master/Fashion-CNN-Clean.ipynb)
 * Use [Keras Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf) if needed
+
+# Week 16
+## Homework due Wednesday May 8th, 2019 @ 6pm
+* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
+    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 6](https://www.coursera.org/learn/machine-learning/home/week/6):
+        - [Advice for Applying Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/6)
+        - [Machine Learning System Design](https://www.coursera.org/learn/machine-learning/home/week/6)
+        
