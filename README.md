@@ -331,4 +331,5 @@ Repository for the Data Science learning track to host assignments.
     - Finish all Readings, Videos, and Quizzes for the following sections in [Week 6](https://www.coursera.org/learn/machine-learning/home/week/6):
         - [Advice for Applying Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/6)
         - [Machine Learning System Design](https://www.coursera.org/learn/machine-learning/home/week/6)
+* Work through notebook on [Parameter Selection, Validation & Testing](https://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx/_downloads/1595fc68fe26fcfe91326d0810a99d42/08_validation_and_learning_curves.ipynb)
         
