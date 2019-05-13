@@ -335,3 +335,9 @@ Repository for the Data Science learning track to host assignments.
  
 ## In Class Assignment due Friday May 10th, 2019 @ 8pm
 * Read [Bias Variance Tradeoff Post](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+
+# Week 17
+## Homework due Wednesday May 15th, 2019 @ 6pm
+* Read the following post on [Decision Trees](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
+* Read the following post on [Decision Trees and Random Forest](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)
+* Read the following post on [Random Forest, AdaBoost, and Gradient Boosted Trees](https://towardsdatascience.com/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725)
