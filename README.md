@@ -361,5 +361,5 @@ Repository for the Data Science learning track to host assignments.
         - [Dimensionality Reduction](https://www.coursera.org/learn/machine-learning/home/week/8)
 * Read survey on [Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
 
-## In Class Assignment due Wednesday June 5th, 2019 @8pm
+## In Class Assignment due Wednesday May 31st, 2019 @8pm
 * Work through [PCA step-by-step](https://code.likeagirl.io/principal-component-analysis-dimensionality-reduction-technique-step-by-step-approach-ffd46623ff67)
