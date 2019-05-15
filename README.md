@@ -341,3 +341,25 @@ Repository for the Data Science learning track to host assignments.
 * Read the following post on [Decision Trees](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
 * Read the following post on [Decision Trees and Random Forest](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)
 * Read the following post on [Random Forest, AdaBoost, and Gradient Boosted Trees](https://towardsdatascience.com/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725)
+
+# Week 18 
+## Homework due Wednesday May 22nd, 2019 @ 6pm
+* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
+    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 8](https://www.coursera.org/learn/machine-learning/home/week/8):
+        - [Unsupervised Learning](https://www.coursera.org/learn/machine-learning/home/week/8)
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
+        - [Overview](https://developers.google.com/machine-learning/clustering/overview)
+        - [Clustering Workflow](https://developers.google.com/machine-learning/clustering/workflow)
+            - [Create a Manual Similarity Measure](https://developers.google.com/machine-learning/clustering/similarity/manual-similarity) section is optional
+        - [Summary](https://developers.google.com/machine-learning/clustering/algorithm/advantages-disadvantages)
+        
+# Week 19
+## Homework due Wednesday May 29th, 2019 @ 6pm
+* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
+    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 8](https://www.coursera.org/learn/machine-learning/home/week/8):
+        - [Dimensionality Reduction](https://www.coursera.org/learn/machine-learning/home/week/8)
+* Read survey on [Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
+
+## In Class Assignment due Wednesday June 5th, 2019 @8pm
+* Work through [PCA step-by-step](https://code.likeagirl.io/principal-component-analysis-dimensionality-reduction-technique-step-by-step-approach-ffd46623ff67)
