@@ -342,6 +342,10 @@ Repository for the Data Science learning track to host assignments.
 * Read the following post on [Decision Trees and Random Forest](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)
 * Read the following post on [Random Forest, AdaBoost, and Gradient Boosted Trees](https://towardsdatascience.com/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725)
 
+## Follow up Readings
+* Read the following post on [AdaBoost](https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e)
+* Read the following post on [Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+
 # Week 18 
 ## Homework due Wednesday May 22nd, 2019 @ 6pm
 * [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
