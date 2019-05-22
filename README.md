@@ -358,6 +358,9 @@ Repository for the Data Science learning track to host assignments.
             - [Create a Manual Similarity Measure](https://developers.google.com/machine-learning/clustering/similarity/manual-similarity) section is optional
         - [Summary](https://developers.google.com/machine-learning/clustering/algorithm/advantages-disadvantages)
         
+## Homework due Friday, May 24 @ 8pm
+* [k-means notebook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb#scrollTo=28c3t_Tr3Vhv) up through Example 1. Stop at Example 2.
+        
 # Week 19
 ## Homework due Wednesday May 29th, 2019 @ 6pm
 * [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
@@ -365,5 +368,10 @@ Repository for the Data Science learning track to host assignments.
         - [Dimensionality Reduction](https://www.coursera.org/learn/machine-learning/home/week/8)
 * Read survey on [Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
 
-## In Class Assignment due Friday May 31st, 2019 @8pm
+## In Class Assignment due Friday May 31st, 2019 @ 8pm
 * Work through [PCA step-by-step](https://code.likeagirl.io/principal-component-analysis-dimensionality-reduction-technique-step-by-step-approach-ffd46623ff67)
+
+# Week 20
+## Homework due Wednesday, June 5 @ 6pm
+* [Git lesson](http://swcarpentry.github.io/git-novice/) on Software Carpentry.
+    - Work through the first 10 lessons.
