@@ -375,3 +375,6 @@ Repository for the Data Science learning track to host assignments.
 ## Homework due Wednesday, June 5 @ 6pm
 * [Git lesson](http://swcarpentry.github.io/git-novice/) on Software Carpentry.
     - Work through the first 10 lessons.
+* Additional resources (not homework):
+    - [git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
+    - [git for scientists](http://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html#/)
