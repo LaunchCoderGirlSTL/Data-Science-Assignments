@@ -383,7 +383,7 @@ Repository for the Data Science learning track to host assignments.
     - [git for scientists](http://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html#/)
 
 ## Mini-Project I
-* Start Explortatory Data Analysis (EDA) 
+* Start Explortatory Data Analysis (EDA) on [Heart Disease Kaggle Project](https://www.kaggle.com/ronitf/heart-disease-uci)
 
 # Week 22
 ## Homework due Wednesday, June 19 @ 6pm
