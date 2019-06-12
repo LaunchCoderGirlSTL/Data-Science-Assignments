@@ -372,7 +372,10 @@ Repository for the Data Science learning track to host assignments.
 * Work through [PCA step-by-step](https://code.likeagirl.io/principal-component-analysis-dimensionality-reduction-technique-step-by-step-approach-ffd46623ff67)
 
 # Week 20
-## Homework due Wednesday, June 5 @ 6pm
+## Homework Catchup/Work Ahead
+
+# Week 21
+## Homework due Wednesday, June 12 @ 6pm
 * [Git lesson](http://swcarpentry.github.io/git-novice/) on Software Carpentry.
     - Work through the first 10 lessons.
 * Additional resources (not homework):
