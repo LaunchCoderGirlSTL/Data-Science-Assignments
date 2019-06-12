@@ -381,3 +381,24 @@ Repository for the Data Science learning track to host assignments.
 * Additional resources (not homework):
     - [git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
     - [git for scientists](http://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html#/)
+
+## Mini-Project I
+* Start Explortatory Data Analysis (EDA) 
+
+# Week 22
+## Homework due Wednesday, June 19 @ 6pm
+* Post the link to your GitHub repo for Mini-Project I: EDA
+
+## Mini-Project II
+* Start model exploration
+
+# Week 23
+## Homework due Wednesday, June 26 @ 6pm
+* Post the link to your GitHub repo for Mini-Project II: Modeling
+
+## Mini-Project III
+* Start plotting and presentation
+
+# Week 24
+## Homework due Wednesday, July 3 @ 6pm
+* Post the link to your GitHub repo for Mini-Project III: Presentation
