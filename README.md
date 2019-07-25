@@ -31,8 +31,12 @@ Repository for the Data Science learning track to host assignments.
     - [Verify](https://help.github.com/articles/testing-your-ssh-connection/) your SSH connection.
     
 ## In Class Assignment due Friday July 26, 2019 @ 8pm
-* Finish working through the [Intro to Python notebook](http://nbviewer.jupyter.org/github/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-scrubbed.ipynb).
-    - Note this version has no "answers" -- none of the cells are executed. You can work through all the sections, but minimally work through the code blocks we didn't get through Wednesday night.
+* Readings (Plotting and Programming in Python)
+    - [Running and Quiting](http://swcarpentry.github.io/python-novice-gapminder/01-run-quit/index.html)
+    - [Variables and Assignment](http://swcarpentry.github.io/python-novice-gapminder/02-variables/index.html)
+    - [Data Types and Type Conversion](http://swcarpentry.github.io/python-novice-gapminder/03-types-conversion/index.html)
+    - [Built-In Functions and Help](http://swcarpentry.github.io/python-novice-gapminder/04-built-in/index.html)
+    - [Libraries](http://swcarpentry.github.io/python-novice-gapminder/06-libraries/index.html)
 
 # Week 3
 ## Homework due Wednesday July 31, 2019 @ 6pm
