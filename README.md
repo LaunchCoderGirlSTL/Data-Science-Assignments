@@ -70,6 +70,7 @@ Repository for the Data Science learning track to host assignments.
 
 ## In Class Assignment due Friday August 2, 2019 @ 8pm
 * Finish working through the [Intro to Python 2 notebook](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-2-scrubbed.ipynb)
+    - [Solution](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-2.ipynb)
 
 # Week 4
 ## Homework due Wednesday August 7, 2019 @ 6pm
@@ -106,11 +107,11 @@ Repository for the Data Science learning track to host assignments.
         - Exploratory analysis with `matplotlib` - [Retail dataset](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/online-retail-plotting.ipynb)
 
 * Coding challenges: 
-    - Notebooks with fill-in-the-blank code blocks - _will be posted by 12p Friday, Feb 15_.
+    - Notebooks with fill-in-the-blank code blocks 
         - Reading in & assembling Pandas Data Frames - [Occupations dataset](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/occupations/occupation-getting-and-knowing-blanks-scrubbed.ipynb)
-            - [Executed](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/occupations/occupation-getting-and-knowing-blanks-with-solutions.ipynb) but no solutions.
+            - [Solutions](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/occupations/occupation-getting-and-knowing-solutions.ipynb)
         - Plotting practice - [Titanic dataset](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/titanic/titanic-plotting-blanks-scrubbed.ipynb)
-            - [Executed](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/titanic/titanic-plotting-blanks-with-solutions.ipynb) but no solutions.
+            - [Solutions](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/titanic/titanic-plotting-solutions.ipynb)
     - Hackerrank
         - [Numpy array stats](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
         - [Floating point practice](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
@@ -119,7 +120,7 @@ Repository for the Data Science learning track to host assignments.
 ## In Class Assignment due Friday August 16, 2019 @ 8pm
 * Work through ONE notebooks:
     - More plotting practice - [tips notebook](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/tips/tips-plotting-blanks-scrubbed.ipynb)
-        - [Executed](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/tips/tips-plotting-blanks-executed.ipynb)
+        - [Solutions](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/tips/tips-plotting-solutions.ipynb)
 
 # Week 6
 ## Homework due Wednesday August 21, 2019 @ 6pm
