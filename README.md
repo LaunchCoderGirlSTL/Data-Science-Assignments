@@ -384,14 +384,15 @@ Repository for the Data Science learning track to host assignments.
 ## No Class - Thanksgiving
 
 # Week 21
-## Mini-Project I: Homework due Wednesday, December 4 @ 6pm
-* Perform Explortatory Data Analysis (EDA) on [Heart Disease Kaggle Project](https://www.kaggle.com/ronitf/heart-disease-uci)
-* Post the link to your GitHub repo for Mini-Project I: EDA
+## Mini-Project: Homework due Wednesday, December 4 @ 6pm
+* _Homework canceled for this week and moved to next week._
+* In-class review of python basics, EDA, and previous EDA notebooks.
 
 # Week 22
-## Mini-Project II: Homework due Wednesday, December 11 @ 6pm
-* Post the link to your GitHub repo for Mini-Project II: Modeling
+## Mini-Project: Homework due Wednesday, December 11 @ 6pm
+* Perform Explortatory Data Analysis (EDA) on [Heart Disease Kaggle Project](https://www.kaggle.com/ronitf/heart-disease-uci)
+* Post the link to your GitHub repo for Mini-Project part I: EDA
 
 # Week 23
-## Mini-Project III: Homework due Wednesday, December 18 @ 6pm
-* Post the link to your GitHub repo for Mini-Project III: Presentation
+## Mini-Project: Homework due Wednesday, December 18 @ 6pm
+* Post the link to your GitHub repo for Mini-Project part II: Modeling
