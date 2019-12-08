@@ -395,14 +395,14 @@ Repository for the Data Science learning track to host assignments.
     - Your notebook should address each of the following:
         - Data issues: missing values, duplicate values, outliers
         - Data cleaning solutions: imputation/estimation, dropping entries -- justify your choices!
-        - Describe the realtionship of features to your target. 
+        - Describe the realtionship of features to your target (should include at least a few plots). 
         - Feature engineering (transformation, normalization, createing new combinations of features, etc), if you think this is necessary. Describe your rationale.
 
 # Week 23
 ## Mini-Project: Homework due Wednesday, December 18 @ 6pm
 * Post the link to your GitHub repo for Mini-Project part II: Modeling
     - Your modeling notebook should include each of the following:
-        - (Feature engineering, if not captured in the EDA notebook)
+        - (Feature engineering, if not captured in the EDA notebook. Sometimes it is easier or makes more sense to do feature engineering in the same notebook as your model.)
         - Splitting data into train/test sets
         - Build (at least one) model
         - Predict test set using model(s)
