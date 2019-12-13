@@ -380,15 +380,14 @@ Repository for the Data Science learning track to host assignments.
 ## In Class Assignment due Friday November 22 @ 8pm
 * Read following material on [Scientific Presentation](https://www.northwestern.edu/climb/resources/oral-communication-skills/creating-a-presentation.html)
 
-# Week 20
-## No Class - Thanksgiving
+# No Class - Thanksgiving
 
-# Week 21
+# Week 20
 ## Mini-Project: Homework due Wednesday, December 4 @ 6pm
 * _Homework canceled for this week and moved to next week._
 * In-class review of python basics, EDA, and previous EDA notebooks.
 
-# Week 22
+# Week 21
 ## Mini-Project: Homework due Wednesday, December 11 @ 6pm
 * Perform Explortatory Data Analysis (EDA) on [Heart Disease Kaggle Project](https://www.kaggle.com/ronitf/heart-disease-uci)
 * Post the link to your GitHub repo for Mini-Project part I: EDA
@@ -398,7 +397,7 @@ Repository for the Data Science learning track to host assignments.
         - Describe the realtionship of features to your target (should include at least a few plots). 
         - Feature engineering (transformation, normalization, createing new combinations of features, etc), if you think this is necessary. Describe your rationale.
 
-# Week 23
+# Week 22
 ## Mini-Project: Homework due Wednesday, December 18 @ 6pm
 * Post the link to your GitHub repo for Mini-Project part II: Modeling
     - Your modeling notebook should include each of the following:
