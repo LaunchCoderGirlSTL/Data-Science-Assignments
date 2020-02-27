@@ -94,8 +94,8 @@ Repository for the Data Science learning track to host assignments.
     - [Reshape arrays](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
 
 ## In Class Assignment due Friday February 21, 2020 @ 8pm
-*Upload as much as you were able to finish of the Lists and Loops notebook (posted on slack and in Week 4 folder in course materials in Github file directory)
-*Finish working through the [Numerical computing notebook](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/numerical-slides-scrubbed.ipynb) and the associated readings (linked in the notebook).
+* Upload as much as you were able to finish of the Lists and Loops notebook (posted on slack and in Week 4 folder in course materials in Github file directory)
+* Finish working through the [Numerical computing notebook](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/numerical-slides-scrubbed.ipynb) and the associated readings (linked in the notebook).
 
 # Week 5
 ## Homework due Wednesday February 26, 2020 @ 5:30pm
