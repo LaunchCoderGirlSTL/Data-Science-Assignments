@@ -119,8 +119,8 @@ Repository for the Data Science learning track to host assignments.
         - [Working with integers](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
 
 ## In Class Assignment due Friday February 28, 2020 @ 8pm
-*Finish numpy notebook (posted on slack and in Week 4 folder in course materials in Github file directory)
-*Work through ONE notebooks:
+* Finish numpy notebook (posted on slack and in Week 4 folder in course materials in Github file directory)
+* Work through ONE notebooks:
     - More plotting practice - [tips notebook](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/tips/tips-plotting-blanks-scrubbed.ipynb)
         - [Solutions](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/tips/tips-plotting-solutions.ipynb)
 
