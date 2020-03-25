@@ -236,6 +236,7 @@ Repository for the Data Science learning track to host assignments.
     - Work through [Introduction to ML Notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/01-introduction.ipynb)
 * Bootstrapping Followup 
     - Work through [Bootstrapping Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/bootstrapping.ipynb)
+* Please take the Data Science course survey Julie will send out
     
     
 # Week 10
