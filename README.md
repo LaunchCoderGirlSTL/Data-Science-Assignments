@@ -348,7 +348,11 @@ Repository for the Data Science learning track to host assignments.
 * Read the following post on [Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 
 # Week 17
-## Homework due Wednesday May 20, 2020 @ 5:30pm
+## No homework for Wednesday May 20, 2020 @ 5:30pm
+* Career class - discussion of interviews/data science careers
+        
+# Week 18
+## Homework due Wednesday May 27, 2020 @ 5:30pm
 * [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
     - Finish all Readings, Videos, and Quizzes for the following sections in [Week 8](https://www.coursera.org/learn/machine-learning/home/week/8):
         - [Unsupervised Learning](https://www.coursera.org/learn/machine-learning/home/week/8)
@@ -359,37 +363,37 @@ Repository for the Data Science learning track to host assignments.
             - [Create a Manual Similarity Measure](https://developers.google.com/machine-learning/clustering/similarity/manual-similarity) section is optional
         - [Summary](https://developers.google.com/machine-learning/clustering/algorithm/advantages-disadvantages)
         
-## In Class Assignment due Friday May 22, 2020 @ 8pm
+## In Class Assignment due Friday May 29, 2020 @ 8pm
 * [k-means notebook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb#scrollTo=28c3t_Tr3Vhv) up through Example 1. Stop at Example 2.
         
-# Week 18
-## Homework due Wednesday May 27, 2020 @ 5:30pm
+# Week 19
+## Homework due Wednesday June 3, 2020 @ 5:30pm
 * [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
     - Finish all Readings, Videos, and Quizzes for the following sections in [Week 8](https://www.coursera.org/learn/machine-learning/home/week/8):
         - [Dimensionality Reduction](https://www.coursera.org/learn/machine-learning/home/week/8)
 * Read survey on [Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
 
-## In Class Assignment due Friday May 29, 2020 @ 8pm
+## In Class Assignment due Friday June 5, 2020 @ 8pm
 * Work through [PCA step-by-step](https://code.likeagirl.io/principal-component-analysis-dimensionality-reduction-technique-step-by-step-approach-ffd46623ff67)
 
-# Week 19
-## Homework due Wednesday June 3, 2020 @ 5:30pm
+# Week 20
+## Homework due Wednesday June 10, 2020 @ 5:30pm
 * [Git lesson](http://swcarpentry.github.io/git-novice/) on Software Carpentry.
     - Work through the first 10 lessons.
 * Additional resources (not homework):
     - [git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
     - [git for scientists](http://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html#/)
 
-## In Class Assignment due Friday June 5, 2020 @ 8pm
+## In Class Assignment due Friday June 12, 2020 @ 8pm
 * Read following material on [Scientific Presentation](https://www.northwestern.edu/climb/resources/oral-communication-skills/creating-a-presentation.html)
 
 
-# Week 20
-## Mini-Project: Homework due Wednesday, June 10, 2020 @ 5:30pm
-* In-class review of python basics, EDA, and previous EDA notebooks.
-
 # Week 21
 ## Mini-Project: Homework due Wednesday, June 17, 2020 @ 5:30pm
+* In-class review of python basics, EDA, and previous EDA notebooks.
+
+# Week 22
+## Mini-Project: Homework due Wednesday, June 24, 2020 @ 5:30pm
 * Perform Explortatory Data Analysis (EDA) on [Heart Disease Kaggle Project](https://www.kaggle.com/ronitf/heart-disease-uci)
 * Post the link to your GitHub repo for Mini-Project part I: EDA
     - Your notebook should address each of the following:
@@ -398,8 +402,8 @@ Repository for the Data Science learning track to host assignments.
         - Describe the realtionship of features to your target (should include at least a few plots). 
         - Feature engineering (transformation, normalization, createing new combinations of features, etc), if you think this is necessary. Describe your rationale.
 
-# Week 22
-## Mini-Project: Homework due Wednesday, June 24, 2020 @ 5:30pm
+# Week 23
+## Mini-Project: Homework due Wednesday, July 1, 2020 @ 5:30pm
 * Post the link to your GitHub repo for Mini-Project part II: Modeling
     - Your modeling notebook should include each of the following:
         - (Feature engineering, if not captured in the EDA notebook. Sometimes it is easier or makes more sense to do feature engineering in the same notebook as your model.)
