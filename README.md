@@ -345,7 +345,7 @@ Repository for the Data Science learning track to host assignments.
 
 ## In Class Assignment due Friday May 15, 2020 @ 8pm
 * Read the following post on [AdaBoost](https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e)
-* Read the following post on [Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+* Read the following post on [Gradient Boosting](https://www.gormanalysis.com/blog/gradient-boosting-explained/)
 
 # Week 17
 ## No homework for Wednesday May 20, 2020 @ 5:30pm
