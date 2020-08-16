@@ -1,399 +1,131 @@
 # Data-Science-Assignments
 Repository for the Data Science learning track to host assignments.
 
-# Week 1
-## In Class Assignment due Saturday January 25, 2020 @ 8pm
-* Readings (The Unix Shell)
-    - [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/index.html)
-    - [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/index.html)
-    - [Working with Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html)
-    - [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html)
+# Week 1 - Introductions and Python
+## In Class Assignment due Friday, Aug 21, 2020 @ 8pm
 
-# Week 2
-## Homework due Wednesday January 29, 2020 @ 5:30pm
-* Readings
-    - [Hello World tutorial](https://www.learnpython.org/en/Hello,_World!)
-    - [Data types & data structures](https://www.datacamp.com/community/tutorials/data-structures-python)
-    - [String manipulations](http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation)
-    - [If-else](https://www.w3schools.com/python/python_conditions.asp)
+# Week 2 - Python: Math, Strings, If-Else, Expressions
+## Homework due Wednesday, Aug 26, 2020 @ 5:30pm    
     
-* Signup for Hackerrank and complete the following Hackerrank challenges.
-    - [Python Hello World](https://www.hackerrank.com/challenges/py-hello-world/problem)
-    - [Basic math](https://www.hackerrank.com/challenges/python-division/problem)
-    - [String manipulations](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
-    - [String manipulations 2](https://www.hackerrank.com/challenges/python-mutations/problem)
-    - [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
-    
-* Setup & configure git
-    - Create a [GitHub](https://github.com/) account.
-    - [Create an SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/).
-    - [Link your SSH key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
-    - [Verify](https://help.github.com/articles/testing-your-ssh-connection/) your SSH connection.
-    
-## In Class Assignment due Friday January 31, 2020 @ 8pm
-* Readings (Plotting and Programming in Python)
-    - [Running and Quitting](http://swcarpentry.github.io/python-novice-gapminder/01-run-quit/index.html)
-    - [Variables and Assignment](http://swcarpentry.github.io/python-novice-gapminder/02-variables/index.html)
-    - [Data Types and Type Conversion](http://swcarpentry.github.io/python-novice-gapminder/03-types-conversion/index.html)
-    - [Built-In Functions and Help](http://swcarpentry.github.io/python-novice-gapminder/04-built-in/index.html)
-    - [Libraries](http://swcarpentry.github.io/python-novice-gapminder/06-libraries/index.html)
+## In Class Assignment due Friday, Aug 28, 2020 @ 8pm
 
-# Week 3 (Delayed for weather)
-## Homework due Wednesday February 12, 2020 @ 5:30pm
-* Readings
-    - [Loops](https://www.datacamp.com/community/tutorials/loops-python-tutorial)
-    - [Functions](https://www.datacamp.com/community/tutorials/functions-python-tutorial)
-    - [Modulo documentation](https://python-reference.readthedocs.io/en/latest/docs/operators/modulus.html)
-        - Supplemental (not required): [Modulo video](https://www.youtube.com/watch?v=ythAmIKawv0). You'll need to use the *modulo* operator for one of your homeworks. If the documentation below isn't enough to help you solve the challenge, see the video as well.
-    - [List comprehensions](https://www.datacamp.com/community/tutorials/python-list-comprehension)
-        - Supplemental (not required): [more on list comprehensions](https://www.python-course.eu/python3_list_comprehension.php)
-    - [Lambda functions & map, filter, reduce](https://www.python-course.eu/python3_lambda.php)
+
+# Week 3 - Python: Loops, Functions, Classes
+## Homework due Wednesday, Sept 2, 2020 @ 5:30pm
+
+## In Class Assignment due Friday, Sept 4, 2020 @ 8pm
+
+
+# Week 4 - Python: Numpy Arrays
+## Homework due Wednesday, Sept 9, 2020 @ 5:30pm
+
+## In Class Assignment due Friday, Sept 11, 2020 @ 8pm
+
+
+# Week 5 - Python: Pandas Dataframes
+## Homework due Wednesday, Sept 16, 2020 @ 5:30pm
+
+## In Class Assignment due Friday, Sept 18, 2020 @ 8pm
+
+
+# Week 6 - Python: Data Visualization
+## Homework due Wednesday, Sept 23, 2020 @ 5:30pm
+
+## In Class Assignment due Friday, Sept 25, 2020 @ 8pm
+
+
+# Week 7 - SQL I
+## Homework due Wednesday, Sept 30, 2020 @ 5:30pm
+
+## In Class Assignment due Wednesday, Oct 2, 2020 @ 8pm
+
+
+# Week 8 - SQL II
+## Homework due Wednesday, Oct 7 2020 @ 5:30pm
+
+## In Class Assignment due Friday, Oct 9, 2020 @ 8pm
+
+
+# Week 9 - Career Week
+## No Homework or in-class due this week
     
-* Cheat Sheets
-    - [Jupyter notebooks](https://datacamp-community-prod.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40)
-    - [Python for Data Science](https://datacamp-community-prod.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612)
+    
+# Week 10 - Math for Data Science: Statistics I
+## Homework due Wednesday, Oct 21, 2020 @ 5:30pm
+
         
-* Hackerrank Python
-    - [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
-    - [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
-        - The Problem statement and Tutorial should be sufficient to guide you through this exercise, but the example code using list comprehensions on the Problem page is difficult to read. Here it is line by line (and in Python3):
-        __Code using list comprehensions:__  
-        `x = int( raw_input() )`  
-        `y = int( raw_input() )`  
-        `n = int( raw_input() )`  
-        `print( [ [i, j] for i in range(x + 1) for j in range(y + 1) if( ( i + j ) != n )] )`  
-    - [Your first Python function](https://www.hackerrank.com/challenges/whats-your-name/problem)
-        - Bonus: Try testing your code against custom input (your name!).
-    - [More functions](https://www.hackerrank.com/challenges/write-a-function/problem?h_r=next-challenge&h_v=zen)
-    - Bonus (not required): [Nested lists](https://www.hackerrank.com/challenges/nested-list/problem)
+## In Class Assignment due Friday, Oct 28, 2020 @ 8pm
 
 
-## In Class Assignment due Friday February 14, 2020 @ 8pm
-* Finish working through the [Intro to Python 2 notebook](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-2-scrubbed.ipynb)
-    - [Solution](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/intro-python-2.ipynb)
+# Week 11 - Math for Data Science: Statistics II, Linear Algebra
+## Homework due Wednesday, October 28 2020 @ 5:30pm
 
-# Week 4
-## Homework due Wednesday February 19, 2020 @ 5:30pm
-* Readings
-    - [Type conversion](https://www.datacamp.com/community/tutorials/python-data-type-conversion)
-    - [Numpy overview](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
-        - Note: You won't need to install numpy (it should be included with your Anaconda installation). 
+## In Class Assignment due Friday, October 30 2020 @ 8pm
 
-* Jupyter notebooks
-    - [Tutorial: Computing with NumPy arrays](https://github.com/rlowd/python-bigdata/blob/master/ipython-minibook/numpy-computing.ipynb). You can download the data and execute the code in this notebook yourself, or just read through the executed version. Make sure you understand all the `numpy` methods.
 
-* Cheat Sheets
-    - [NumPy](https://datacamp-community-prod.s3.amazonaws.com/e9f83f72-a81b-42c7-af44-4e35b48b20b7)
-
-* Hackerrank
-    - [Numpy arrays](https://www.hackerrank.com/challenges/np-arrays/problem)
-    - [Zeros and ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
-    - [Vector math](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
-    - [Min and max](https://www.hackerrank.com/challenges/np-min-and-max/problem)
-    - [Floor/ceiling/rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)
-    - [Reshape arrays](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
-
-## In Class Assignment due Friday February 21, 2020 @ 8pm
-* Upload as much as you were able to finish of the Lists and Loops notebook (posted on slack and in Week 4 folder in course materials in Github file directory)
-* Finish working through the [Numerical computing notebook](https://github.com/rlowd/python-bigdata/blob/master/src/main/ipynb/numerical-slides-scrubbed.ipynb) and the associated readings (linked in the notebook).
-
-# Week 5
-## Homework due Wednesday February 26, 2020 @ 5:30pm
-* Readings
-    - [Pandas DataFrames](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
-    - [Time Series tutorial with Pandas](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial)
-    - [Matplotlib tutorial](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
-    - Notebooks to read through:
-        - Pulling data & assembling Pandas DataFrame - [Chipotle dataset](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/chipotle-getting-and-knowing-read-only.ipynb)
-        - Exploratory analysis with `matplotlib` - [Retail dataset](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/online-retail-plotting.ipynb)
-
-* Coding challenges: 
-    - Notebooks with fill-in-the-blank code blocks 
-        - Reading in & assembling Pandas Data Frames - [Occupations dataset](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/occupations/occupation-getting-and-knowing-blanks-scrubbed.ipynb)
-            - [Solutions](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/occupations/occupation-getting-and-knowing-solutions.ipynb)
-        - Plotting practice - [Titanic dataset](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/titanic/titanic-plotting-blanks-scrubbed.ipynb)
-            - [Solutions](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/titanic/titanic-plotting-solutions.ipynb)
-    - Hackerrank
-        - [Numpy array stats](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
-        - [Floating point practice](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
-        - [Working with integers](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
-
-## In Class Assignment due Friday February 28, 2020 @ 8pm
-* Finish numpy notebook (posted on slack and in Week 4 folder in course materials in Github file directory)
-* Work through ONE notebooks:
-    - More plotting practice - [tips notebook](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/tips/tips-plotting-blanks-scrubbed.ipynb)
-        - [Solutions](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/tips/tips-plotting-solutions.ipynb)
-
-# Week 6
-## Homework due Wednesday March 4, 2020 @ 5:30pm
-* Readings
-    - [Think Stats: Chapter 1 - Exploratory Data Analysis](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
-    - [Exploratory Data Analysis I](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python)
-    - [Exploratory Data Analysis II](https://www.datacamp.com/community/tutorials/python-data-profiling)
-    - [Hierarchical Indicies, Groupby](https://www.datacamp.com/community/tutorials/pandas-multi-index)
-    - [Think Stats: Chapter 2 - Distributions](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
-
-* Cheat Sheets
-    - [Pandas](https://datacamp-community-prod.s3.amazonaws.com/fbc502d0-46b2-4e1b-b6b0-5402ff273251)
-
-* Hackerrank
-    - [Statistics Warmup](https://www.hackerrank.com/challenges/stat-warmup/problem)
-
-* Jupyter Notebooks
-    - [Pandas Groupby](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-groupby.ipynb)
-    - [Pandas Apply](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-apply.ipynb)
-    - [Pandas Stats](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-stats.ipynb)
-    - [Pandas Visualization](https://github.com/cschlosberg/codergirl-python/blob/master/pandas-visualization.ipynb)
-
-## In Class Assignment due Friday March 6, 2020 @ 8pm
-* Read through and run commands for following tutorials:
-    - [Seaborn Introduction](https://elitedatascience.com/python-seaborn-tutorial)
-    - [Seaborn Tutorial](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Seaborn.ipynb)
-
-# Week 7
-## Homework due Wednesday March 11, 2020 @ 5:30pm
-* Reading
-    - [ThinkStats](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
-        - Chapters 3-5. Don't worry about the `thinkplot` code or the exercises at the end of each chapter. Focus on the content! The goal is to be familiar with different types of distributions.
+# Week 12 - Machine Learning: Concepts, Linear Regression
+## Homework due Wednesday, Nov 4, 2020 @ 5:30pm
         
-* Watch
-    - Videos on [normal distributions](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-normal-distribution-problems-qualitative-sense-of-normal-distributions).
-        - Work through [practice exercises](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/e/empirical_rule).
-        - Understand the [review page](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/a/normal-distributions-review).
+## In Class Assignment due Friday, Nov 6, 2020 @ 8pm
 
-* Notebooks
-    - Download and work through the following 3 notebooks. Make sure you understand the concepts as well as the python code. You should complete the exercises throughout.
-        - [Warm-up](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/2.%20Warm-up.py3.ipynb).
-        - [Baisc Metrics](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/4.%20Basic%20Metrics.py3.ipynb)
-        - [Distributions](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/5.%20Distributions.py3.ipynb)
-        - [Directory with datasets](https://github.com/rlowd/python-bigdata/tree/master/intro2stats/data) for the above 3 notebooks. You should download these data to the same directory where the notebooks are. You will need to provide the correct path to your data in each Jupyter Notebook.
 
-## In Class Assignment due Friday March 13, 2020 @ 8pm
-* Readings
-    - [Groupby documentation](https://pandas.pydata.org/pandas-docs/version/0.22/groupby.html) - this entire page is really good, but read at least the first two sections ("Splitting an object into groups" and "Aggregation," up to the "Transformation" section).
-        - Relevant to class Wednesday: [attributes for GroupBy objcets](https://pandas.pydata.org/pandas-docs/version/0.22/groupby.html#groupby-object-attributes) (e.g. how we found you can call `head` on a GroupBy object).
-        - For in-class assignment: [Iterating through groups](https://pandas.pydata.org/pandas-docs/version/0.22/groupby.html#iterating-through-groups).
-        
-* Complete blank code blocks in [groupby notebook](https://github.com/rlowd/python-bigdata/blob/master/pandas-exercises/groupby-practice/regiment-executed-blanks.ipynb).
+# Week 13 - Machine Learning: Logistic Regression
+## Homework due Wednesday, Nov 11, 2020 @ 5:30pm
 
-# Week 8
-## Homework due Wednesday March 18, 2020 @ 5:30pm
-* Readings
-    - [ThinkStats](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
-        - Chapters 6-8. Don't worry about the `thinkplot` code or the exercises at the end of each chapter. Focus on the content! 
-    
-* Kahn Academy
-    - Probabilities
-        - Take [this quiz](https://www.khanacademy.org/math/statistics-probability/probability-library/modal/e/probability_1). If you have trouble with the answers, please watch the videos for the [basic probability](https://www.khanacademy.org/math/statistics-probability/probability-library#basic-theoretical-probability) section.
-        - Videos, articles & quizzes for [Experimental probability](https://www.khanacademy.org/math/statistics-probability/probability-library#experimental-probability-lib).
-        - Videos, articles & quizzes for [Randomness, probability & simulation](https://www.khanacademy.org/math/statistics-probability/probability-library#randomness-probability-and-simulation).
-    - Hypothesis testing
-        - Videos & quizzes for [Significance tests](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample#idea-of-significance-tests).
-    - Scatterplots & correlations
-        - Videos, articles & quizzes for [Introduction to scatterplots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data#introduction-to-scatterplots).
-        - Videos, articles & quizzes for [Correlation](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data#scatterplots-and-correlation)
-    
-* Notebooks
-    - [Hypothesis testing](https://github.com/rlowd/python-bigdata/blob/master/intro2stats/notebooks/Hypothesis-Testing-executed-no-solutions.ipynb)
+## In Class Assignment due Friday, Nov 13, 2020 @ 8pm
 
-## In Class Assignment due Friday March 20, 2020 @ 8pm
-* Readings & video
-    - [Bootstrapping introduction](https://statisticsbyjim.com/hypothesis-testing/bootstrapping/)
-    - [Bootstrapping video](https://www.youtube.com/watch?v=gcPIyeqymOU)
 
-# Week 9
-## Homework due Wednesday March 25, 2020 @ 5:30pm
-* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
-    - Enroll in Coursera's Machine Learning Cohort that starts on March 18th: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) You will be able to access lecture material today.
-    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 1: Introduction](https://www.coursera.org/learn/machine-learning/home/week/1):
-        - [Introduction](https://www.coursera.org/learn/machine-learning/home/week/1)
-        - [Linear Regression with One Variable](https://www.coursera.org/learn/machine-learning/home/week/1)
+# Week 14 - Machine Learning: Neural Networks I
+## Homework due Wednesday, Nov 18, 2020 @ 5:30pm
 
-* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-    - Enroll in Google's Machine Learning Crash course. The material is available antyime. [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
-    - Finish all Videos, Readings, Key Terminology, and Check Your Understanding for the following sections:
-        - [Introduction to ML](https://developers.google.com/machine-learning/crash-course/ml-intro)
-        - [Framing](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)
-        - [Descending into ML](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture)
-        - [Reducing Loss](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
+## In Class Assignment due Friday, Nov 20, 2020 @ 8pm
 
-* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
-    - Clone or download (click the green `Clone or Download` button) the entire [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python) GitHub Repo. Ensure that all appropriate packages are installed on your computer before class Wednesday March 20th. We will be following through these notebooks as our In-Class Assignments. 
-    
-* [HackerRank](https://www.hackerrank.com/domains/mathematics?filters%5Bsubdomains%5D%5B%5D=linear-algebra-foundations)
-    - Solve the following HackerRank Linear Algebra Problems:
-        - [Linear Algebra Foundations #1 - Matrix Addition](https://www.hackerrank.com/challenges/linear-algebra-foundations-1/problem)
-        - [Linear Algebra Foundations #2 - Matrix Subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem)
-        - [Linear Algebra Foundations #3 - Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication/problem)
-        - [Linear Algebra Foundations #4 - Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication/problem)
-    - If you have trouble with any of the problems above, check out some of the review material on Khan Academy:
-        - [Adding vectors algebraically & graphically](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/adding-vectors)
-        - [Vector Examples](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-vector-examples)
+# Nov 25 - No Class - Happy Thanksgiving!
+
+# Week 15 - Machine Learning: Neural Networks II
+## Homework due Wednesday, Dec 2, 2020 @ 5:30pm
  
- 
-## In Class Assignment due Friday March 27, 2020 @ 8pm
-* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
-    - Work through [Introduction to ML Notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/01-introduction.ipynb)
-* Bootstrapping Followup 
-    - Work through [Bootstrapping Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/bootstrapping.ipynb)
-* Please take the Data Science course survey Julie will send out
-    
-    
-# Week 10
-## Homework due Wednesday April 1, 2020 @ 5:30pm
-* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
-    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 1](https://www.coursera.org/learn/machine-learning/home/week/1) and [Week 2](https://www.coursera.org/learn/machine-learning/home/week/2):
-        - [Linear Algebra Review](https://www.coursera.org/learn/machine-learning/home/week/1)
-        - [Linear Regression with Multiple Variables](https://www.coursera.org/learn/machine-learning/home/week/2)
+## In Class Assignment due Friday, Dec 4, 2020 @ 8pm
 
-* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-    - If you didn't complete all items in Week 9 (__including Playground Exercises__) in [Introduction to ML](https://developers.google.com/machine-learning/crash-course/ml-intro), [Framing](https://developers.google.com/machine-learning/crash-course/framing/video-lecture), [Descending into ML](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture), or [Reducing Loss](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture), go back and finish all items.
-    - Finish all Videos, Readings, Key Terminology, Playground Exercises, __Programming Assignments__, and Check Your Understanding for the following sections. 
-        - [First Steps with TF](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture): There's are 3 _Programming Assignments_ with this section which will run on [Google's Colaboratory](https://colab.research.google.com/) platform. These are very similar to Jupyter notebooks, but will *not* run locally.  
-            - Quick Introduction to pandas
-            - First Steps with TensorFlow
-            - Synthetic Features and Outliers
-        - [Generalization](https://developers.google.com/machine-learning/crash-course/generalization/)
-        - [Training and Test Sets](https://developers.google.com/machine-learning/crash-course/training-and-test-sets/video-lecture)
-        
-## In Class Assignment due Friday April 3, 2020 @ 8pm
-* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
-    - Work through [Supervised Learning Notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/02-supervised-learning.ipynb) _through only Section:_ __Linear regression aka ordinary least squares__ This is a very long notebook and we will be working through the ML algorithms week-by-week. 
-
-# Week 11
-## Homework due Wednesday April 8, 2020 @ 5:30pm
-* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
-    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 3](https://www.coursera.org/learn/machine-learning/home/week/3):
-        - [Logisitic Regression](https://www.coursera.org/learn/machine-learning/home/week/3)
-        - [Regularization](https://www.coursera.org/learn/machine-learning/home/week/3)
-
-* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
-        - [Training and Test Sets](https://developers.google.com/machine-learning/crash-course/training-and-test-sets/video-lecture)
-        - [Validation Set](https://developers.google.com/machine-learning/crash-course/validation/check-your-intuition)
-        - [Regularization for Simplicity](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/playground-exercise-overcrossing)
-        - [Logistic Regression](https://developers.google.com/machine-learning/crash-course/logistic-regression/video-lecture)
-* [Harvard CS109](https://github.com/cs109/content)
-    - Work through [Bias, Variance, Cross-Validation](https://nbviewer.jupyter.org/github/cs109/content/blob/master/labs/lab5/Lab5.ipynb) Notebook
-
-## In Class Assignment due Friday April 10, 2020 @ 8pm
-*  [Harvard CS109](https://github.com/cs109/content)
-    - Work through [Sklearn, Regression, PCA](https://nbviewer.jupyter.org/github/cs109/content/blob/master/labs/lab4/Lab4full.ipynb) Notebook
-
-# Week 12
-## Homework due Wednesday April 15, 2020 @ 5:30pm
-* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
-    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 4](https://www.coursera.org/learn/machine-learning/home/week/4):
-        - [Neural Networks: Representation](https://www.coursera.org/learn/machine-learning/home/week/4)
-
-* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
-        - [Representation](https://developers.google.com/machine-learning/crash-course/representation/video-lecture)
-        - [Feature Crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses/video-lecture)
-        
-## In Class Assignment due Friday April 17, 2020 @ 8pm
-* Work through [Dense NN MINST Notebook](https://github.com/cschlosberg/codergirl-python/blob/master/Dense-NN-MINST_clean.ipynb)
-
-# Week 13
-## Homework due Wednesday April 22, 2020 @ 5:30pm
-* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
-    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 5](https://www.coursera.org/learn/machine-learning/home/week/5):
-        - [Neural Networks: Learning](https://www.coursera.org/learn/machine-learning/home/week/5)
-
-* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
-        - [Neural Networks](https://developers.google.com/machine-learning/crash-course/representation/video-lecture)
-        - [Training Neural Networks](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/video-lecture)
-
-## In Class Assignment due Friday April 24, 2020 @ 8pm
-* No In-Class Assignment due. Make sure to be caught up
 
 ## Deep Learning Specialization
 * For those of you interested in learning more in-depth material about Neural Networks, we highly recommend you to complete the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning). This is a 5 course series from Coursera which deals with implementing a set of state-of-the-art Neural Networks. This is well beyond the scope of CoderGirl- Data Science, but we wanted to keep this here as a reference. 
 
-# Week 14
-## Homework due Wednesday April 29, 2020 @ 5:30pm
-* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
-        - [Classification](https://developers.google.com/machine-learning/crash-course/classification/video-lecture)
-        - [Regularization: Sparsity](https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/video-lecture)
-        - [Mutli-Class Neural Networks](https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/video-lecture)
+# Week 16 - Machine Learning: Decision Trees
+## Homework due Wednesday, December 9, 2020 @ 5:30pm
 
-* Introduction to Convolutional Neural Networks
-    - Read [An Initutive Explanation of Convnets](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+## In Class Assignment due Wednesday, December 11, 2020 @ 8pm
 
-## In Class Assignment due Friday May 1, 2020 @ 8pm
-* Work through [Fashion CNN Notebook](https://github.com/cschlosberg/codergirl-python/blob/master/Fashion-CNN-Clean.ipynb)
-* Use [Keras Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf) if needed
 
-# Week 15
-## Homework due Wednesday May 6, 2020 @ 5:30pm
-* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
-    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 6](https://www.coursera.org/learn/machine-learning/home/week/6):
-        - [Advice for Applying Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/6)
-        - [Machine Learning System Design](https://www.coursera.org/learn/machine-learning/home/week/6)
-* Work through notebook on [Parameter Selection, Validation & Testing](https://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx/_downloads/1595fc68fe26fcfe91326d0810a99d42/08_validation_and_learning_curves.ipynb)
- 
-## In Class Assignment due Friday May 8, 2020 @ 8pm
-* Read [Bias Variance Tradeoff Post](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+# Week 17 - Data Science Ethics
+## Homework due Wednesday, Dec 16, 2020 @ 5:30pm
 
-# Week 16
-## Homework due Wednesday May 13, 2020 @ 5:30pm
-* Read the following post on [Decision Trees](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
-* Read the following post on [Decision Trees and Random Forest](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)
-* Read the following post on [Random Forest, AdaBoost, and Gradient Boosted Trees](https://towardsdatascience.com/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725)
-
-## In Class Assignment due Friday May 15, 2020 @ 8pm
-* Read the following post on [AdaBoost](https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e)
-* Read the following post on [Gradient Boosting](https://www.gormanalysis.com/blog/gradient-boosting-explained/)
-
-# Week 17
-## No homework for Wednesday May 20, 2020 @ 5:30pm
-* Career class - discussion of interviews/data science careers
+# Dec 23 & 30 - No Class - See you in 2021!
         
-# Week 18
-## Homework due Wednesday May 27, 2020 @ 5:30pm
-* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
-    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 8](https://www.coursera.org/learn/machine-learning/home/week/8):
-        - [Unsupervised Learning](https://www.coursera.org/learn/machine-learning/home/week/8)
-* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
-        - [Overview](https://developers.google.com/machine-learning/clustering/overview)
-        - [Clustering Workflow](https://developers.google.com/machine-learning/clustering/workflow)
-            - [Create a Manual Similarity Measure](https://developers.google.com/machine-learning/clustering/similarity/manual-similarity) section is optional
-        - [Summary](https://developers.google.com/machine-learning/clustering/algorithm/advantages-disadvantages)
+# Week 18 - Machine Learning: Unsupervised Learning
+## Homework due Wednesday, Jan 6, 2020 @ 5:30pm
         
-## In Class Assignment due Friday May 29, 2020 @ 8pm
-* [k-means notebook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb#scrollTo=28c3t_Tr3Vhv) up through Example 1. Stop at Example 2.
+## In Class Assignment due Friday, Jan 8, 2020 @ 8pm
+
         
-# Week 19
-## Homework due Wednesday June 3, 2020 @ 5:30pm
-* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
-    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 8](https://www.coursera.org/learn/machine-learning/home/week/8):
-        - [Dimensionality Reduction](https://www.coursera.org/learn/machine-learning/home/week/8)
-* Read survey on [Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
+# Week 19 - Machine Learning: NLP
+## Homework due Wednesday, Jan 13, 2020 @ 5:30pm
 
-## In Class Assignment due Friday June 5, 2020 @ 8pm
-* Work through [PCA step-by-step](https://code.likeagirl.io/principal-component-analysis-dimensionality-reduction-technique-step-by-step-approach-ffd46623ff67)
-
-# Week 20
-## Homework due Wednesday June 10, 2020 @ 5:30pm
-* [Git lesson](http://swcarpentry.github.io/git-novice/) on Software Carpentry.
-    - Work through the first 10 lessons.
-* Additional resources (not homework):
-    - [git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
-    - [git for scientists](http://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html#/)
-
-## In Class Assignment due Friday June 12, 2020 @ 8pm
-* Read following material on [Scientific Presentation](https://www.northwestern.edu/climb/resources/oral-communication-skills/creating-a-presentation.html)
+## In Class Assignment due Friday, Jan 15, 2020 @ 8pm
 
 
-# Week 21
-## Mini-Project: Homework due Wednesday, June 17, 2020 @ 5:30pm
-* In-class review of python basics, EDA, and previous EDA notebooks.
+# Week 20 - Machine Learning: Recommendation Engines
+## Homework due Wednesday, Jan 20, 2020 @ 5:30pm
+
+## In Class Assignment due Friday, Jan 22, 2020 @ 8pm
+
+# Week 21 - Git/Version Control
+## Homework due Wednesday, Jan 27, 2020 @ 5:30pm
+
+## In Class Assignment due Friday, Jan 29, 2020 @ 8pm
 
 # Week 22
-## Mini-Project: Homework due Wednesday, June 24, 2020 @ 5:30pm
+## Mini-Project: Homework due Wednesday, Feb 3, 2020 @ 5:30pm
 * Perform Explortatory Data Analysis (EDA) on [Heart Disease Kaggle Project](https://www.kaggle.com/ronitf/heart-disease-uci)
 * Post the link to your GitHub repo for Mini-Project part I: EDA
     - Your notebook should address each of the following:
@@ -403,7 +135,7 @@ Repository for the Data Science learning track to host assignments.
         - Feature engineering (transformation, normalization, createing new combinations of features, etc), if you think this is necessary. Describe your rationale.
 
 # Week 23
-## Mini-Project: Homework due Wednesday, July 1, 2020 @ 5:30pm
+## Mini-Project: Homework due Wednesday, Feb 10, 2020 @ 5:30pm
 * Post the link to your GitHub repo for Mini-Project part II: Modeling
     - Your modeling notebook should include each of the following:
         - (Feature engineering, if not captured in the EDA notebook. Sometimes it is easier or makes more sense to do feature engineering in the same notebook as your model.)
