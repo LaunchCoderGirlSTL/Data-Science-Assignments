@@ -1,6 +1,8 @@
 # Data-Science-Assignments
 Repository for the Data Science learning track to host assignments.
 
+Find powerpoints and helpful resources here: https://1drv.ms/u/s!AslM4j-peps4jSp0tE70no3iE1I3?e=e8vCC7
+
 # Week 1 - Introductions and Python
 ## In Class Assignment due Friday, Aug 21, 2020 @ 8pm
 
