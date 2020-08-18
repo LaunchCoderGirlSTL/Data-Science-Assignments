@@ -1,4 +1,9 @@
-#### Week 1 Assignments
+## Week 1 Assignments
+
+### Resource/Reference:  
+
+https://www.w3schools.com/python/
+ - A great quick reference.
 
 ### In Class Assignment:
 1. Finish any installs not completed in class. 
@@ -29,3 +34,19 @@
             - Does it fail? 
 
         - What if I combine the concept cell above with this cell?  
+
+
+### Optional Videos: 
+
+https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7 
+
+- Suggest only Videos 2-7, 9 and 10 
+
+
+ 
+
+### Optional Reading: Only do this if you have completed your homework. And have deleted it and done it again.  
+
+http://swcarpentry.github.io/shell-novice/01-intro/index.html 
+
+http://swcarpentry.github.io/shell-novice/02-filedir/index.html 
