@@ -33,7 +33,7 @@ https://www.w3schools.com/python/
 
             - Does it fail? 
 
-        - What if I combine the concept cell above with this cell?  
+        - What if I combine the concept in the cell above with this cell?  
 
 
 ### Optional Videos: 
