@@ -7,6 +7,13 @@ https://www.w3schools.com/python/
 
 ### In Class Assignment:
 1. Finish any installs not completed in class. 
+2. Skim the `Survival Guide` presentation. We will discuss this in more detail throughout first 8 wks.
+3. Create a complete schedule for yourself and include EVERYTHING you can (Work, commute, dinner, any obligations and study time). Highlight times you will be studying. 
+    - Head over to this [spreadsheet]() and see the example schedule on the first tab. 
+    - Create a tab with your initials.
+    - Copy the 'template' sheet into your tab. 
+    - Fill out an accurate schedule for yourself. 
+        - This does not need to be updated as your schedule changes. 
 
 ### Reading Assignments
 
