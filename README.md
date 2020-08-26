@@ -1,9 +1,10 @@
 # Data-Science-Assignments
 Repository for the Data Science learning track to host assignments.
 
-Find powerpoints and helpful resources [here](https://1drv.ms/u/s!AslM4j-peps4jSoXGzGpBKU5ShMY?e=RhOuft)
-Find a great quick python reference here: https://www.w3schools.com/python/
+Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4jSoXGzGpBKU5ShMY?e=RhOuft)
+<br>Find a great quick python reference here: https://www.w3schools.com/python/
 
+### Homework tips
 *Think ‘process’ not ‘product’. The goal is to learn. The goal is not to hand in a perfect assignment.*
 
 *Skim your homework assignment BEFORE you do the readings. It will help focus your attention!*
