@@ -66,7 +66,7 @@ http://swcarpentry.github.io/shell-novice/02-filedir/index.html
 ## In Class Assignment due Friday, Aug 28, 2020 @ 8pm
 1. Finish any installation corrections. 
 2. Clone the class repo. (If you have not done so in class)
-3. Create your own week 02 repository. (If you have not done so in class)
+3. OPTIONAL(But preferred): Create your own week 02 repository. (If you have not done so in class)
 4. Skim the 'In a nutshell' links for 'Learning how to Learn' and 'Deep Work' in the `Survival Guide`.
     - Find something in those readings that interests you and explore further. 
     - These topics can have profound effects outside the classroom as well. 
@@ -99,7 +99,7 @@ http://swcarpentry.github.io/shell-novice/02-filedir/index.html
     - Read [this](https://www.learnpython.org/en/Classes_and_Objects) and complete the exercise at the end.
     - Read this [Python's Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
 ### Notebook
-4. Complete the `week_02_homework.ipynb` found [here](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_02/week_02_homework.ipynb). You can also find it in the week 2 folder in the course materials folder at the top of the github page.
+4. Complete the `week_02_homework.ipynb` found [here](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_02/week_02_homework.ipynb). You can also find it in the week 2 folder in the course materials folder at the top of the github page. Submit a link to your repo or submit the `.ipynb` file. 
 
 
  ### Optional Videos: 
