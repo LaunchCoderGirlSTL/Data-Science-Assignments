@@ -143,7 +143,7 @@ Classes are such a challenging subject there are no Optional Readings for this w
 
 ### Notebook
 
-3. Complete the `week_04_homework.ipynb`
+3. Complete the `week_04_homework.ipynb` [here.](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_04/week_04_homework.ipynb) You can also find the notebook and the csv file you'll need in the week 4 folder in the course materials folder at the top of the page.
 
 
  ### Optional Videos: 
