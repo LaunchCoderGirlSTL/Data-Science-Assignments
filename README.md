@@ -21,8 +21,7 @@ Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4j
     - Copy the `template` sheet into your tab. 
     - Fill out an accurate schedule for yourself. 
         - This does not need to be updated as your schedule changes. 
-
-# Week 2 - Python: Math, Strings, If-Else, Expressions
+        
 ## Homework due Wednesday, Aug 26, 2020 @ 5:30pm
 ### Readings
 1. [Hello World](https://www.learnpython.org/en/Hello,_World!)
@@ -55,14 +54,14 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjG
 - Suggest only Videos 2-7, 9 and 10 
 
 
- 
-
 ### Optional Reading: Only do this if you have completed your homework. And have deleted it and done it again.  
 
 http://swcarpentry.github.io/shell-novice/01-intro/index.html 
 
 http://swcarpentry.github.io/shell-novice/02-filedir/index.html 
-    
+
+# Week 2 - Python: Math, Strings, If-Else, Expressions
+
 ## In Class Assignment due Friday, Aug 28, 2020 @ 8pm
 1. Finish any installation corrections. 
 2. Clone the class repo. (If you have not done so in class)
@@ -73,8 +72,6 @@ http://swcarpentry.github.io/shell-novice/02-filedir/index.html
 
 5. There are no 'in class assignment' deliverables for this week. 
 
-
-# Week 3 - Python: Loops, Functions, Classes
 ## Homework due Wednesday, Sept 2, 2020 @ 5:30pm
 ### Readings/Videos/DataCamp
 1. Loops
@@ -117,6 +114,8 @@ https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSe
 Classes are such a challenging subject there are no Optional Readings for this week. If you made it this far please practice Classes some more! 
 
 
+# Week 3 - Python: Loops, Functions, Classes
+
 ## In Class Assignment due Friday, Sept 4, 2020 @ 8pm
 1. Finish any installations. 
 2. Clone the class repo. (If you have not done so in class)
@@ -129,8 +128,6 @@ Classes are such a challenging subject there are no Optional Readings for this w
     - [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html)
 5. There are no 'in class assignment' deliverables for this week. 
 
-
-# Week 4 - Python: Numpy Arrays
 ## Homework due Wednesday, Sept 9, 2020 @ 5:30pm
 
 1. DataCamp: NumPy
@@ -159,6 +156,8 @@ Classes are such a challenging subject there are no Optional Readings for this w
 ### Optional Reading:
 
 None. 
+
+# Week 4 - Python: Numpy Arrays
 
 ## In Class Assignment due Friday, Sept 11, 2020 @ 8pm
 
