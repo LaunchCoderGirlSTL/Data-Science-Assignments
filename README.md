@@ -161,27 +161,28 @@ None.
 
 ## In Class Assignment due Friday, Sept 11, 2020 @ 8pm
 
+## Homework due Wednesday, Sept 16, 2020 @ 5:30pm
 
 # Week 5 - Python: Pandas Dataframes
-## Homework due Wednesday, Sept 16, 2020 @ 5:30pm
 
 ## In Class Assignment due Friday, Sept 18, 2020 @ 8pm
 
-
-# Week 6 - Python: Data Visualization
 ## Homework due Wednesday, Sept 23, 2020 @ 5:30pm
 
+
+# Week 6 - Python: Data Visualization
+
 ## In Class Assignment due Friday, Sept 25, 2020 @ 8pm
+## Homework due Wednesday, Sept 30, 2020 @ 5:30pm
 
 
 # Week 7 - SQL I
-## Homework due Wednesday, Sept 30, 2020 @ 5:30pm
 
 ## In Class Assignment due Wednesday, Oct 2, 2020 @ 8pm
+## Homework due Wednesday, Oct 7 2020 @ 5:30pm
 
 
 # Week 8 - SQL II
-## Homework due Wednesday, Oct 7 2020 @ 5:30pm
 
 ## In Class Assignment due Friday, Oct 9, 2020 @ 8pm
 
