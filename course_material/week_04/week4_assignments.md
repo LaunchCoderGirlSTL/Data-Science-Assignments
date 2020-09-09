@@ -9,7 +9,8 @@
 1. [Pandas DataFrames](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
 2. [Time Series tutorial with Pandas](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial)
 3. Read, Click Through and Digest: `pandas_part_1.ipynb'`
-3. Read, Click Through and Digest: `pandas_part_2.ipynb'`
+4. Read, Click Through and Digest: `pandas_part_2.ipynb'`
+5. Upload LATEST version of any missing homework in Canvas.
 
 ### Notebook
 
