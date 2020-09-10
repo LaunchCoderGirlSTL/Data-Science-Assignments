@@ -163,7 +163,6 @@ None.
 1. There are no 'in class assignment' deliverables for this week. 
 2. Start homework early! 
 
-# Week 4 - Python: Pandas
 ## Homework due Wednesday, Sept 16, 2020 @ 5:30pm
 ### Readings/Videos/DataCamp
 
@@ -175,7 +174,7 @@ None.
 
 ### Notebook
 
-3. Complete the `HeroesOfPymoli_starter.ipynb`. You can find it in the week 4 folder in the course materials folder at the top of the github page. Submit a link to your repo.
+1. Complete the `HeroesOfPymoli_starter.ipynb`. You can find it in the week 4 folder in the course materials folder at the top of the github page. Submit a link to your repo.
 - See `hw_instructuions.md` for full homework instructions. NOTE: Best viewed in github.
 - `HeroesOfPymoli_output_examples.ipynb` is provided as a reference. 
     - View in Jupyter or Github. (Github sometimes mis-formats documents.)
