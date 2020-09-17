@@ -1,6 +1,6 @@
 ## In Class Assignment due Friday, Sept 018, 2020 @ 8pm
 1. Finish the in class `weather_api.ipynb' and submit a link to your repo/notebook. (You can use the same repo for your Homework Assignment.)
-2. Read [Anatomy of a URL](https://doepud.co.uk/blog/anatomy-of-a-url)
+2. Read [Anatomy of a URL](https://websitebuilders.com/how-to/web-at-a-glance/url-anatomy/)
 3. Read [REST API Tutorial](https://restfulapi.net/http-methods/)
 4. Start homework early! 
 
