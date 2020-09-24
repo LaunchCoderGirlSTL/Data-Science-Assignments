@@ -259,7 +259,7 @@ Pandas is challenging and a core Data Scientist Tool. If you've completed the ho
 
 ## Homework due Wednesday, Sept 30, 2020 @ 5:30pm
 ### Readings/Videos/DataCamp
-1. Start the `SQL Tutorial for Data Analysis`
+1. Start the [SQL Tutorial for Data Analysis](https://mode.com/sql-tutorial/introduction-to-sql/)
 2. Do the `Basic SQL` section. 
 3. This is part of the homework. See below. 
 4. **NOTE**: This SQL Tutorial is geared towards **reading** from databases and not writing to databases. There are many operations you will not be performing such as `creating`, `updating` and ,`deleting`.
@@ -287,7 +287,7 @@ Pandas is challenging and a core Data Scientist Tool. If you've completed the ho
 
 ## Homework due Wednesday, Oct 7, 2020 @ 5:30pm
 ### Readings/Videos/DataCamp
-1. Start the `SQL Tutorial for Data Analysis`
+1. Start the [SQL Tutorial for Data Analysis](https://mode.com/sql-tutorial/introduction-to-sql/)
 2. Do the `Intermediate SQL` section. 
 3. This is part of the homework. See below. 
 4. **NOTE**: This SQL Tutorial is geared towards **reading** from databases and not writing to databases. There are many operations you will not be performing such as `creating`, `updating` and ,`deleting`.
