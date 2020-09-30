@@ -283,7 +283,7 @@ Pandas is challenging and a core Data Scientist Tool. If you've completed the ho
 # Week 7 - SQL I
 
 ## In Class Assignment due Friday, Oct 02, 2020 @ 8pm
-1. None.
+1. Play around with VSCode. Rewatch in class video and follow along with Matt W. 
 
 ## Homework due Wednesday, Oct 7, 2020 @ 5:30pm
 ### Readings/Videos/DataCamp
