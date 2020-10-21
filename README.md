@@ -376,10 +376,14 @@ Pandas is challenging and a core Data Scientist Tool. If you've completed the ho
     
     
 # Week 10 - Math for Data Science: Statistics I
-## Homework due Wednesday, Oct 21, 2020 @ 5:30pm
-
         
 ## In Class Assignment due Friday, Oct 28, 2020 @ 8pm
+* Notebooks
+    - Complete the 4 notebooks found in the "week 10/intro2stats/notebooks" folder
+        - 01_Warm-up
+        - 02_Basic Metrics
+        - 03_Distributions
+        - 04_Directory with datasets
 
 
 # Week 11 - Math for Data Science: Statistics II, Linear Algebra
