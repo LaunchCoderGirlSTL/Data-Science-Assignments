@@ -1,4 +1,4 @@
-## In Class Assignment due Friday, Oct 28, 2020 @ 8pm
+## In Class Assignment DUE DATE CHANGED to Wednesday, Oct 28, 2020 @ 5:30pm
 
 
 * Notebooks
