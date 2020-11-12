@@ -13,7 +13,7 @@ Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4j
 
 # Week 13 - Machine Learning: Logistic Regression
 ## In Class Assignment due Friday, Nov 13, 2020 @ 8pm
- - Take a look at Kelly's logistic regression notebook in the week 13 folder. Read through the code for understanding.
+ - Take a look at Kelly's [logistic regression notebook](https://colab.research.google.com/drive/1ylt4I4tVU4RK4xP3Cf4R2XGHONF0r6VP?usp=sharing). Read through the code for understanding.
 
 ## Homework due Wednesday, Nov 18, 2020 @ 5:30pm
 * [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
