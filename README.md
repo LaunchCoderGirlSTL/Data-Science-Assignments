@@ -11,7 +11,22 @@ Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4j
 
 *SQR3: Scan, Question, Read, Recall, Review!!!!*
 
+# Week 13 - Machine Learning: Logistic Regression
+## In Class Assignment due Friday, Nov 13, 2020 @ 8pm
+ - Take a look at Kelly's logistic regression notebook in the week 13 folder. Read through the code for understanding.
 
+## Homework due Wednesday, Nov 18, 2020 @ 5:30pm
+* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
+    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 4](https://www.coursera.org/learn/machine-learning/home/week/4):
+        - [Neural Networks: Representation](https://www.coursera.org/learn/machine-learning/home/week/4)
+
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
+        - [Representation](https://developers.google.com/machine-learning/crash-course/representation/video-lecture)
+        - [Feature Crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses/video-lecture)
+	- [Neural Networks](https://developers.google.com/machine-learning/crash-course/representation/video-lecture)
+	- [Training Neural Nets](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/video-lecture)
+	
 # Week 12 - Machine Learning: Concepts, Linear Regression
 ## In Class Assignment due Friday, Nov 6, 2020 @ 8pm
  - No in-class this week. Optional: check out Matt's gradient descent example in the week 11 folder!
