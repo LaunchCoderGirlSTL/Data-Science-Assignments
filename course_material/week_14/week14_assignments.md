@@ -17,7 +17,7 @@
 
 * Introduction to Convolutional Neural Networks - A notebook adventure
     - Before you start the notebook, read [An Initutive Explanation of Convnets](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/). We recommend referring back to it as you work.
-	- Complete the [Fashion CNN Notebook](link here)
+	- Complete the [Fashion CNN Notebook](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_14/Fashion-CNN-Clean.ipynb)
 	- Use [Keras Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf) if needed
 	- This notebook will introduce you to lots of terms and techniques you might be unfamiliar with. You will likely need to use Google/documentation/study groups/Slack early and often!
 
