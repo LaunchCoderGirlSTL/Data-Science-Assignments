@@ -1,5 +1,5 @@
 ## Homework due Wednesday, Dec 9, 2020 @ 5:30pm
-1.	Download Introduction to Statistical Learning (ISLR) book - [ISLR Seventh Printing.pdf (usc.edu)](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR Seventh Printing.pdf)
+1.	Download Introduction to Statistical Learning (ISLR) book - [ISLR Seventh Printing](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 2.	Decision Trees
 
 	a.	Watch [Visual Guide to Decision Trees: Predicting US Election Patterns ](https://www.youtube.com/watch?v=zs6yHVtxyv8)
