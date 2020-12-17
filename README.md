@@ -11,6 +11,12 @@ Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4j
 
 *SQR3: Scan, Question, Read, Recall, Review!!!!*
 
+# Week 17 - Ethics
+## Happy Holidays! Class resumes Jan 6.
+
+## OPTIONAL
+ - Try your hand at the Titanic competition! Details in the [Titanic folder](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/tree/master/course_material/titanic) in the course materials directory.
+
 # Week 16 - Machine Learning: Decision Trees and Random Forests
 ## In Class Assignment due Friday, Dec 11, 2020 @ 8pm
  - No in-class assignment due.
