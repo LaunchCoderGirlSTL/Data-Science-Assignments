@@ -13,6 +13,17 @@ Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4j
 
 # Week 17 - Ethics
 ## Happy Holidays! Class resumes Jan 6.
+## Homework due Wednesday, Jan 6, 2021 @ 5:30pm
+* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) 
+    - Finish all Readings, Videos, and Quizzes for the following sections in [Week 8](https://www.coursera.org/learn/machine-learning/home/week/8):
+        - [Unsupervised Learning](https://www.coursera.org/learn/machine-learning/home/week/8)
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+    - Finish all Videos, Readings, Key Terminology, Playground Exercises, and Check Your Understanding for the following sections:
+        - [Overview](https://developers.google.com/machine-learning/clustering/overview)
+        - [Clustering Workflow](https://developers.google.com/machine-learning/clustering/workflow)
+            - [Create a Manual Similarity Measure](https://developers.google.com/machine-learning/clustering/similarity/manual-similarity) section is optional
+        - [Summary](https://developers.google.com/machine-learning/clustering/algorithm/advantages-disadvantages)
+ * Complete the cal_housing_hw notebook in the week 17 folder
 
 ## OPTIONAL
  - Try your hand at the Titanic competition! Details in the [Titanic folder](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/tree/master/course_material/titanic) in the course materials directory.
