@@ -22,7 +22,11 @@ Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4j
     - [Bag of Words](https://www.youtube.com/watch?v=IRKDrrzh4dE)
     - [NLP for Developers: Word Embeddings](https://www.youtube.com/watch?v=oUpuABKoElw)
     - [Sentiment Analysis: extracting emotion through machine learning | Andy Kim | TEDxDeerfield](https://www.youtube.com/watch?v=n4L5hHFcGVk)
-
+* Notebook: (added after class) 
+    - Follow this [this tutorial](https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk) and convert it into a notebook. 
+    - We have not done this so be active on Slack if you have issues. 
+    - This was written for non-notebook files so you will have to do some conversions. :-)
+    - This can be part of your portfolio.
 
 # Week 17 - Ethics
 ## Happy Holidays! Class resumes Jan 6.
