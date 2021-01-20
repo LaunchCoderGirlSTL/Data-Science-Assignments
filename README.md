@@ -12,7 +12,7 @@ Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4j
 *SQR3: Scan, Question, Read, Recall, Review!!!!*
 
 # Week 21 - Git/Deploying a Model
-**Pre-Work** *Start Early!*
+**Pre-Work** *Start Early!* Due Jan 22, 2021 @ 8:00pm
 
 To get started the pre-work will be solo but you can collaborate on this too if you wish. Each person should complete the following materials: 
 * [Corey MS Git](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) (Entire Series)
@@ -24,7 +24,8 @@ To get started the pre-work will be solo but you can collaborate on this too if 
     * What happens if someone falls behind? 
     * What will you do if you get stuck? 
 
-**Homework**
+**Homework** Due Wednesday, Jan 27, 2021 @ 5:30pm
+
 * Group project
 * Follow instructions in the `README.md` in [this repo](https://github.com/warnerm06/twitterpated).
 * This is HARD so please be active on Slack.
