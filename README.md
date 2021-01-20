@@ -11,6 +11,24 @@ Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4j
 
 *SQR3: Scan, Question, Read, Recall, Review!!!!*
 
+# Week 21 - Git/Deploying a Model
+**Pre-Work** *Start Early!*
+
+To get started the pre-work will be solo but you can collaborate on this too if you wish. Each person should complete the following materials: 
+* [Corey MS Git](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) (Entire Series)
+* [Flask Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) (Only videos 1 and 2)
+* Read through the rest of these instructions. 
+* Reach out to team members and make a plan of action on how to get the assignment done. 
+    * When to meet(if needed)?
+    * Who will do what? 
+    * What happens if someone falls behind? 
+    * What will you do if you get stuck? 
+
+**Homework**
+* Group project
+* Follow instructions in the `README.md` in [this repo](https://github.com/warnerm06/twitterpated).
+* This is HARD so please be active on Slack.
+
 # Week 20 - ML Medley
 ## Homework due Wednesday, Jan 20, 2021 @ 5:30pm
 * EDA
