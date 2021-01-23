@@ -15,7 +15,7 @@ Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4j
 **Pre-Work** *Start Early!* Due Jan 22, 2021 @ 8:00pm
 
 To get started the pre-work will be solo but you can collaborate on this too if you wish. Each person should complete the following materials: 
-* [Corey MS Git](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) (Entire Series)
+* [Corey MS Git](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) (Entire Series. Edit: Videos 4&5 are optional. You don't need to download DiffMerge tools.)
 * [Flask Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) (Only videos 1 and 2)
 * Read through the rest of these instructions. 
 * Reach out to team members and make a plan of action on how to get the assignment done. 
