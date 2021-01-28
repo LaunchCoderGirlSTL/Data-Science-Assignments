@@ -10,8 +10,16 @@ Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4j
 *Skim your homework assignment BEFORE you do the readings. It will help focus your attention!*
 
 *SQR3: Scan, Question, Read, Recall, Review!!!!*
+# Week 23 - Mini Project 
+## Homework due Wednesday, Feb 10, 2021 @ 5:30pm
+* Please submit a link to your repo for part 2 of your mini-project, covering ML/predictive modeling of the dataset of your choice. For a full description of the mini-project requirements, check the pdf in the [week 22 folder.](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/tree/master/course_material/week_22)
+* Be prepared to give a 5-minute presentation on your project. More details are in the writeup. Have fun!
 
-# Week 21 - Git/Deploying a Model
+# Week 22 - Git/Deploying a Model
+## Homework due Wednesday, Feb 3, 2021 @ 5:30pm
+* Please submit a link to your repo for part 1 of your mini-project, covering EDA of the dataset of your choice. For a full description of the mini-project requirements, check the pdf in the [week 22 folder.](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/tree/master/course_material/week_22)
+
+# Week 21 - EDA, Missing Data, Imbalanced Classes, Dimensionality Reduction
 **Pre-Work** *Start Early!* Due Jan 22, 2021 @ 8:00pm
 
 To get started the pre-work will be solo but you can collaborate on this too if you wish. Each person should complete the following materials: 
