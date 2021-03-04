@@ -1,7 +1,9 @@
 # Data-Science-Assignments
 Repository for the Data Science learning track to host assignments.
 
-Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4jSoXGzGpBKU5ShMY?e=RhOuft)
+Find powerpoints and helpful resources in the course_material folder of this repo!
+You'll need to clone the repo to see most of them. 
+
 <br>Find a great quick python reference here: https://www.w3schools.com/python/
 
 ### Homework tips
@@ -16,7 +18,7 @@ Find powerpoints and helpful resources [here.](https://1drv.ms/u/s!AslM4j-peps4j
 1. Finish any installs not completed in class. 
 2. Skim the `Survival Guide` presentation. We will discuss this in more detail throughout first 8 wks.
 3. Create a complete schedule for yourself and include EVERYTHING you can (Work, commute, dinner, any obligations and study time). Highlight times you will be studying. 
-    - Head over to this [spreadsheet](https://1drv.ms/x/s!AslM4j-peps4jTba0I4xcgllBZH7?e=LqiTV8) and see the example schedule on the first tab. 
+    - Head over to this [spreadsheet](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/Schedule_template) and see the example schedule on the first tab. 
     - Create a tab with `your initials`.
     - Copy the `template` sheet into your tab. 
     - Fill out an accurate schedule for yourself. 
