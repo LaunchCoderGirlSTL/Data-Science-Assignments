@@ -23,6 +23,7 @@ You'll need to clone the repo to see most of them.
     - Copy the `template` sheet into your tab. 
     - Fill out an accurate schedule for yourself. 
         - This does not need to be updated as your schedule changes. 
+	- Please submit the spreadsheet in Canvas. You can just have your schedule on there, without the template and others.
         
 ## Homework due Wednesday, March 10, 2021 @ 5:30pm
 ### Readings
