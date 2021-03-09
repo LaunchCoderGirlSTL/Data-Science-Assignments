@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjG
 # Week 2 - Python: Math, Strings, If-Else, Expressions
 
 ## In Class Assignment due Friday, March 12, 2021 @ 8pm
-1. Finish any installation corrections. 
+1. Finish any installation corrections. (VS Code)
 2. Read the following: http://swcarpentry.github.io/shell-novice/01-intro/index.html 
 	http://swcarpentry.github.io/shell-novice/02-filedir/index.html 
 3. Create your own week 02 repository. (If you have not done so in class)
