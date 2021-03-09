@@ -53,7 +53,7 @@ You'll need to clone the repo to see most of them.
 
 https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7 
 
-- Suggest only Videos 2-7, 9 and 10 
+- Suggest only Videos 2-7 and 9 
 
 # Week 2 - Python: Math, Strings, If-Else, Expressions
 
@@ -99,6 +99,8 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjG
 https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7 
 
 - Only videos 7 & 8
+
+https://www.youtube.com/watch?v=tJxcKyFMTGo&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=11
 
 https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
 
