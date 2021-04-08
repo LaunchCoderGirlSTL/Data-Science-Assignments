@@ -243,13 +243,12 @@ Classes are such a challenging subject there are no Optional Readings for this w
 1. Submit your group activity to Canvas using the git url! 
 2. Install postgres and pg admin
 3. [What is a Database?](https://www.edureka.co/blog/what-is-a-database/)
-4. [Overview](https://www.tutorialspoint.com/sql/sql-overview.htm) (Only First page)
 
 ## Homework due Wednesday, April 14, 2021 @ 5:30pm
 ### Readings/Videos/DataCamp
-1. [RDBMS Concepts](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm) (Only First Page)
-2. [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) - Please complete 1-4
-3. [Intro to Joins](https://learn.datacamp.com/courses/joining-data-in-postgresql) - Please just do 1-2
+1. [Overview](https://www.tutorialspoint.com/sql/sql-overview.htm) (Only First page)
+2. [RDBMS Concepts](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm) (Only First Page)
+3. [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) - Please complete 1-4
 
 ### Text File (Instead of a Notebook)
 1. Create a file called `week_6_hw.sql`
@@ -264,4 +263,3 @@ Classes are such a challenging subject there are no Optional Readings for this w
 
 ### Optional Videos: 
 * [Learn PostgeSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
-* [More joins](https://learn.datacamp.com/courses/joining-data-in-postgresql) 3-4
