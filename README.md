@@ -245,6 +245,7 @@ Classes are such a challenging subject there are no Optional Readings for this w
 3. [What is a Database?](https://www.edureka.co/blog/what-is-a-database/)
 
 ## Homework due Wednesday, April 14, 2021 @ 5:30pm
+
 ### Readings/Videos/DataCamp
 1. [Overview](https://www.tutorialspoint.com/sql/sql-overview.htm) (Only First page)
 2. [RDBMS Concepts](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm) (Only First Page)
@@ -263,3 +264,28 @@ Classes are such a challenging subject there are no Optional Readings for this w
 
 ### Optional Videos: 
 * [Learn PostgeSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
+
+# Week 7 - SQL- Part2
+
+## In Class Assignment due Friday, April 16, 2021 @ 8pm
+1. Submit your group activity to Canvas using the git url! 
+2. [Subquery vs join](https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/)
+
+## Homework due Wednesday, April 21, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [SQL Autoincrementing](https://www.w3schools.com/sql/sql_autoincrement.asp)
+2. [Intermediate SQL](https://learn.datacamp.com/courses/intermediate-sql) - Please complete 1-4
+3. [Stored Procedures](https://www.w3schools.com/sql/sql_stored_procedures.asp)
+4. [Why do we need stored procedures](https://www.essentialsql.com/sql-stored-procedures/)
+
+### Text File (Instead of a Notebook)
+1. Create a file called `week_7_hw.sql`
+2. Answer all the questions in `week_7_sql_hw.docx`
+3. For **every** problem, do the following:
+	- Copy and paste the problem into your `week_7_hw.sql` file. 
+	- Use PostgreSQL in PGAdmin on your computer to solve the problem. 
+	- Paste your query into `week_7_hw.sql`.
+	- Write an explanation of what is happening in each query (as a sql comment). Be sure to reference the data model in your explanations. 
+4. Commit the `week_7_hw.sql` file to your own repo. 
+5. Submit a link to your repo. 
