@@ -276,9 +276,8 @@ Classes are such a challenging subject there are no Optional Readings for this w
 
 ### Readings/Videos/DataCamp
 1. [SQL Autoincrementing](https://www.w3schools.com/sql/sql_autoincrement.asp)
-2. [Intermediate SQL](https://learn.datacamp.com/courses/intermediate-sql) - Please complete 1-4
-3. [Stored Procedures](https://www.w3schools.com/sql/sql_stored_procedures.asp)
-4. [Why do we need stored procedures](https://www.essentialsql.com/sql-stored-procedures/)
+2. [Joining Data](https://learn.datacamp.com/courses/joining-data-in-postgresql)
+3. [Intermediate SQL](https://learn.datacamp.com/courses/intermediate-sql) - Please complete 1-4
 
 ### Text File (Instead of a Notebook)
 1. Create a file called `week_7_hw.sql`
@@ -293,4 +292,3 @@ Classes are such a challenging subject there are no Optional Readings for this w
 
 ### Optional Videos: 
 * [Learn PostgeSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
-* [Joining Data](https://learn.datacamp.com/courses/joining-data-in-postgresql)
