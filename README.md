@@ -264,6 +264,7 @@ Classes are such a challenging subject there are no Optional Readings for this w
 
 ### Optional Videos: 
 * [Learn PostgeSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
+* [Joining Data](https://learn.datacamp.com/courses/joining-data-in-postgresql)
 
 # Week 7 - SQL- Part2
 
@@ -289,3 +290,7 @@ Classes are such a challenging subject there are no Optional Readings for this w
 	- Write an explanation of what is happening in each query (as a sql comment). Be sure to reference the data model in your explanations. 
 4. Commit the `week_7_hw.sql` file to your own repo. 
 5. Submit a link to your repo. 
+
+### Optional Videos: 
+* [Learn PostgeSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
+* [Joining Data](https://learn.datacamp.com/courses/joining-data-in-postgresql)
