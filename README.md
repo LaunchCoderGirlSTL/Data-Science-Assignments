@@ -292,3 +292,19 @@ Classes are such a challenging subject there are no Optional Readings for this w
 
 ### Optional Videos: 
 * [Learn PostgeSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
+
+# Week 8 - Basic Stats in Python
+
+## In Class Assignment due Friday, April 23rd, 2021 @ 8pm
+1. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, April 28, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+
+1. [Intro to Stats in Python](https://learn.datacamp.com/courses/introduction-to-statistics-in-python)
+2. [Reference scipy documentation](https://scipy-lectures.org/packages/statistics/index.html)
+
+### In lieu of a code submission, you need to work on your class project and turn it in under week 8 Canvas HW.
+
+Use what you learned this week in your project!
