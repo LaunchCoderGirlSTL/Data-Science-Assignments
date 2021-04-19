@@ -13,6 +13,9 @@ Please pick an API you will use for your analysis. Please chose from the followi
 2. Quandl stock/financial API - https://www.quandl.com/tools/api
 3. NASA - https://api.nasa.gov/
 4. Skyscanner Flight API - https://www.partners.skyscanner.net/affiliates/travel-apis
+	- I just had a student use this one about 6 months ago, but apparently if you arent using it for an application
+	they dont tend to approve you.
+	
 5. AudioDB Music API - https://www.theaudiodb.com/api_guide.php
 6. FBI Crime Data API - https://crime-data-explorer.fr.cloud.gov/api
 7. You are welcome to pick another API not listed here. Please reach out to your instructor to
@@ -34,9 +37,21 @@ for how to explore your data.
 4. Create a presentation that is 5-8 minutes, which explains your findings. You will be giving this presentation
 on the due date. 
 
-Guidelines for your notebook:
+## Deliverables
+
+You must submit a link to your group github repository with:
+
+1. A jupyter notebook with all your analysis and visualizations in it.
+
+2. A ppt presentation with at least 4 slides and no more than 15. 
+
+AND you will be presenting your PowerPoint presentation in 5-8 minutes on the due date. 
+
+
+### Guidelines for your notebook:
+
 - Write up an executive summary of your findings using `markdown`. 
-- Bonus/Optional: Use `markdown` throughout your notebook to tell the story of your data.
+- Use `markdown` throughout your notebook to tell the story of your data.
 - All graphs should have Titles, labels and matching color schemes where applicable.
 - Code should be neat and well documented. 
 - Use different types of graphs
