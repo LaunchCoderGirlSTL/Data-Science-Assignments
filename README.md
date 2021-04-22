@@ -302,9 +302,10 @@ Classes are such a challenging subject there are no Optional Readings for this w
 
 ### Readings/Videos/DataCamp
 
-1. [Intro to Stats in Python](https://learn.datacamp.com/courses/introduction-to-statistics-in-python)
+1. [Intro to Stats in Python](https://learn.datacamp.com/courses/introduction-to-statistics-in-python) - Please complete 1 and 2
 2. [Reference scipy documentation](https://scipy-lectures.org/packages/statistics/index.html)
 
 ### In lieu of a code submission, you need to work on your class project and turn it in under week 8 Canvas HW.
+Please make sure you have a github repo where your team is storing and working on your project together. We would like your contributions to be relatively even. We can check this!
 
 Use what you learned this week in your project!
