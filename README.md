@@ -250,6 +250,7 @@ Classes are such a challenging subject there are no Optional Readings for this w
 1. [Overview](https://www.tutorialspoint.com/sql/sql-overview.htm) (Only First page)
 2. [RDBMS Concepts](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm) (Only First Page)
 3. [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) - Please complete 1-4
+4. [Joining Data](https://learn.datacamp.com/courses/joining-data-in-postgresql) - Please complete 1 and 2
 
 ### Text File (Instead of a Notebook)
 1. Create a file called `week_6_hw.sql`
@@ -264,7 +265,6 @@ Classes are such a challenging subject there are no Optional Readings for this w
 
 ### Optional Videos: 
 * [Learn PostgeSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
-* [Joining Data](https://learn.datacamp.com/courses/joining-data-in-postgresql)
 
 # Week 7 - SQL- Part2
 
@@ -276,7 +276,7 @@ Classes are such a challenging subject there are no Optional Readings for this w
 
 ### Readings/Videos/DataCamp
 1. [SQL Autoincrementing](https://www.w3schools.com/sql/sql_autoincrement.asp)
-2. [Joining Data](https://learn.datacamp.com/courses/joining-data-in-postgresql)
+2. [Joining Data](https://learn.datacamp.com/courses/joining-data-in-postgresql) - Please complete 3 and 4
 3. [Intermediate SQL](https://learn.datacamp.com/courses/intermediate-sql) - Please complete 1-4
 
 ### Text File (Instead of a Notebook)
@@ -305,7 +305,29 @@ Classes are such a challenging subject there are no Optional Readings for this w
 1. [Intro to Stats in Python](https://learn.datacamp.com/courses/introduction-to-statistics-in-python) - Please complete 1 and 2
 2. [Reference scipy documentation](https://scipy-lectures.org/packages/statistics/index.html)
 
-### In lieu of a code submission, you need to work on your class project and turn it in under week 8 Canvas HW.
+### In lieu of a coding addignment, you need to work on your class project and turn it in under week 8 Canvas HW.
 Please make sure you have a github repo where your team is storing and working on your project together. We would like your contributions to be relatively even. We can check this!
 
 Use what you learned this week in your project!
+
+# Week 9 - Basic Probability in Python
+
+## In Class Assignment due Friday, May 3rd, 2021 @ 8pm
+1. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, May 5, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+
+1. [Intro to Stats in Python](https://learn.datacamp.com/courses/introduction-to-statistics-in-python) - Please complete 3 and 4
+2. [Khan Academy: basic theoretical probability section](https://www.khanacademy.org/math/statistics-probability/probability-library#basic-theoretical-probability)
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the probability_hw.docx file under week 9.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+- The [Khan Academy: Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) course is a great resource to get another video on any concepts that are challenging. Seek out what you need more help on, and your TAs are here to help. 
+
+
