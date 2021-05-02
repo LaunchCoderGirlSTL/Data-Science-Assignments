@@ -330,4 +330,25 @@ Use what you learned this week in your project!
 ### Optional Reading
 - The [Khan Academy: Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) course is a great resource to get another video on any concepts that are challenging. Seek out what you need more help on, and your TAs are here to help. 
 
+# Week 10 - Intro to Linear Algebra in Python
 
+## In Class Assignment due Friday, May 7th, 2021 @ 8pm
+1. [One hot encoding](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/) - This is a tecnique you will use a lot going forward, and it requires knowledge of linear algebra to use in many scenarios
+2. Submit your group activity to Canvas using the git url! 
+
+
+## Homework due Wednesday, May 12, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Linear Algebra in python](https://pythonnumericalmethods.berkeley.edu/notebooks/chapter14.00-Linear-Algebra-and-Systems-of-Linear-Equations.html) - Go through all the subsections from Basics of Linear Algebra to Summary. Do the TRY IT! sections, as they will help you with your homework.
+2. [PCA in python](https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python) - Remember, PCA uses linear algebra, hence why its relevant here
+	- be sure to copy the example code into your own jupyter notebook and run it as you go through the reading.
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the linear_algebra_hw.docx file under week 9.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+- [Linear Algebra](https://medium.com/swlh/linear-algebra-in-python-b967061e342a)
+- [Python linear algebra basics] (https://rlhick.people.wm.edu/stories/linear-algebra-python-basics.html)

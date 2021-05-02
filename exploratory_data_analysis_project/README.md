@@ -45,7 +45,7 @@ You must submit a link to your group github repository with:
 
 2. A ppt presentation with at least 4 slides and no more than 15. 
 
-AND you will be presenting your PowerPoint presentation in 5-8 minutes on the due date. 
+AND you will be presenting your PowerPoint presentation in 5-10 minutes on the due date. 
 
 
 ### Guidelines for your notebook:
