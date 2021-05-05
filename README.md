@@ -353,3 +353,4 @@ Use what you learned this week in your project!
 ### Optional Reading
 - [Linear Algebra](https://medium.com/swlh/linear-algebra-in-python-b967061e342a)
 - [Python linear algebra basics](https://rlhick.people.wm.edu/stories/linear-algebra-python-basics.html)
+- [LaTeX formatting](https://www.overleaf.com/learn/latex/subscripts_and_superscripts) - this can be done in a jupyter notebook markdown section!
