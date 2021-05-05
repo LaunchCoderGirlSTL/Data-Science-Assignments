@@ -341,7 +341,8 @@ Use what you learned this week in your project!
 
 ### Readings/Videos/DataCamp
 1. [Linear Algebra in python](https://pythonnumericalmethods.berkeley.edu/notebooks/chapter14.00-Linear-Algebra-and-Systems-of-Linear-Equations.html) - Go through all the subsections from Basics of Linear Algebra to Summary. Do the TRY IT! sections, as they will help you with your homework.
-2. [PCA in python](https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python) - Remember, PCA uses linear algebra, hence why its relevant here
+2. [Dot product vs cross product](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition)
+3. [PCA in python](https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python) - Remember, PCA uses linear algebra, hence why its relevant here
 	- be sure to copy the example code into your own jupyter notebook and run it as you go through the reading.
 
 ### Notebook
@@ -351,4 +352,4 @@ Use what you learned this week in your project!
 
 ### Optional Reading
 - [Linear Algebra](https://medium.com/swlh/linear-algebra-in-python-b967061e342a)
-- [Python linear algebra basics] (https://rlhick.people.wm.edu/stories/linear-algebra-python-basics.html)
+- [Python linear algebra basics](https://rlhick.people.wm.edu/stories/linear-algebra-python-basics.html)
