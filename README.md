@@ -370,3 +370,4 @@ Use what you learned this week in your project!
 
 ### Optional Reading
 - [Fourier Analysis](https://towardsdatascience.com/fourier-transformation-and-its-mathematics-fff54a6f6659)
+- [More Fourier Analysis](https://learn.adafruit.com/fft-fun-with-fourier-transforms/background)
