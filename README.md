@@ -354,3 +354,19 @@ Use what you learned this week in your project!
 - [Linear Algebra](https://medium.com/swlh/linear-algebra-in-python-b967061e342a)
 - [Python linear algebra basics](https://rlhick.people.wm.edu/stories/linear-algebra-python-basics.html)
 - [LaTeX formatting](https://www.overleaf.com/learn/latex/subscripts_and_superscripts) - this can be done in a jupyter notebook markdown section!
+
+
+# Week 11 - Time Series Analysis
+
+## In Class Assignment due Friday, May 14th, 2021 @ 8pm
+1. Submit class_outline with answers to last set of discussion questions on canvas
+
+
+## Homework due Wednesday, May 19, 2021 @ 5:30pm
+
+
+### Notebook
+1. See the homework template in git for this week's homework!
+
+### Optional Reading
+- [Fourier Analysis](https://towardsdatascience.com/fourier-transformation-and-its-mathematics-fff54a6f6659)
