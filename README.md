@@ -371,3 +371,24 @@ Use what you learned this week in your project!
 ### Optional Reading
 - [Fourier Analysis](https://towardsdatascience.com/fourier-transformation-and-its-mathematics-fff54a6f6659)
 - [More Fourier Analysis](https://learn.adafruit.com/fft-fun-with-fourier-transforms/background)
+
+# Week 12 - Machine Learning Intro
+
+## In Class Assignment due Friday, May 21st, 2021 @ 8pm
+1. [Lambda, Apply, Assign](https://www.geeksforgeeks.org/applying-lambda-functions-to-pandas-dataframe/)
+2. [Map, Reduce, Lambda](https://book.pythontips.com/en/latest/map_filter.html)
+3. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, May 26, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Machine learning for business](https://learn.datacamp.com/courses/machine-learning-for-business) Complete 1-4
+2. [Data Science Toolkit](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1) Complete 1-3
+3. Read about how lambda works https://realpython.com/python-lambda/
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the intro_to_ml.docx file under week 12.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
