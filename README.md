@@ -384,6 +384,7 @@ Use what you learned this week in your project!
 ### Readings/Videos/DataCamp
 1. [Machine learning for business](https://learn.datacamp.com/courses/machine-learning-for-business) Complete 1-4
 2. [Data Science Toolkit](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1) Complete 1-3
+3. https://datatofish.com/correlation-matrix-pandas/ Correlation matrix
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the intro_to_ml.docx file under week 12.
