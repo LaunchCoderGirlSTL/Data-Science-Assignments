@@ -384,7 +384,6 @@ Use what you learned this week in your project!
 ### Readings/Videos/DataCamp
 1. [Machine learning for business](https://learn.datacamp.com/courses/machine-learning-for-business) Complete 1-4
 2. [Data Science Toolkit](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1) Complete 1-3
-3. Read about how lambda works https://realpython.com/python-lambda/
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the intro_to_ml.docx file under week 12.
@@ -392,3 +391,4 @@ Use what you learned this week in your project!
 3. Upload your completed notebook to github and submit the link to Canvas.
 
 ### Optional Reading
+Read about how lambda works https://realpython.com/python-lambda/
