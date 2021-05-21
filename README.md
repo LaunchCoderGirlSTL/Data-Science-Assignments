@@ -397,8 +397,8 @@ Read about how lambda works https://realpython.com/python-lambda/
 # Week 13 - Machine Learning Supervised Learning
 
 ## In Class Assignment due Friday, May 28th, 2021 @ 8pm
-
-3. Submit your group activity to Canvas using the git url! 
+1. [Intro to Supervised Learning in Python](https://builtin.com/data-science/supervised-learning-python)
+2. Submit your group activity to Canvas using the git url! 
 
 ## Homework due Wednesday, June 2, 2021 @ 5:30pm
 
@@ -406,9 +406,8 @@ Read about how lambda works https://realpython.com/python-lambda/
 1. [Preprocessing for Machine Learning](https://learn.datacamp.com/courses/preprocessing-for-machine-learning-in-python) Complete 1-4
 2. [Supervised Learning in sklearn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn) Complete 1-2
 
-
 ### Notebook
-1. Create a markdown heading and explanation for each question in the supervised_learning.docx file under week 12.
+1. Create a markdown heading and explanation for each question in the supervised_learning.docx file under week 13.
 2. Put the code answer for each question under the markdown heading.
 3. Upload your completed notebook to github and submit the link to Canvas.
 
