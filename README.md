@@ -413,3 +413,24 @@ Read about how lambda works https://realpython.com/python-lambda/
 
 ### Optional Reading
 [Supervised learning in Sklearn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn) 3-4
+
+# Week 14 - Multiple Linear Regression and Logistic Regression
+
+## In Class Assignment due Friday, June 4th, 2021 @ 8pm
+1. [Logistic Regression](https://christophm.github.io/interpretable-ml-book/logistic.html) Read 4.2 on Logistic Regression
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, June 9, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Intermediate Regression with statsmodel](https://learn.datacamp.com/courses/intermediate-regression-with-statsmodels-in-python) Complete 1-4
+2. [Preprocessing Reading](https://scikit-learn.org/stable/modules/preprocessing.html) - Please read this article to solidify your understanding of preprocessing
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the regression_hw.docx file under week 13.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+Read section 4.1 on Linear Regression https://christophm.github.io/interpretable-ml-book/limo.html 
+Read https://www.investopedia.com/terms/m/mlr.asp on multiple linear regression
