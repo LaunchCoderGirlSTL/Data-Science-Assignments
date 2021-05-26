@@ -433,4 +433,5 @@ Read about how lambda works https://realpython.com/python-lambda/
 
 ### Optional Reading
 Read section 4.1 on Linear Regression https://christophm.github.io/interpretable-ml-book/limo.html 
+
 Read https://www.investopedia.com/terms/m/mlr.asp on multiple linear regression
