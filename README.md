@@ -393,6 +393,7 @@ Use what you learned this week in your project!
 
 ### Optional Reading
 Read about how lambda works https://realpython.com/python-lambda/
+More review of linear regression https://www.w3schools.com/python/python_ml_linear_regression.asp (see there is also something on polynomial regression that is useful)
 
 # Week 13 - Machine Learning Supervised Learning
 
@@ -424,7 +425,8 @@ Read about how lambda works https://realpython.com/python-lambda/
 
 ### Readings/Videos/DataCamp
 1. [Intermediate Regression with statsmodel](https://learn.datacamp.com/courses/intermediate-regression-with-statsmodels-in-python) Complete 1-4
-2. [Preprocessing Reading](https://scikit-learn.org/stable/modules/preprocessing.html) - Please read this article to solidify your understanding of preprocessing
+2. [Multiple Linear Regression](https://www.w3schools.com/python/python_ml_multiple_regression.asp) - this is another way to do multiple regression: different from the datacamp course but what we discussed in class. You can use either approach. 
+3. [Preprocessing Reading](https://scikit-learn.org/stable/modules/preprocessing.html) - Please read this article to solidify your understanding of preprocessing
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the regression_hw.docx file under week 13.
