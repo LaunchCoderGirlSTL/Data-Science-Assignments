@@ -437,3 +437,20 @@ More review of linear regression https://www.w3schools.com/python/python_ml_line
 Read section 4.1 on Linear Regression https://christophm.github.io/interpretable-ml-book/limo.html 
 
 Read https://www.investopedia.com/terms/m/mlr.asp on multiple linear regression
+
+# Week 15 - Support Vector Machines, Oversampling, and Undersampling
+
+## In Class Assignment due Friday, June 11th, 2021 @ 8pm
+1. [Oversampling and Undersampling](https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/)
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, June 18, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Linear Classifiers in sklearn](https://learn.datacamp.com/courses/linear-classifiers-in-python) Please complete 1-2
+
+### Notebook
+1. You do not have a notebook to complete this week. Your ETL projects are due next week and should be submitted under week 15 on canvas.
+
+### Optional Reading
+No optional readings this week. Make sure you understand very well what an SVM is!
