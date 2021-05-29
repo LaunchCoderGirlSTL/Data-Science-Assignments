@@ -429,11 +429,15 @@ More review of linear regression https://www.w3schools.com/python/python_ml_line
 3. [Preprocessing Reading](https://scikit-learn.org/stable/modules/preprocessing.html) - Please read this article to solidify your understanding of preprocessing
 
 ### Notebook
-1. Create a markdown heading and explanation for each question in the regression_hw.docx file under week 13.
+1. Create a markdown heading and explanation for each question in the regression_hw.docx file under week 14.
 2. Put the code answer for each question under the markdown heading.
 3. Upload your completed notebook to github and submit the link to Canvas.
 
 ### Optional Reading
+[Intro to Regression with Statsmodel](https://campus.datacamp.com/courses/introduction-to-regression-with-statsmodels-in-python)
+
+Some additional statistical concepts https://data-flair.training/blogs/python-statistics
+
 Read section 4.1 on Linear Regression https://christophm.github.io/interpretable-ml-book/limo.html 
 
 Read https://www.investopedia.com/terms/m/mlr.asp on multiple linear regression
