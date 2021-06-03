@@ -19,7 +19,7 @@ unsupervised, or reinforced learning techniques we either have or have not discu
 2. Store the data you are using for your analysis in a database and use ETL to get it there. You are welcome to try using a cloud database to store your data, but you do not have to.
 3. Create a presentation of no more than 30 slides with your findings
 4. Plan to share your model code in your presentation and make sure your code and explanations are as clean as possible.
-- This project is focused on the models themselves, so you dont need to share ETL code or anything like that.
+- This project is focused on the models themselves, so you dont need to share ETL code in your presentation. In fact, please DO NOT unless there is a good reason to do so.
 5. Be prepared to give a 10-15 minute presentation. Do NOT go over 15 minutes. This is also an exercise in planning!
 
 
@@ -37,6 +37,7 @@ You must submit a link to your group github repository with:
 ### Guidelines for your notebook:
 - Make sure much of your code is stored in functions. Try to transition out of the script mentality and more to reusable code. 
 - Be careful to clearly show steps for preprocessing, training, validating, and predicting.
+- Make sure you are not overfitting or underfitting your model. Specify how you know. 
 - Write up a summary of each step you have gone through using `markdown`. 
 - Code should be neat and well documented 
 - Use a common repository for your team
