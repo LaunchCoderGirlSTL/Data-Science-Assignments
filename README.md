@@ -446,7 +446,8 @@ Read https://www.investopedia.com/terms/m/mlr.asp on multiple linear regression
 
 ## In Class Assignment due Friday, June 11th, 2021 @ 8pm
 1. [Oversampling and Undersampling](https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/)
-2. Submit your group activity to Canvas using the git url! 
+2. [SVM Sklearn Documentation](https://scikit-learn.org/stable/modules/svm.html)
+3. Submit your group activity to Canvas using the git url! 
 
 ## Homework due Wednesday, June 18, 2021 @ 5:30pm
 
@@ -457,4 +458,4 @@ Read https://www.investopedia.com/terms/m/mlr.asp on multiple linear regression
 1. You do not have a notebook to complete this week. Your ETL projects are due next week and should be submitted under week 15 on canvas.
 
 ### Optional Reading
-No optional readings this week. Make sure you understand very well what an SVM is!
+No optional readings this week. Make sure you understand very well what an SVM is and the kinds of problems it can be used to solve!
