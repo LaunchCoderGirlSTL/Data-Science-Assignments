@@ -449,7 +449,7 @@ Read https://www.investopedia.com/terms/m/mlr.asp on multiple linear regression
 2. [SVM Sklearn Documentation](https://scikit-learn.org/stable/modules/svm.html)
 3. Submit your group activity to Canvas using the git url! 
 
-## Homework due Wednesday, June 18, 2021 @ 5:30pm
+## Homework due Wednesday, June 16, 2021 @ 5:30pm
 
 ### Readings/Videos/DataCamp
 1. [Linear Classifiers in sklearn](https://learn.datacamp.com/courses/linear-classifiers-in-python) Please complete 1-2
@@ -459,3 +459,21 @@ Read https://www.investopedia.com/terms/m/mlr.asp on multiple linear regression
 
 ### Optional Reading
 No optional readings this week. Make sure you understand very well what an SVM is and the kinds of problems it can be used to solve!
+
+# Week 16 - Decision Trees and ETL Code Reviews
+
+## In Class Assignment due Friday, June 18th, 2021 @ 8pm
+1. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, June 23, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Linear Classifiers in sklearn](https://learn.datacamp.com/courses/linear-classifiers-in-python) Please complete 3-4
+2. [Machine Learning with Tree-Based Models](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) Please complete 1-2
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the svm_over_under_sampling_hw.docx file under week 16.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
