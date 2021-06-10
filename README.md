@@ -463,7 +463,8 @@ No optional readings this week. Make sure you understand very well what an SVM i
 # Week 16 - Decision Trees and ETL Code Reviews
 
 ## In Class Assignment due Friday, June 18th, 2021 @ 8pm
-1. Submit your group activity to Canvas using the git url! 
+1. [Decision Trees for Decision Making](https://hbr.org/1964/07/decision-trees-for-decision-making) 
+2. Submit your group activity to Canvas using the git url! 
 
 ## Homework due Wednesday, June 23, 2021 @ 5:30pm
 
