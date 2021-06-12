@@ -463,7 +463,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 # Week 16 - Decision Trees and ETL Code Reviews
 
 ## In Class Assignment due Friday, June 18th, 2021 @ 8pm
-1. [Decision Trees for Decision Making](https://hbr.org/1964/07/decision-trees-for-decision-making) 
+1. [Decision Trees with python](https://datascience.foundation/sciencewhitepaper/understanding-decision-trees-with-python)  
 2. Submit your group activity to Canvas using the git url! 
 
 ## Homework due Wednesday, June 23, 2021 @ 5:30pm
@@ -478,3 +478,10 @@ No optional readings this week. Make sure you understand very well what an SVM i
 3. Upload your completed notebook to github and submit the link to Canvas.
 
 ### Optional Reading
+[Gentle Introduction to Information Theory](https://machinelearningmastery.com/what-is-information-entropy/)
+
+[Information Theory](https://web.mit.edu/6.933/www/Fall2001/Shannon2.pdf) 
+
+[Decision Tree Classification in Python](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
+
+[Decision Trees for Decision Making](https://hbr.org/1964/07/decision-trees-for-decision-making)
