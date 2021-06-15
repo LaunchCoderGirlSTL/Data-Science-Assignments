@@ -485,3 +485,27 @@ No optional readings this week. Make sure you understand very well what an SVM i
 [Decision Tree Classification in Python](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
 
 [Decision Trees for Decision Making](https://hbr.org/1964/07/decision-trees-for-decision-making)
+
+# Week 17 - Random Forest
+
+## In Class Assignment due Friday, June 25th, 2021 @ 8pm
+1. [Random Forest Classifier in Python](https://www.datacamp.com/community/tutorials/random-forests-classifier-python)
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, June 30, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Machine Learning with Tree-Based Models](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) Please complete 3-5
+2. [Parallel Random Forest Paper](https://arxiv.org/pdf/1810.07748.pdf) - You do not need to understand 100% of this, but its important you know what the industry is doing
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the tree_based_models_hw.docx file under week 17.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### You should start working on your final project now. At this point, you know enough to start 
+
+### Optional Reading
+[Complete Guide to Random Forest](https://builtin.com/data-science/random-forest-algorithm)
+
+[Random Forest in Python](https://machinelearningmastery.com/random-forest-ensemble-in-python/)
