@@ -497,6 +497,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ### Readings/Videos/DataCamp
 1. [Machine Learning with Tree-Based Models](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) Please complete 3-5
 2. [Parallel Random Forest Paper](https://arxiv.org/pdf/1810.07748.pdf) - You do not need to understand 100% of this, but its important you know what the industry is doing
+3. [Intro to XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) 
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the tree_based_models_hw.docx file under week 17.
@@ -513,3 +514,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 [Complete Guide to Random Forest](https://builtin.com/data-science/random-forest-algorithm)
 
 [Random Forest in Python](https://machinelearningmastery.com/random-forest-ensemble-in-python/)
+
+[XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/)
+
+# Week 17 - Intro to Neural Networks
