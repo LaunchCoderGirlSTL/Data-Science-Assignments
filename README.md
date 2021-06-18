@@ -486,7 +486,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 [Decision Trees for Decision Making](https://hbr.org/1964/07/decision-trees-for-decision-making)
 
-# Week 17 - Random Forest
+# Week 17 - Ensemble Learning - Random Forest
 
 ## In Class Assignment due Friday, June 25th, 2021 @ 8pm
 1. [Random Forest Classifier in Python](https://www.datacamp.com/community/tutorials/random-forests-classifier-python)
@@ -506,6 +506,10 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ### You should start working on your final project now. At this point, you know enough to start 
 
 ### Optional Reading
+[Ensemble Method - Bagging and boosting](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
+
+[Resampling Types](http://strata.uga.edu/8370/lecturenotes/resampling.html)
+
 [Complete Guide to Random Forest](https://builtin.com/data-science/random-forest-algorithm)
 
 [Random Forest in Python](https://machinelearningmastery.com/random-forest-ensemble-in-python/)
