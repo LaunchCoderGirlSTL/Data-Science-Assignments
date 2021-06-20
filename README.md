@@ -489,15 +489,16 @@ No optional readings this week. Make sure you understand very well what an SVM i
 # Week 17 - Ensemble Learning - Random Forest
 
 ## In Class Assignment due Friday, June 25th, 2021 @ 8pm
-1. [Random Forest Classifier in Python](https://www.datacamp.com/community/tutorials/random-forests-classifier-python)
+1. [ROC Curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) 
 2. Submit your group activity to Canvas using the git url! 
 
 ## Homework due Wednesday, June 30, 2021 @ 5:30pm
 
 ### Readings/Videos/DataCamp
 1. [Machine Learning with Tree-Based Models](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) Please complete 3-5
-2. [Parallel Random Forest Paper](https://arxiv.org/pdf/1810.07748.pdf) - You do not need to understand 100% of this, but its important you know what the industry is doing
-3. [Intro to XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) 
+2. [Random Forest Classifier in Python](https://www.datacamp.com/community/tutorials/random-forests-classifier-python) - This is a refresher on the basics we covered in class
+3. [Parallel Random Forest Paper](https://arxiv.org/pdf/1810.07748.pdf) - You do not need to understand 100% of this, but its important you know what the industry is doing
+4. [Intro to XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) 
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the tree_based_models_hw.docx file under week 17.
@@ -517,4 +518,4 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 [XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/)
 
-# Week 17 - Intro to Neural Networks
+# Week 18 - Intro to Neural Networks
