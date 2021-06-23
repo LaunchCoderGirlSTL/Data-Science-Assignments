@@ -519,3 +519,26 @@ No optional readings this week. Make sure you understand very well what an SVM i
 [XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/)
 
 # Week 18 - Intro to Neural Networks
+
+## In Class Assignment due Friday, July 2nd, 2021 @ 8pm
+1. TBD
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, July 7, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Intro to Deep Learning](https://learn.datacamp.com/courses/introduction-to-deep-learning-in-python) please complete 1-4
+2. [Intro to TensorFlow](https://learn.datacamp.com/courses/introduction-to-tensorflow-in-python) please just complete 1
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the neural_networks_hw.docx file under week 17.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Make sure you have picked your group for your final project. No issues if you want to mix them up. 
+
+### Optional Reading
+
+[PyTorch vs Keras vs TensorFlow](https://www.simplilearn.com/keras-vs-tensorflow-vs-pytorch-article)
+
+# Week 19 - Unsupervised Learning
