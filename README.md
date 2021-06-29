@@ -555,6 +555,8 @@ No optional readings this week. Make sure you understand very well what an SVM i
 1. [Neural Network Scaling](https://machinelearningmastery.com/how-to-improve-neural-network-stability-and-modeling-performance-with-data-scaling/)
 2. Submit your group activity to Canvas using the git url! 
 
+## Homework due Wednesday, July 14, 2021 @ 5:30pm
+
 ### Readings/Videos/DataCamp
 1. [Intro to TensorFlow](https://learn.datacamp.com/courses/introduction-to-tensorflow-in-python) please complete 2-4
 2. [Unsupervised Learning in python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Please complete 1-3
@@ -567,3 +569,18 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ### Optional Reading
 
 # Week 20 - Natural Language Processing
+
+## In Class Assignment due Friday, July 16th, 2021 @ 8pm
+1. TBD
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, July 21, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Unsupervised Learning in python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Please complete 4
+2. [Intro to NLP](https://learn.datacamp.com/courses/introduction-to-natural-language-processing-in-python) Complete 1-4
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the natural_language_processing_hw.docx file under week 20.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
