@@ -521,7 +521,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 # Week 18 - Intro to Neural Networks
 
 ## In Class Assignment due Friday, July 2nd, 2021 @ 8pm
-1. TBD
+1. [PyTorch Loss Functions](https://neptune.ai/blog/pytorch-loss-functions)
 2. Submit your group activity to Canvas using the git url! 
 
 ## Homework due Wednesday, July 7, 2021 @ 5:30pm
@@ -541,4 +541,27 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 [PyTorch vs Keras vs TensorFlow](https://www.simplilearn.com/keras-vs-tensorflow-vs-pytorch-article)
 
+[Neural Networks](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/video-lecture)
+
+[ReLU](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
+
+[Backpropagation](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
+
+[What is TensorFlow](https://www.guru99.com/what-is-tensorflow.html)
+
 # Week 19 - Unsupervised Learning
+
+## In Class Assignment due Friday, July 9nd, 2021 @ 8pm
+1. [Neural Network Scaling](https://machinelearningmastery.com/how-to-improve-neural-network-stability-and-modeling-performance-with-data-scaling/)
+2. Submit your group activity to Canvas using the git url! 
+
+### Readings/Videos/DataCamp
+1. [Intro to TensorFlow](https://learn.datacamp.com/courses/introduction-to-tensorflow-in-python) please complete 2-4
+2. [Unsupervised Learning in python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Please complete 1-3
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the unsupervised_learning_hw.docx file under week 17.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
