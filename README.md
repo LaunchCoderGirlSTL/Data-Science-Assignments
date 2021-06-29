@@ -531,7 +531,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 2. [Intro to TensorFlow](https://learn.datacamp.com/courses/introduction-to-tensorflow-in-python) please just complete 1
 
 ### Notebook
-1. Create a markdown heading and explanation for each question in the neural_networks_hw.docx file under week 17.
+1. Create a markdown heading and explanation for each question in the neural_networks_hw.docx file under week 18.
 2. Put the code answer for each question under the markdown heading.
 3. Upload your completed notebook to github and submit the link to Canvas.
 
@@ -560,8 +560,10 @@ No optional readings this week. Make sure you understand very well what an SVM i
 2. [Unsupervised Learning in python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Please complete 1-3
 
 ### Notebook
-1. Create a markdown heading and explanation for each question in the unsupervised_learning_hw.docx file under week 17.
+1. Create a markdown heading and explanation for each question in the unsupervised_learning_hw.docx file under week 19.
 2. Put the code answer for each question under the markdown heading.
 3. Upload your completed notebook to github and submit the link to Canvas.
 
 ### Optional Reading
+
+# Week 20 - Natural Language Processing
