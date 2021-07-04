@@ -568,6 +568,12 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 ### Optional Reading
 
+[Unsupervised Learning Cheat Sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
+
+[Hierarchical clustering](https://www.analyticsvidhya.com/blog/2019/05/beginners-guide-hierarchical-clustering/)
+
+[K-Means Ideal Number of Clusters](https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/)
+
 # Week 20 - Natural Language Processing
 
 ## In Class Assignment due Friday, July 16th, 2021 @ 8pm
@@ -584,3 +590,5 @@ No optional readings this week. Make sure you understand very well what an SVM i
 1. Create a markdown heading and explanation for each question in the natural_language_processing_hw.docx file under week 20.
 2. Put the code answer for each question under the markdown heading.
 3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
