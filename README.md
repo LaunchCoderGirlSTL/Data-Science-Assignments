@@ -574,6 +574,8 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 [K-Means Ideal Number of Clusters](https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/)
 
+[Graph Clustering](https://d-nb.info/1132549507/34)
+
 # Week 20 - Natural Language Processing
 
 ## In Class Assignment due Friday, July 16th, 2021 @ 8pm
