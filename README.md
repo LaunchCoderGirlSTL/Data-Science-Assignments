@@ -576,6 +576,8 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 [Graph Clustering](https://d-nb.info/1132549507/34)
 
+[Dimensionality Reduction Algorithms](https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-python/)
+
 # Week 20 - Natural Language Processing
 
 ## In Class Assignment due Friday, July 16th, 2021 @ 8pm
