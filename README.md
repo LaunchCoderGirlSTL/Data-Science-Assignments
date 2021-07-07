@@ -581,7 +581,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 # Week 20 - Natural Language Processing
 
 ## In Class Assignment due Friday, July 16th, 2021 @ 8pm
-1. TBD
+1. [Tokenization](https://nlp.stanford.edu/IR-book/html/htmledition/tokenization-1.html)
 2. Submit your group activity to Canvas using the git url! 
 
 ## Homework due Wednesday, July 21, 2021 @ 5:30pm
@@ -596,3 +596,26 @@ No optional readings this week. Make sure you understand very well what an SVM i
 3. Upload your completed notebook to github and submit the link to Canvas.
 
 ### Optional Reading
+
+[Standford NLP Group](https://nlp.stanford.edu/IR-book/html/htmledition/contents-1.html)
+
+# Week 21 - Creating Basic APIs in AWS
+
+## In Class Assignment due Friday, July 23rd, 2021 @ 8pm
+1. [CRUD vs REST APIs](https://nordicapis.com/crud-vs-rest-whats-the-difference/)
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, July 28, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. Read and go through instructions for how to serve an API using [AWS Lightsail](https://aws.amazon.com/getting-started/hands-on/serve-a-flask-app/). This is the simplest implementation of an API in the cloud.
+2. Review [Flask documentation](https://flask.palletsprojects.com/en/2.0.x/)
+3. [Web Scraping in python](https://learn.datacamp.com/courses/web-scraping-with-python) Please just complete 1
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the APIs_hw.docx file under week 21.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+
