@@ -619,3 +619,39 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 ### Optional Reading
 
+# Week 22 - Webscraping in Python
+
+## In Class Assignment due Friday, July 30th, 2021 @ 8pm
+1. TBD
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, August 4th, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Web Scraping in python](https://learn.datacamp.com/courses/web-scraping-with-python) Please complete 2-4
+2. [MongoDB in Python](https://learn.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python) Please just complete 1
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the webscraping_hw.docx file under week 22.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+
+# Week 23 - MongoDB
+
+## In Class Assignment due Friday, August 6th, 2021 @ 8pm
+1. TBD
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, August 11th, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [MongoDB in Python](https://learn.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python) Please complete 2-4
+
+### Notebook
+There is no notebook assignment this week. Please complete your final projects with your group and be ready to present next week!
+
+### Optional Reading
+
+# Week 24 - Final Project Presentations
