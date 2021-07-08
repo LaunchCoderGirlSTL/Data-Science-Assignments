@@ -613,9 +613,8 @@ No optional readings this week. Make sure you understand very well what an SVM i
 3. [Web Scraping in python](https://learn.datacamp.com/courses/web-scraping-with-python) Please just complete 1
 
 ### Notebook
-1. Create a markdown heading and explanation for each question in the APIs_hw.docx file under week 21.
-2. Put the code answer for each question under the markdown heading.
-3. Upload your completed notebook to github and submit the link to Canvas.
+1. Create a python application to answer the questions in the APIs_hw.docx file under week 21.
+2. Write any conceptual questions, clarifications, and notes in comments. Be sure to number appropriately.
 
 ### Optional Reading
 
