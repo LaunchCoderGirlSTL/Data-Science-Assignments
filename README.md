@@ -599,6 +599,13 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 [Standford NLP Group](https://nlp.stanford.edu/IR-book/html/htmledition/contents-1.html)
 
+[NLP for Big Data](http://www.expertsystem.com/nlp-big-data-everyone-know/)
+
+[MapReduce in Python](https://towardsdatascience.com/a-beginners-introduction-into-mapreduce-2c912bb5e6ac)
+
+[Advances in NLP](http://scholar.google.com/scholar_url?url=https://nlp.stanford.edu/~manning/xyzzy/Hirschberg-Manning-Science-2015.pdf&hl=en&sa=X&ei=M_ToYOW4F4z0yATh05zgDw&scisig=AAGBfm2xWW9jBk_jDLHewVuMnjmF6--G8g&nossl=1&oi=scholarr)
+
+
 # Week 21 - Creating Basic APIs in AWS
 
 ## In Class Assignment due Friday, July 23rd, 2021 @ 8pm
