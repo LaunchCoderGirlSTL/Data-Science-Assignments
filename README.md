@@ -596,7 +596,9 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 ### Optional Reading
 
-[Standford NLP Group](https://nlp.stanford.edu/IR-book/html/htmledition/contents-1.html)
+[Top 5 Tokenizers](https://towardsdatascience.com/top-5-word-tokenizers-that-every-nlp-data-scientist-should-know-45cc31f8e8b9)
+
+[Stanford NLP Group](https://nlp.stanford.edu/IR-book/html/htmledition/contents-1.html)
 
 [NLP for Big Data](http://www.expertsystem.com/nlp-big-data-everyone-know/)
 
