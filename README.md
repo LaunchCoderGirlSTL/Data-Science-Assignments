@@ -589,6 +589,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ### Readings/Videos/DataCamp
 1. [Unsupervised Learning in python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Please complete 4
 2. [Intro to NLP](https://learn.datacamp.com/courses/introduction-to-natural-language-processing-in-python) Complete 1-4
+3. Create your [free Azure account](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/) for next class
 
 ### Notebook/Program
 1. Answer each question in the natural_language_processing_hw.docx file under week 20. Document as needed.
@@ -607,7 +608,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 [Advances in NLP](http://scholar.google.com/scholar_url?url=https://nlp.stanford.edu/~manning/xyzzy/Hirschberg-Manning-Science-2015.pdf&hl=en&sa=X&ei=M_ToYOW4F4z0yATh05zgDw&scisig=AAGBfm2xWW9jBk_jDLHewVuMnjmF6--G8g&nossl=1&oi=scholarr)
 
 
-# Week 21 - Creating Basic APIs in AWS
+# Week 21 - Creating Basic APIs in the Cloud
 
 ## In Class Assignment due Friday, July 23rd, 2021 @ 8pm
 1. [CRUD vs REST APIs](https://nordicapis.com/crud-vs-rest-whats-the-difference/)
@@ -616,8 +617,8 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ## Homework due Wednesday, July 28, 2021 @ 5:30pm
 
 ### Readings/Videos/DataCamp
-1. Read and go through instructions for how to serve an API using [AWS Lightsail](https://aws.amazon.com/getting-started/hands-on/serve-a-flask-app/). This is the simplest implementation of an API in the cloud.
-2. Review [Flask documentation](https://flask.palletsprojects.com/en/2.0.x/)
+1. [Cloud Computing for Everyone](https://learn.datacamp.com/courses/cloud-computing-for-everyone) Please complete 1-3. This should take less than 2 hours.
+2. Review [Flask documentation](https://flask.palletsprojects.com/en/2.0.x/) as needed to complete HW
 3. [Web Scraping in python](https://learn.datacamp.com/courses/web-scraping-with-python) Please just complete 1
 
 ### Notebook
@@ -625,6 +626,10 @@ No optional readings this week. Make sure you understand very well what an SVM i
 2. Write any conceptual questions, clarifications, and notes in comments. Be sure to number appropriately.
 
 ### Optional Reading
+
+[Creating APIs](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
+
+[Flask APIs](https://nordicapis.com/how-to-create-an-api-using-the-flask-framework/)
 
 # Week 22 - Webscraping in Python
 
