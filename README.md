@@ -587,15 +587,16 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ## Homework due Wednesday, July 21, 2021 @ 5:30pm
 
 ### Readings/Videos/DataCamp
-1. [Unsupervised Learning in python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Please complete 4
-2. [Intro to NLP](https://learn.datacamp.com/courses/introduction-to-natural-language-processing-in-python) Complete 1-4
-3. Create your [free Azure account](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/) for next class
+1. [Intro to NLP](https://learn.datacamp.com/courses/introduction-to-natural-language-processing-in-python) Complete 1-4
+2. Create your [free Azure account](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/) for next class
 
 ### Notebook/Program
 1. Answer each question in the natural_language_processing_hw.docx file under week 20. Document as needed.
 2. Upload your completed repo to github and submit the link to Canvas.
 
 ### Optional Reading
+
+[Unsupervised Learning in python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Part 4
 
 [Top 5 Tokenizers](https://towardsdatascience.com/top-5-word-tokenizers-that-every-nlp-data-scientist-should-know-45cc31f8e8b9)
 
