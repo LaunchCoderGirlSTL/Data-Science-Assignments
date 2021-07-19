@@ -628,14 +628,18 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 ### Optional Reading
 
+[Deploying Azure App Service](https://docs.microsoft.com/en-us/azure/developer/python/tutorial-deploy-app-service-on-linux-04)
+
 [Creating APIs](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 
 [Flask APIs](https://nordicapis.com/how-to-create-an-api-using-the-flask-framework/)
 
+[Virtual Environments](https://www.geeksforgeeks.org/python-virtual-environment/)
+
 # Week 22 - Webscraping in Python
 
 ## In Class Assignment due Friday, July 30th, 2021 @ 8pm
-1. TBD
+1. [Beautiful Soup](https://realpython.com/beautiful-soup-web-scraper-python/)
 2. Submit your group activity to Canvas using the git url! 
 
 ## Homework due Wednesday, August 4th, 2021 @ 5:30pm
@@ -654,7 +658,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 # Week 23 - MongoDB
 
 ## In Class Assignment due Friday, August 6th, 2021 @ 8pm
-1. TBD
+1. [Document DB vs Relational](https://developer.couchbase.com/comparing-document-vs-relational/)
 2. Submit your group activity to Canvas using the git url! 
 
 ## Homework due Wednesday, August 11th, 2021 @ 5:30pm
