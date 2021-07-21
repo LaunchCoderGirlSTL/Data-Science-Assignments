@@ -639,7 +639,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 # Week 22 - Webscraping in Python
 
 ## In Class Assignment due Friday, July 30th, 2021 @ 8pm
-1. [Beautiful Soup](https://realpython.com/beautiful-soup-web-scraper-python/)
+1. [Selenium Web Scraping](https://www.scrapingbee.com/blog/selenium-python/)
 2. Submit your group activity to Canvas using the git url! 
 
 ## Homework due Wednesday, August 4th, 2021 @ 5:30pm
@@ -654,6 +654,16 @@ No optional readings this week. Make sure you understand very well what an SVM i
 3. Upload your completed notebook to github and submit the link to Canvas.
 
 ### Optional Reading
+
+[Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+[Splinter Documentations](https://splinter.readthedocs.io/en/latest/drivers/chrome.html)
+
+[Beautiful Soup](https://realpython.com/beautiful-soup-web-scraper-python/)
+
+[More Beautiful Soup](https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/)
+
+[Even More BS](https://www.datacamp.com/community/tutorials/amazon-web-scraping-using-beautifulsoup)
 
 # Week 23 - MongoDB
 
