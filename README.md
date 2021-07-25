@@ -647,6 +647,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ### Readings/Videos/DataCamp
 1. [Web Scraping in python](https://learn.datacamp.com/courses/web-scraping-with-python) Please complete 2-4
 2. [MongoDB in Python](https://learn.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python) Please just complete 1
+3. Install MongoDB for next class. https://www.mongodb.com/try/download/community You can also brew install on Mac. [Instructions](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#) To confirm it is working, run "C:\Program Files\MongoDB\Server\5.0\bin\mongo.exe" from your command line and type in "show dbs". If you see some results, it should be properly installed.
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the webscraping_hw.docx file under week 22.
@@ -668,7 +669,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 # Week 23 - MongoDB
 
 ## In Class Assignment due Friday, August 6th, 2021 @ 8pm
-1. [Document DB vs Relational](https://developer.couchbase.com/comparing-document-vs-relational/)
+1. [NoSQL Explained](https://www.mongodb.com/nosql-explained)
 2. Submit your group activity to Canvas using the git url! 
 
 ## Homework due Wednesday, August 11th, 2021 @ 5:30pm
@@ -680,5 +681,11 @@ No optional readings this week. Make sure you understand very well what an SVM i
 There is no notebook assignment this week. Please complete your final projects with your group and be ready to present next week!
 
 ### Optional Reading
+
+[NoSQL databases](https://riak.com/resources/nosql-databases/index.html?p=9937.html)
+
+[NoSQL vs SQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql
+
+[MongoDB](https://www.geeksforgeeks.org/mongodb-database-collection-and-document/)
 
 # Week 24 - Final Project Presentations
