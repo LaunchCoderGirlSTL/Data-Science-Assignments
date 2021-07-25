@@ -647,12 +647,11 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ### Readings/Videos/DataCamp
 1. [Web Scraping in python](https://learn.datacamp.com/courses/web-scraping-with-python) Please complete 2-4
 2. [MongoDB in Python](https://learn.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python) Please just complete 1
-3. Install MongoDB for next class. https://www.mongodb.com/try/download/community You can also brew install on Mac. [Instructions](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#) To confirm it is working, run "C:\Program Files\MongoDB\Server\5.0\bin\mongo.exe" from your command line and type in "show dbs". If you see some results, it should be properly installed.
+3. Install MongoDB for next class. https://www.mongodb.com/try/download/community . [Instructions](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#) To confirm it is working, follow the instructions to run the command line tool, and type in "show dbs" once that is running. If you see some results (usually admin, config, and local), it should be properly installed.
 
 ### Notebook
-1. Create a markdown heading and explanation for each question in the webscraping_hw.docx file under week 22.
-2. Put the code answer for each question under the markdown heading.
-3. Upload your completed notebook to github and submit the link to Canvas.
+1. Create a python application to answer the questions in the webscraping_hw.docx file under week 22.
+2. Write any conceptual questions, clarifications, and notes in a readme.md file. Be sure to number appropriately.
 
 ### Optional Reading
 
