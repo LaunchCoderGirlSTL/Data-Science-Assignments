@@ -470,7 +470,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 ### Readings/Videos/DataCamp
 1. [Linear Classifiers in sklearn](https://learn.datacamp.com/courses/linear-classifiers-in-python) Please complete 3-4
-2. [Machine Learning with Tree-Based Models](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) Please complete 1-2
+2. [Machine Learning with Tree-Based Models](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) Please complete 1-3
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the svm_over_under_sampling_hw.docx file under week 16.
@@ -495,10 +495,10 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ## Homework due Wednesday, June 30, 2021 @ 5:30pm
 
 ### Readings/Videos/DataCamp
-1. [Machine Learning with Tree-Based Models](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) Please complete 3-5
-2. [Random Forest Classifier in Python](https://www.datacamp.com/community/tutorials/random-forests-classifier-python) - This is a refresher on the basics we covered in class
-3. [Parallel Random Forest Paper](https://arxiv.org/pdf/1810.07748.pdf) - You do not need to understand 100% of this, but its important you know what the industry is doing
-4. [Intro to XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) 
+1. [Machine Learning with Tree-Based Models](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) Please complete 4-5
+2. [Parallel Random Forest Paper](https://arxiv.org/pdf/1810.07748.pdf) - You do not need to understand 100% of this, but its important you know what the industry is doing
+3. [Intro to XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) 
+4. [Intro to Deep Learning](https://learn.datacamp.com/courses/introduction-to-deep-learning-in-python) please complete 1-2
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the tree_based_models_hw.docx file under week 17.
@@ -508,6 +508,9 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ### You should start working on your final project now. At this point, you know enough to start 
 
 ### Optional Reading
+
+[Random Forest Classifier in Python](https://www.datacamp.com/community/tutorials/random-forests-classifier-python) - This is a refresher on the basics we covered in class
+
 [Ensemble Method - Bagging and boosting](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
 
 [Resampling Types](http://strata.uga.edu/8370/lecturenotes/resampling.html)
@@ -527,8 +530,8 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ## Homework due Wednesday, July 7, 2021 @ 5:30pm
 
 ### Readings/Videos/DataCamp
-1. [Intro to Deep Learning](https://learn.datacamp.com/courses/introduction-to-deep-learning-in-python) please complete 1-4
-2. [Intro to TensorFlow](https://learn.datacamp.com/courses/introduction-to-tensorflow-in-python) please just complete 1
+1. [Intro to Deep Learning](https://learn.datacamp.com/courses/introduction-to-deep-learning-in-python) please complete 3-4
+2. [Unsupervised Learning in python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Please complete 1-2
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the neural_networks_hw.docx file under week 18.
@@ -549,6 +552,8 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 [What is TensorFlow](https://www.guru99.com/what-is-tensorflow.html)
 
+[Intro to TensorFlow DataCamp](https://learn.datacamp.com/courses/introduction-to-tensorflow-in-python)
+
 # Week 19 - Unsupervised Learning
 
 ## In Class Assignment due Friday, July 9nd, 2021 @ 8pm
@@ -558,8 +563,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 ## Homework due Wednesday, July 14, 2021 @ 5:30pm
 
 ### Readings/Videos/DataCamp
-1. [Intro to TensorFlow](https://learn.datacamp.com/courses/introduction-to-tensorflow-in-python) please complete 2-4
-2. [Unsupervised Learning in python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Please complete 1-3
+1. [Unsupervised Learning in python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Please complete 3-4
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the unsupervised_learning_hw.docx file under week 19.
@@ -595,8 +599,6 @@ No optional readings this week. Make sure you understand very well what an SVM i
 2. Upload your completed repo to github and submit the link to Canvas.
 
 ### Optional Reading
-
-[Unsupervised Learning in python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Part 4
 
 [Top 5 Tokenizers](https://towardsdatascience.com/top-5-word-tokenizers-that-every-nlp-data-scientist-should-know-45cc31f8e8b9)
 
