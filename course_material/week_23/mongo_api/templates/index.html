@@ -10,9 +10,10 @@
   <div class="container">
     {% for item in data %}
     <div>
-              <h4>{{ item.vendor }}</h4>
-              <h6>Fruit: {{ item.fruit }}</h6>
-              <p>Quantity: {{ item.quantity }}</p>
+              <h4>{{ item.name }}</h4>
+              <h6>Number of Seasons: {{ item.seasons }}</h6>
+              <p>Show Duration: {{ item.duration }}</p>
+              <p>Year: {{ item.year }}</p>
       </div>
       {% endfor %}
   </div>
