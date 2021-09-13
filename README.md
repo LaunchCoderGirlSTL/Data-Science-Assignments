@@ -23,8 +23,8 @@ You'll need to clone the repo to see most of them.
 ### Readings
 1. [Hello World](https://www.learnpython.org/en/Hello,_World!)
 2. [Data Structures](https://www.datacamp.com/community/tutorials/data-structures-python) 
-3. [String Manipulation](https://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation)
-4. [Intro to Git](https://learn.datacamp.com/courses/introduction-to-git) Please complete 1-2
+3. [Intro to Git](https://learn.datacamp.com/courses/introduction-to-git) Please complete 1-2
+4. [Intro to Python]([Intro to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1) - Please complete 1-2
 5. Go through the Provided `python_click_through.ipynb`.  
 
     - Open another notebook and copy each cell and play with it in the new notebook. 
@@ -44,6 +44,9 @@ You'll need to clone the repo to see most of them.
 ### Notebook
  - Complete the week 1 homework notebook found [here.](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_01/hw1_problem_set.ipynb) You can also find it in the week 1 folder inside the course materials folder here on the github page. 
  - Submit a link to your week 1 homework on Canvas. Week 1 you are allowed to submit the file itself, but in the future you will have to submit a link.
+
+### Optional Readings:
+[String Manipulation](https://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation)
 
 ### Optional Videos: 
 
@@ -69,8 +72,7 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjG
     - Complete "While Loop" through "Loop over list of lists"
  
 2. Functions
-    - Read this [introduction to functions.](http://introtopython.org/introducing_functions.html) (Don't worry about the exercises)
-    - OPTIONAL: Read more on functions [here.](https://365datascience.com/python-functions/)
+	- [Intro to Python]([Intro to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1) - Please complete 3
 
 3. Classes
     - Working with classes can be challenging. Focus your attention on:
@@ -83,7 +85,7 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjG
         1. Inheritance
 
     - Read this [introduction to classes.](http://introtopython.org/classes.html) (Don't worry about the exercises or any notes about Python 2.7.)
-    - Read [this](https://www.learnpython.org/en/Classes_and_Objects) and complete the exercise at the end.
+    - Read [this](https://www.learnpython.org/en/Classes_and_Objects) and complete the exercise at the end. You do not need to submit these, but they will prepare you for the homework.
     - Read this [Python's Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
 4. [Intro to Git](https://learn.datacamp.com/courses/introduction-to-git) Please complete 3
 
@@ -104,8 +106,8 @@ https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSe
 - Only videos 1,2 & 3
 
 ### Optional Reading: Only do this if you have completed your homework. And have deleted it and done it again. 
-
-Classes are such a challenging subject there are no Optional Readings for this week. If you made it this far please practice Classes some more! 
+[introduction to functions.](http://introtopython.org/introducing_functions.html)
+Read more on functions [here.](https://365datascience.com/python-functions/)
 
 
 
@@ -119,10 +121,10 @@ Classes are such a challenging subject there are no Optional Readings for this w
 ## Homework due Wednesday, October 6, 2021 @ 5:30pm
 
 1. DataCamp: NumPy
-    - Go to DataCamp's Intro to Python Course, Chapter 4: NumPy (chapter starts [here](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1)
+    - [Intro to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1) - Please complete 4
     - Complete the whole chapter: “NumPy” through “Blend it all together”
 
-2. Cheat Sheets (Optional, just for your reference)
+2. Cheat Sheets (just for your reference)
     - [NumPy](https://datacamp-community-prod.s3.amazonaws.com/e9f83f72-a81b-42c7-af44-4e35b48b20b7)
 
 3. Readings (The Unix Shell)
@@ -137,6 +139,10 @@ Classes are such a challenging subject there are no Optional Readings for this w
 ### Notebook
 
 5. Complete the `week_03_homework.ipynb` [here.](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_03/week_03_homework.ipynb) You can also find the notebook and the csv file you'll need in the week 4 folder in the course materials folder at the top of the page.
+6. Embed screenshots at the end of your jupyter notebook to show you complete the Intro to Git and Intro to Python courses.
+	- Do your own research on how to do this. There are a couple "correct" ways to embed images in ipynb files
+	- Make sure they render when you push your notebook to github
+7. List three things you learned about the unix shell in Markdown below the screenshots.
 
 
  ### Optional Videos: 
