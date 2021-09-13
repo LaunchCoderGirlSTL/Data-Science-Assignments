@@ -139,10 +139,10 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 ### Notebook
 
 5. Complete the `week_03_homework.ipynb` [here.](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_03/week_03_homework.ipynb) You can also find the notebook and the csv file you'll need in the week 4 folder in the course materials folder at the top of the page.
-6. Embed screenshots at the end of your jupyter notebook to show you complete the Intro to Git and Intro to Python courses.
+6. Embed screenshots at the end of your jupyter notebook to show you completed the Intro to Git and Intro to Python courses.
 	- Do your own research on how to do this. There are a couple "correct" ways to embed images in ipynb files
 	- Make sure they render when you push your notebook to github
-7. List three things you learned about the unix shell in Markdown below the screenshots.
+7. List three things you learned about the unix shell in Markdown below the screenshots. Title the section "The Unix Shell"
 
 
  ### Optional Videos: 
