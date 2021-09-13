@@ -49,6 +49,7 @@ You'll need to clone the repo to see most of them.
         
 ### Notebook
  - Complete the week 1 homework notebook found [here.](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_01/hw1_problem_set.ipynb) You can also find it in the week 1 folder inside the course materials folder here on the github page. 
+ - Submit on Canvas
 
 ### Optional Videos: 
 
