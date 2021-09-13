@@ -17,21 +17,15 @@ You'll need to clone the repo to see most of them.
 ## In Class Assignment due Friday, September 17, 2021 @ 8pm
 1. Finish any installs not completed in class. 
 2. Skim the `Survival Guide` presentation. We will discuss this in more detail throughout first 8 wks.
-3. Create a complete schedule for yourself and include EVERYTHING you can (Work, commute, dinner, any obligations and study time). Highlight times you will be studying. 
-    - Head over to this [spreadsheet](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/Schedule_template) and see the example schedule on the first tab. 
-    - Create a tab with `your initials`.
-    - Copy the `template` sheet into your tab. 
-    - Fill out an accurate schedule for yourself. 
-        - This does not need to be updated as your schedule changes.
-		- Remember, you should plan to spend ~15 hours a week outside of class on this course.
-	- Please submit the spreadsheet in Canvas. You can just have your schedule on there, without the template and others.
-        
+3. Submit the in-class activity to canvas. You can submit a link to your repo or the ipynb file itself.
+     
 ## Homework due Wednesday, September 22, 2021 @ 5:30pm
 ### Readings
 1. [Hello World](https://www.learnpython.org/en/Hello,_World!)
 2. [Data Structures](https://www.datacamp.com/community/tutorials/data-structures-python) 
 3. [String Manipulation](https://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation)
-4. Go through the Provided `python_click_through.ipynb`.  
+4. [Intro to Git](https://learn.datacamp.com/courses/introduction-to-git) Please complete 1-2
+5. Go through the Provided `python_click_through.ipynb`.  
 
     - Open another notebook and copy each cell and play with it in the new notebook. 
 
@@ -49,7 +43,7 @@ You'll need to clone the repo to see most of them.
         
 ### Notebook
  - Complete the week 1 homework notebook found [here.](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_01/hw1_problem_set.ipynb) You can also find it in the week 1 folder inside the course materials folder here on the github page. 
- - Submit on Canvas
+ - Submit a link to your week 1 homework on Canvas. Week 1 you are allowed to submit the file itself, but in the future you will have to submit a link.
 
 ### Optional Videos: 
 
@@ -66,7 +60,7 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjG
 3. Skim the 'In a nutshell' links for 'Learning how to Learn' and 'Deep Work' in the `Survival Guide`.
     - Find something in those readings that interests you and explore further. 
     - These topics can have profound effects outside the classroom as well. 
-4. Submit your group activity on Canvas.
+4. Submit a link to your group activity on Canvas.
 
 ## Homework due Wednesday, September 29, 2021 @ 5:30pm
 ### Readings/Videos/DataCamp
@@ -91,8 +85,10 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjG
     - Read this [introduction to classes.](http://introtopython.org/classes.html) (Don't worry about the exercises or any notes about Python 2.7.)
     - Read [this](https://www.learnpython.org/en/Classes_and_Objects) and complete the exercise at the end.
     - Read this [Python's Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
+4. [Intro to Git](https://learn.datacamp.com/courses/introduction-to-git) Please complete 3
+
 ### Notebook
-4. Complete the `week_02_homework.ipynb` found [here](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_02/week_02_homework.ipynb). You can also find it in the week 2 folder in the course materials folder at the top of the github page. Submit a link to your repo or submit the `.ipynb` file. 
+5. Complete the `week_02_homework.ipynb` found [here](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_02/week_02_homework.ipynb). You can also find it in the week 2 folder in the course materials folder at the top of the github page. Submit a link to your repo or submit the `.ipynb` file. 
 
 
 ### Optional Videos: 
@@ -136,9 +132,11 @@ Classes are such a challenging subject there are no Optional Readings for this w
     - [Working with Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html)
     - [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html)
 	
+4. [Intro to Git](https://learn.datacamp.com/courses/introduction-to-git) Please complete 4-5
+
 ### Notebook
 
-4. Complete the `week_03_homework.ipynb` [here.](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_03/week_03_homework.ipynb) You can also find the notebook and the csv file you'll need in the week 4 folder in the course materials folder at the top of the page.
+5. Complete the `week_03_homework.ipynb` [here.](https://github.com/LaunchCoderGirlSTL/Data-Science-Assignments/blob/master/course_material/week_03/week_03_homework.ipynb) You can also find the notebook and the csv file you'll need in the week 4 folder in the course materials folder at the top of the page.
 
 
  ### Optional Videos: 
