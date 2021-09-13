@@ -115,9 +115,8 @@ Classes are such a challenging subject there are no Optional Readings for this w
 # Week 3 - Python: Loops, Functions, Classes
 
 ## In Class Assignment due Friday, October 1, 2021 @ 8pm
-1. Finish any installations. (VS Code)
-2. Submit your group activity on Canvas. Make sure it works, first! 
-3. OPTIONAL: [DataCamp PIP Tutorial](https://www.datacamp.com/community/tutorials/pip-python-package-manager)
+1. Submit your group activity on Canvas. Make sure it works, first! 
+2. OPTIONAL: [DataCamp PIP Tutorial](https://www.datacamp.com/community/tutorials/pip-python-package-manager)
 
 
 ## Homework due Wednesday, October 6, 2021 @ 5:30pm
