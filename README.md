@@ -24,7 +24,7 @@ You'll need to clone the repo to see most of them.
 1. [Hello World](https://www.learnpython.org/en/Hello,_World!)
 2. [Data Structures](https://www.datacamp.com/community/tutorials/data-structures-python) 
 3. [Intro to Git](https://learn.datacamp.com/courses/introduction-to-git) Please complete 1-2
-4. [Intro to Python]([Intro to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1) - Please complete 1-2
+4. [Intro to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1) - Please complete 1-2
 5. Go through the Provided `python_click_through.ipynb`.  
 
     - Open another notebook and copy each cell and play with it in the new notebook. 
@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjG
     - Complete "While Loop" through "Loop over list of lists"
  
 2. Functions
-	- [Intro to Python]([Intro to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1) - Please complete 3
+	- [Intro to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1) - Please complete 3
 
 3. Classes
     - Working with classes can be challenging. Focus your attention on:
