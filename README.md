@@ -16,7 +16,7 @@ You'll need to clone the repo to see most of them.
 # Week 1 - Introductions and Python
 ## In Class Assignment due Friday, September 17, 2021 @ 8pm
 1. Finish any installs not completed in class. 
-2. Skim the `Survival Guide` presentation. We will discuss this in more detail throughout first 8 wks.
+2. Skim the `Survival Guide` presentation. We will discuss this in more detail throughout the first 8 wks.
 3. Submit the in-class activity to canvas. You can submit a link to your repo or the ipynb file itself.
      
 ## Homework due Wednesday, September 22, 2021 @ 5:30pm
@@ -24,7 +24,7 @@ You'll need to clone the repo to see most of them.
 1. [Hello World](https://www.learnpython.org/en/Hello,_World!)
 2. [Data Structures](https://www.datacamp.com/community/tutorials/data-structures-python) 
 3. [Intro to Git](https://learn.datacamp.com/courses/introduction-to-git) Please complete 1-2
-4. [Intro to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1) - Please complete 1-2
+4. [Intro to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science) - Please complete 1-2
 5. Go through the Provided `python_click_through.ipynb`.  
 
     - Open another notebook and copy each cell and play with it in the new notebook. 
@@ -71,7 +71,7 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjG
     - In DataCamp, complete Intermediate Python, Chapter 4: Loops (Click [here](https://campus.datacamp.com/courses/intermediate-python/loops?ex=1) to start)
  
 2. Functions
-	- [Intro to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1) - Please complete 3
+	- [Intro to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science) - Please complete 3
 
 3. Classes
     - Working with classes can be challenging. Focus your attention on:
@@ -120,7 +120,7 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 ## Homework due Wednesday, October 6, 2021 @ 5:30pm
 
 1. DataCamp: NumPy
-    - [Intro to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1) - Please complete 4
+    - [Intro to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science) - Please complete 4
     - Complete the whole chapter: “NumPy” through “Blend it all together”
 
 2. Cheat Sheets (just for your reference)
