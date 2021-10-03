@@ -150,4 +150,81 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 
 [Numpy-Part1](https://www.youtube.com/watch?v=VtCZFlTbOek&t=1305s)
 
-[Numpy-Part2](https://www.youtube.com/watch?v=d6O_bXgnjb4)
+[Numpy-Part2](https://www.youtube.com/watch?v=d6O_bXgnjb4
+
+# Week 4 - Python: Pandas
+
+## In Class Assignment due Friday, October 8, 2021 @ 8pm
+1. Submit your group activity to Canvas
+
+## Homework due Wednesday, October 13, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Pandas DataFrames](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
+2. [Time Series tutorial with Pandas](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial)
+3. [Data Manipulation with Pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas) - please complete
+4. Read, Click Through and Digest: `pandas_part_1.ipynb'`
+5. Read, Click Through and Digest: `pandas_part_2.ipynb'`
+
+### Notebook
+
+6. Complete the `week_04_starter.ipynb`. You can find it in the week 4 folder in the course materials folder at the top of the github page. Submit a link to your repo.
+- See `README.md` in the week_04/homework folder for full homework instructions. NOTE: Best viewed in github.
+- `Output_examples.ipynb` is provided as a reference. 
+- View in Jupyter or Github. (Github sometimes mis-formats documents.)
+- NOTE: Your numerical results should be very close to the examples. 
+    - Your formatting may be very different than provided examples. Focus on getting the data and less on the formatting.
+7. Embed an image indicating that you completed Data Manipulation with Pandas from DataCamp
+
+ ### Optional Videos: 
+
+* [CoreyMS Youtube - Pandas Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+
+
+### Optional Reading:
+
+* [Visual Guide to Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+
+* [Pandas Merging](https://pandas.pydata.org/pandas-docs/stable/merging.html)
+
+* [Pandas Cheatsheet](https://www.dataquest.io/blog/pandas-cheat-sheet/)
+
+* [Data Wrangling Section](https://chrisalbon.com/)
+
+* [Formatting](https://pyformat.info/)
+
+* [Pandas Documentation](http://pandas.pydata.org/)
+
+# Week 5 - Python: Plotting (matplotlib and Seaborn)
+
+## In Class Assignment due Friday, October 15, 2021 @ 8pm
+1. Submit your group activity to Canvas using the git url!
+2. Read [REST API Tutorial](https://restfulapi.net/http-methods/) if you did not in class or need a refresher
+
+## Homework due Wednesday, October 20, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+
+1. In DataCamp, complete all of [Into to DataViz - Matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
+
+2. In DataCamp, complete all of [Intro to DataViz - Seaborn](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
+
+
+### Notebook
+4. Complete the `WeatherAPI_homework_starter.ipynb`. You can find it in the week 5 folder in the course materials folder at the top of the github page. Submit a link to your repo.
+- This homework is likely your first opportunity to build your portfolio. 
+    - Start early, make it neat. 
+    - This is a real project you can showcase!
+	- API calls can be really slow (it is a free service), so limit the number of calls you are making while testing
+5. Embed screenshots at the end of your jupyter notebook to show you completed the Intro to Data Visualization with Matplotlib and Intro to Data Visualization with Seaborn from DataCamp
+
+### Optional Videos: 
+
+* [CoreyMS Youtube - matplotlib Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
+
+
+### Optional Reading:
+
+* [Matplotlib Cheatsheet](https://datacamp-community-prod.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
+* [Seaborn Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
+
