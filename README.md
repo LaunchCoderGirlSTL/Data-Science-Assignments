@@ -156,25 +156,26 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 
 ## In Class Assignment due Friday, October 8, 2021 @ 8pm
 1. Submit your group activity to Canvas
+2. Read, Click Through and Digest: `pandas_part_1.ipynb'`
+3. Read, Click Through and Digest: `pandas_part_2.ipynb'`
 
 ## Homework due Wednesday, October 13, 2021 @ 5:30pm
 
 ### Readings/Videos/DataCamp
-1. [Pandas DataFrames](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
-2. [Time Series tutorial with Pandas](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial)
-3. [Data Manipulation with Pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas) - please complete
-4. Read, Click Through and Digest: `pandas_part_1.ipynb'`
-5. Read, Click Through and Digest: `pandas_part_2.ipynb'`
+1. [Pandas DataFrames](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python) - please read and review as needed
+2. [Time Series tutorial with Pandas](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial) - please read and review as needed
+3. In DataCamp, [Data Manipulation with Pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas) - please complete
+4. In DataCamp, [Into to DataViz - Matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib) - Please complete 1-2
 
 ### Notebook
 
-6. Complete the `week_04_starter.ipynb`. You can find it in the week 4 folder in the course materials folder at the top of the github page. Submit a link to your repo.
+5. Complete the `week_04_starter.ipynb`. You can find it in the week 4 folder in the course materials folder at the top of the github page. Submit a link to your repo.
 - See `README.md` in the week_04/homework folder for full homework instructions. NOTE: Best viewed in github.
 - `Output_examples.ipynb` is provided as a reference. 
 - View in Jupyter or Github. (Github sometimes mis-formats documents.)
 - NOTE: Your numerical results should be very close to the examples. 
     - Your formatting may be very different than provided examples. Focus on getting the data and less on the formatting.
-7. Embed an image indicating that you completed Data Manipulation with Pandas from DataCamp
+6. Embed an image indicating that you completed Data Manipulation with Pandas from DataCamp
 
  ### Optional Videos: 
 
@@ -205,7 +206,7 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 
 ### Readings/Videos/DataCamp
 
-1. In DataCamp, complete all of [Into to DataViz - Matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
+1. In DataCamp, complete the rest of [Into to DataViz - Matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
 
 2. In DataCamp, complete all of [Intro to DataViz - Seaborn](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
 
