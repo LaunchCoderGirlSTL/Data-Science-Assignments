@@ -175,7 +175,8 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 - View in Jupyter or Github. (Github sometimes mis-formats documents.)
 - NOTE: Your numerical results should be very close to the examples. 
     - Your formatting may be very different than provided examples. Focus on getting the data and less on the formatting.
-6. Embed an image indicating that you completed Data Manipulation with Pandas from DataCamp
+6. Create a simple graph (any type) using Matplotlib and any of the data in the dataframe. Briefly explain what the graph shows.
+7. Embed an image indicating that you completed Data Manipulation with Pandas from DataCamp
 
  ### Optional Videos: 
 
