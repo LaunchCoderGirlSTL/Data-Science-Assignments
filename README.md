@@ -230,3 +230,34 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 * [Matplotlib Cheatsheet](https://datacamp-community-prod.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
 * [Seaborn Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
 
+# Week 6 - SQL- Part1
+
+## In Class Assignment due Friday, October 22, 2021 @ 8pm
+1. Submit your group activity to Canvas using the git url! 
+2. Install postgres and pg admin
+3. [What is a Database?](https://www.edureka.co/blog/what-is-a-database/)
+
+## Homework due Wednesday, October 27, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Overview](https://www.tutorialspoint.com/sql/sql-overview.htm) (Only First page)
+2. [RDBMS Concepts](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm) (Only First Page)
+3. [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) - Please complete 1-4
+4. [Joining Data](https://learn.datacamp.com/courses/joining-data-in-postgresql) - Please complete 1 and 2
+
+### Text File (Instead of a Notebook)
+1. Create a file called `week_6_hw.sql`
+2. Answer all the questions in `week_6_sql_hw.docx`
+3. For **every** problem, do the following:
+	- Copy and paste the problem into your `week_6_hw.sql` file. 
+	- Use PostgreSQL in PGAdmin on your computer to solve the problem. 
+	- Paste your query into `week_6_hw.sql`.
+	- Write an explanation of what is happening in each query (as a sql comment or in the readme). Be sure to reference the data model in your explanations. 
+4. Commit the `week_6_hw.sql` file to your own repo. 
+5. In the readme for the repo explain what an RDBMS is and what SQL is briefly (under 250 words)
+6. Also in the readme, embed a screenshot indicating you have completed the Introduction to SQL in DataCamp
+7. Submit a link to your repo. 
+
+### Optional Videos: 
+* [Learn PostgeSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
+
