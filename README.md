@@ -150,7 +150,7 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 
 [Numpy-Part1](https://www.youtube.com/watch?v=VtCZFlTbOek&t=1305s)
 
-[Numpy-Part2](https://www.youtube.com/watch?v=d6O_bXgnjb4
+[Numpy-Part2](https://www.youtube.com/watch?v=d6O_bXgnjb4)
 
 # Week 4 - Python: Pandas
 
@@ -261,3 +261,32 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 ### Optional Videos: 
 * [Learn PostgeSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
+# Week 7 - SQL- Part2
+
+## In Class Assignment due Friday, October 29, 2021 @ 8pm
+1. Submit your group activity to Canvas using the git url! 
+2. [Subquery vs join](https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/)
+
+## Homework due Wednesday, November 3, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [SQL Autoincrementing](https://www.w3schools.com/sql/sql_autoincrement.asp)
+2. [Joining Data](https://learn.datacamp.com/courses/joining-data-in-postgresql) - Please complete 3 and 4
+3. [Intermediate SQL](https://learn.datacamp.com/courses/intermediate-sql) - Please complete 1-4
+
+### Text File (Instead of a Notebook)
+1. Create a file called `week_7_hw.sql`
+2. Answer all the questions in `week_7_sql_hw.docx`
+3. For **every** problem, do the following:
+	- Copy and paste the problem into your `week_7_hw.sql` file. 
+	- Use PostgreSQL in PGAdmin on your computer to solve the problem. 
+	- Paste your query into `week_7_hw.sql`.
+	- Write an explanation of what is happening in each query (as a sql comment). Be sure to reference the data model in your explanations. 
+4. Commit the `week_7_hw.sql` file to your own repo. 
+5. In the readme, explain what autoincrementing is in under 250 words. Also explain the difference between creating a join and a subquery.
+6. Also in the readme, embed a screenshot indicating you have completed the Joining Data in Postgresql DataCamp
+	- while we are not enforcing that you complete the Intermediate SQL, you **should** do so
+7. Submit a link to your repo.
+
+### Optional Videos: 
+* [Learn PostgeSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
