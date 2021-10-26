@@ -252,7 +252,7 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 	- Copy and paste the problem into your `week_6_hw.sql` file. 
 	- Use PostgreSQL in PGAdmin on your computer to solve the problem. 
 	- Paste your query into `week_6_hw.sql`.
-	- Write an explanation of what is happening in each query (as a sql comment or in the readme). Be sure to reference the data model in your explanations. 
+	- Write an explanation of what is happening in each query (as a sql comment or in the readme). Be sure to reference the data model in your explanations as needed. 
 4. Commit the `week_6_hw.sql` file to your own repo. 
 5. In the readme for the repo explain what an RDBMS is and what SQL is briefly (under 250 words)
 6. Also in the readme, embed a screenshot indicating you have completed the Introduction to SQL in DataCamp
@@ -281,16 +281,14 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 	- Copy and paste the problem into your `week_7_hw.sql` file. 
 	- Use PostgreSQL in PGAdmin on your computer to solve the problem. 
 	- Paste your query into `week_7_hw.sql`.
-	- Write an explanation of what is happening in each query (as a sql comment). Be sure to reference the data model in your explanations. 
+	- Write an explanation of what is happening in each query (as a sql comment). Be sure to reference the data model in your explanations as needed. 
 4. Commit the `week_7_hw.sql` file to your own repo. 
-5. In the readme, explain what autoincrementing is in under 250 words. Also explain the difference between creating a join and a subquery.
+5. In the readme, explain what autoincrementing is. Also explain the difference between creating a join and a subquery. This section should be less than 300 words.
 6. Also in the readme, embed a screenshot indicating you have completed the Joining Data in Postgresql DataCamp
 7. Submit a link to your repo.
 
-8. Look at the group project instructions and think about what you might want to do for it.
-
 ### Optional Videos: 
-* [Learn PostgeSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
+* [Learn PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
 # Week 8 - Basic Stats in Python
 
@@ -304,10 +302,10 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 1. [Intro to Stats in Python](https://learn.datacamp.com/courses/introduction-to-statistics-in-python) - Please complete 1 - 4
 2. [Reference scipy documentation](https://scipy-lectures.org/packages/statistics/index.html)
 
-### In lieu of a coding addignment, you need to work on your class project and turn it in under week 8 Canvas HW.
+### In lieu of a coding addignment, you need to work on your class project and turn it in under week 8 in Canvas.
 Please make sure you have a github repo where your team is storing and working on your project together.
 
-We will make sure everyone on the team is contributing evently to the same repository.
+We will make sure everyone on the team is contributing evenly to the same repository.
 
 Use what you learned this week in your project!
 
