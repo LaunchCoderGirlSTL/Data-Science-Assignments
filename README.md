@@ -302,7 +302,7 @@ Read more on functions [here.](https://365datascience.com/python-functions/)
 1. [Intro to Stats in Python](https://learn.datacamp.com/courses/introduction-to-statistics-in-python) - Please complete 1 - 4
 2. [Reference scipy documentation](https://scipy-lectures.org/packages/statistics/index.html)
 
-### In lieu of a coding addignment, you need to work on your class project and turn it in under week 8 in Canvas.
+### In lieu of a coding assignment, you need to work on your class project and turn it in under week 8 in Canvas.
 Please make sure you have a github repo where your team is storing and working on your project together.
 
 We will make sure everyone on the team is contributing evenly to the same repository.
