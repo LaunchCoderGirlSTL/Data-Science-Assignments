@@ -309,3 +309,34 @@ We will make sure everyone on the team is contributing evenly to the same reposi
 
 Use what you learned this week in your project!
 
+# Week 9 - Basic Probability in Python
+
+# Week 10 - Intro to Linear Algebra in Python
+
+# Week 11 - Time Series Analysis
+
+# Week 12 - Intro to Machine Learning
+
+# Week 13 - Machine Learning Supervised Learning
+
+# Week 14 - Multiple Linear Regression and Logistic Regression
+
+# Week 15 - Support Vector Machines, Oversampling, and Undersampling
+
+# Week 16 - Decision Trees and ETL Code Reviews
+
+# Week 17 - Ensemble Learning and Random Forest
+
+# Week 18 - Intro to Neural Networks
+
+# Week 19 - Unsupervised Learning
+
+# Week 20 - Natural Language Processing
+
+# Week 21 - Intro to Creating APIs in the Cloud
+
+# Week 22 - Webscraping in Python
+
+# Week 23 - MongoDB
+
+# Week 24 - Final Project Presentations
