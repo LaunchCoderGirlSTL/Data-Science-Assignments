@@ -311,6 +311,26 @@ Use what you learned this week in your project!
 
 # Week 9 - Basic Probability in Python
 
+## In Class Assignment due Friday, November 12th, 2021 @ 8pm
+1. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, November 17, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+
+1. Make sure you actually completed the Intro to Stats in DataCamp from last week
+2. [Foundations of Probability DataCamp](https://app.datacamp.com/learn/courses/foundations-of-probability-in-python) - Please complete 1-2. 3-4 are optional.
+3. [Khan Academy: basic theoretical probability section](https://www.khanacademy.org/math/statistics-probability/probability-library#basic-theoretical-probability)
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the probability_hw.docx file under week 9.
+2. Put the code answer for each question under the markdown heading.
+3. Embed a screenshot into your jupyter notebook showing you completed DataCamp's Intro to Stats 
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+- The [Khan Academy: Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) course is a great resource to get another video on any concepts that are challenging. Seek out what you need more help on, and your TAs are here to help. 
+
 # Week 10 - Intro to Linear Algebra in Python
 
 # Week 11 - Time Series Analysis
