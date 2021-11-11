@@ -325,8 +325,9 @@ Use what you learned this week in your project!
 ### Notebook
 1. Create a markdown heading and explanation for each question in the probability_hw.docx file under week 9.
 2. Put the code answer for each question under the markdown heading.
-3. Embed a screenshot into your jupyter notebook showing you completed DataCamp's Intro to Stats 
-3. Upload your completed notebook to github and submit the link to Canvas.
+3. Explain The Monty Hall problem in your notebook in markdown in under 250 words.
+4. Embed a screenshot into your jupyter notebook showing you completed DataCamp's Intro to Stats 
+5. Upload your completed notebook to github and submit the link to Canvas.
 
 ### Optional Reading
 - The [Khan Academy: Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) course is a great resource to get another video on any concepts that are challenging. Seek out what you need more help on, and your TAs are here to help. 
