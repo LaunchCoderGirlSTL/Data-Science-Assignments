@@ -334,7 +334,48 @@ Use what you learned this week in your project!
 
 # Week 10 - Intro to Linear Algebra in Python
 
+## In Class Assignment due Friday, November 19th, 2021 @ 8pm
+1. [One hot encoding](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/) - This is a tecnique you will use a lot going forward, and it requires knowledge of linear algebra to use in many scenarios
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, December 1, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Linear Algebra in python](https://pythonnumericalmethods.berkeley.edu/notebooks/chapter14.00-Linear-Algebra-and-Systems-of-Linear-Equations.html) - Go through all the subsections from Basics of Linear Algebra to Summary. Do the TRY IT! sections, as they will help you with your homework.
+2. [Dot product vs cross product](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition)
+3. [PCA in python](https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python) - Remember, PCA uses linear algebra, hence why its relevant here
+	- be sure to copy the example code into your own jupyter notebook and run it as you go through the reading.
+4. [LaTeX formatting](https://www.overleaf.com/learn/latex/subscripts_and_superscripts) - this can be done in a jupyter notebook markdown section!
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the linear_algebra_hw.docx file under week 9.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+- [Linear Algebra](https://medium.com/swlh/linear-algebra-in-python-b967061e342a)
+- [Python linear algebra basics](https://rlhick.people.wm.edu/stories/linear-algebra-python-basics.html)
+
 # Week 11 - Time Series Analysis
+
+## In Class Assignment due Friday, December 3rd, 2021 @ 8pm
+1. [Fourier Analysis](https://learn.adafruit.com/fft-fun-with-fourier-transforms/background)
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, December 8, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Time Series Analysis](https://app.datacamp.com/learn/courses/time-series-analysis-in-python) - Complete 1-4
+2. [Fourier Analysis](https://learn.adafruit.com/fft-fun-with-fourier-transforms/background) - Reread this to make sure you understand Fourier transform fundamentally
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the time_series_hw.docx file under week 10.
+2. Put the code answer for each question under the markdown heading.
+3. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+- [More Fourier Analysis](https://towardsdatascience.com/fourier-transformation-and-its-mathematics-fff54a6f6659)
+- [SQL server Time Series DataCamp](https://app.datacamp.com/learn/courses/time-series-analysis-in-sql-server)
 
 # Week 12 - Intro to Machine Learning
 
