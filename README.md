@@ -355,6 +355,8 @@ Use what you learned this week in your project!
 ### Optional Reading
 - [Linear Algebra](https://medium.com/swlh/linear-algebra-in-python-b967061e342a)
 - [Python linear algebra basics](https://rlhick.people.wm.edu/stories/linear-algebra-python-basics.html)
+- [Recursion in Python](https://realpython.com/python-recursion/)
+- [Hierarchical and Recursive Queries in SQL Server](https://app.datacamp.com/learn/courses/hierarchical-and-recursive-queries-in-sql-server)
 
 # Week 11 - Time Series Analysis
 
