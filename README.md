@@ -356,7 +356,8 @@ Use what you learned this week in your project!
 - [Linear Algebra](https://medium.com/swlh/linear-algebra-in-python-b967061e342a)
 - [Python linear algebra basics](https://rlhick.people.wm.edu/stories/linear-algebra-python-basics.html)
 - [Recursion in Python](https://realpython.com/python-recursion/)
-- [Hierarchical and Recursive Queries in SQL Server](https://app.datacamp.com/learn/courses/hierarchical-and-recursive-queries-in-sql-server)
+- [DataCamp's Hierarchical and Recursive Queries in SQL Server](https://app.datacamp.com/learn/courses/hierarchical-and-recursive-queries-in-sql-server)
+- [DataCamp's Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python) - you should already have completed some of this from earlier in the class, but the rest is useful to make sure you have mastered the basics
 
 # Week 11 - Time Series Analysis
 
@@ -373,13 +374,37 @@ Use what you learned this week in your project!
 ### Notebook
 1. Create a markdown heading and explanation for each question in the time_series_hw.docx file under week 10.
 2. Put the code answer for each question under the markdown heading.
-3. Upload your completed notebook to github and submit the link to Canvas.
+3. Embed a screenshot into your jupyter notebook showing you completed DataCamp's Timeseries Analysis in Python 
+4. Upload your completed notebook to github and submit the link to Canvas.
 
 ### Optional Reading
 - [More Fourier Analysis](https://towardsdatascience.com/fourier-transformation-and-its-mathematics-fff54a6f6659)
-- [SQL server Time Series DataCamp](https://app.datacamp.com/learn/courses/time-series-analysis-in-sql-server)
+- [DataCamp's SQL server Time Series](https://app.datacamp.com/learn/courses/time-series-analysis-in-sql-server)
+- [Autoregression](https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python)
 
 # Week 12 - Intro to Machine Learning
+
+## In Class Assignment due Friday, December 10th, 2021 @ 8pm
+1. [Lambda, Apply, Assign](https://www.geeksforgeeks.org/applying-lambda-functions-to-pandas-dataframe/)
+2. [Map, Reduce, Lambda](https://book.pythontips.com/en/latest/map_filter.html)
+3. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, December 15, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Machine learning for business](https://learn.datacamp.com/courses/machine-learning-for-business) Complete 1-4
+2. [Python Data Science Toolbox Part 1](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1) Complete 1-3
+3. https://datatofish.com/correlation-matrix-pandas/ Correlation matrix
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the intro_to_ml.docx file under week 12.
+2. Put the code answer for each question under the markdown heading.
+3. Embed screenshots into your jupyter notebook showing you completed DataCamp's Machine Learning for Business AND Python Data Science Toolbox Part 1
+4. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+Read about how lambda works https://realpython.com/python-lambda/
+More review of linear regression https://www.w3schools.com/python/python_ml_linear_regression.asp (see there is also something on polynomial regression that is useful)
 
 # Week 13 - Machine Learning Supervised Learning
 
