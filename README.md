@@ -380,7 +380,7 @@ Use what you learned this week in your project!
 ### Optional Reading
 - [More Fourier Analysis](https://towardsdatascience.com/fourier-transformation-and-its-mathematics-fff54a6f6659)
 - [DataCamp's SQL server Time Series](https://app.datacamp.com/learn/courses/time-series-analysis-in-sql-server)
-- [Autoregression](https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python)
+- [Autoregression](https://otexts.com/fpp2/AR.html) - this online book also digs into the math of many other time series models and components. Please note, the code examples in this book are in R, not Python, but the concepts are expressed well.
 
 # Week 12 - Intro to Machine Learning
 
