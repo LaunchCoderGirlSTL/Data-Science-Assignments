@@ -325,9 +325,8 @@ Use what you learned this week in your project!
 ### Notebook
 1. Create a markdown heading and explanation for each question in the probability_hw.docx file under week 9.
 2. Put the code answer for each question under the markdown heading.
-3. Explain The Monty Hall problem in your notebook in markdown in under 250 words.
-4. Embed a screenshot into your jupyter notebook showing you completed DataCamp's Intro to Stats 
-5. Upload your completed notebook to github and submit the link to Canvas.
+3. Embed a screenshot into your jupyter notebook showing you completed DataCamp's Intro to Stats 
+4. Upload your completed notebook to github and submit the link to Canvas.
 
 ### Optional Reading
 - The [Khan Academy: Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) course is a great resource to get another video on any concepts that are challenging. Seek out what you need more help on, and your TAs are here to help. 
@@ -370,6 +369,7 @@ Use what you learned this week in your project!
 ### Readings/Videos/DataCamp
 1. [Time Series Analysis](https://app.datacamp.com/learn/courses/time-series-analysis-in-python) - Complete 1-4
 2. [Fourier Analysis](https://learn.adafruit.com/fft-fun-with-fourier-transforms/background) - Reread this to make sure you understand Fourier transform fundamentally
+3. [SARIMA in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the time_series_hw.docx file under week 10.
