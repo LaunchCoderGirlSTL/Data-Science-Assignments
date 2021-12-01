@@ -1,6 +1,6 @@
 # Project 2
 
-## Due Wednesday, June 16th, 2021. Code reviews will occur on this day
+## Due Wednesday, June 12th, 2022. Code reviews will occur on this day
 
 Extract, Transform, Load (ETL) is a data integration process used to store data in a database so it can be used
 by others and create consistent results for analysis. 
@@ -27,8 +27,8 @@ You must submit a link to your group github repository with:
 
 2. 5-10 SQL queries that highlight how your tables work. You must use at least three joins. Include a comment for each one indicating what it is doing.
 
-3. Be prepared to present on the process you went through. This should not take longer than 10 minutes. Your presentation will be in a code review, 
-so please do not create a powerpoint. 
+3. Be prepared to present on the process you went through. This should not take longer than 8 minutes. Your presentation will be in a code review, 
+so please do not create a powerpoint. Instead, you will walk through what code things you learned when working on this project. Do NOT simply go through all your code in an exhaustive manner. 
 
 
 ### Guidelines for your notebook:

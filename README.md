@@ -394,7 +394,8 @@ Use what you learned this week in your project!
 ### Readings/Videos/DataCamp
 1. [Machine learning for business](https://learn.datacamp.com/courses/machine-learning-for-business) Complete 1-4
 2. [Python Data Science Toolbox Part 1](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1) Complete 1-3
-3. https://datatofish.com/correlation-matrix-pandas/ Correlation matrix
+3. [Preprocessing for Machine Learning](https://learn.datacamp.com/courses/preprocessing-for-machine-learning-in-python) Complete 1
+4. https://datatofish.com/correlation-matrix-pandas/ Correlation matrix
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the intro_to_ml.docx file under week 12.
@@ -407,6 +408,25 @@ Read about how lambda works https://realpython.com/python-lambda/
 More review of linear regression https://www.w3schools.com/python/python_ml_linear_regression.asp (see there is also something on polynomial regression that is useful)
 
 # Week 13 - Machine Learning Supervised Learning
+
+## In Class Assignment due Friday, December 17th, 2021 @ 8pm
+1. [Intro to Supervised Learning in Python](https://builtin.com/data-science/supervised-learning-python)
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, December 22, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Preprocessing for Machine Learning](https://learn.datacamp.com/courses/preprocessing-for-machine-learning-in-python) Complete 2-4
+2. [Supervised Learning in sklearn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn) Complete 1-4
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the supervised_learning.docx file under week 13.
+2. Put the code answer for each question under the markdown heading.
+3. Embed screenshots into your jupyter notebook showing you completed DataCamp's Preprocessing for Machine Learning in Python AND Supervised Learning with Scikit Learn
+4. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+
 
 # Week 14 - Multiple Linear Regression and Logistic Regression
 
