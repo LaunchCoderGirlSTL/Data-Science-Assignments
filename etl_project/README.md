@@ -1,6 +1,6 @@
 # Project 2
 
-## Due Wednesday, June 12th, 2022. Code reviews will occur on this day
+## Due Wednesday, Jan 12th, 2022. Code reviews will occur on this day
 
 Extract, Transform, Load (ETL) is a data integration process used to store data in a database so it can be used
 by others and create consistent results for analysis. 
