@@ -426,7 +426,7 @@ More review of linear regression https://www.w3schools.com/python/python_ml_line
 4. Upload your completed notebook to github and submit the link to Canvas.
 
 ### Optional Reading
-
+[Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) - up to Regularization
 
 # Week 14 - Multiple Linear Regression and Logistic Regression
 
