@@ -430,6 +430,34 @@ More review of linear regression https://www.w3schools.com/python/python_ml_line
 
 # Week 14 - Multiple Linear Regression and Logistic Regression
 
+## In Class Assignment due Sunday, December 26th, 2021 @ 8pm
+1. [Logistic Regression](https://christophm.github.io/interpretable-ml-book/logistic.html) Read 4.2 on Logistic Regression
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, January 5, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Intermediate Regression with statsmodel](https://app.datacamp.com/learn/courses/intermediate-regression-with-statsmodels-in-python) Complete 1-4
+2. [Python Data Science Toolbox Part 2](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-2) - Please complete 1
+3. [Multiple Linear Regression](https://www.w3schools.com/python/python_ml_multiple_regression.asp) - this is another way to do multiple regression: different from the datacamp course but what we discussed in class. You can use either approach. 
+4. [Preprocessing Reading](https://scikit-learn.org/stable/modules/preprocessing.html) - Please read this article to solidify your understanding of preprocessing
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the regression_hw.docx file under week 14.
+2. Put the code answer for each question under the markdown heading.
+3. Embed screenshots into your jupyter notebook showing you completed DataCamp's Intermediate Regression with Statsmodel
+4. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+[Intro to Regression with Statsmodel](https://campus.datacamp.com/courses/introduction-to-regression-with-statsmodels-in-python)
+
+Some additional statistical concepts https://data-flair.training/blogs/python-statistics
+
+Read section 4.1 on Linear Regression https://christophm.github.io/interpretable-ml-book/limo.html 
+
+Read https://www.investopedia.com/terms/m/mlr.asp on multiple linear regression
+
+
 # Week 15 - Support Vector Machines, Oversampling, and Undersampling
 
 # Week 16 - Decision Trees and ETL Code Reviews
