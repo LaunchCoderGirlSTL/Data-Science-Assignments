@@ -479,11 +479,11 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 # Week 16 - Decision Trees and ETL Code Reviews
 
-## In Class Assignment due Friday, June 18th, 2021 @ 8pm
+## In Class Assignment due Friday, January 14th, 2022 @ 8pm
 1. [Decision Trees with python](https://datascience.foundation/sciencewhitepaper/understanding-decision-trees-with-python)  
 2. Submit your group activity to Canvas using the git url! 
 
-## Homework due Wednesday, June 23, 2021 @ 5:30pm
+## Homework due Wednesday, January 19, 2022 @ 5:30pm
 
 ### Readings/Videos/DataCamp
 1. [Linear Classifiers in sklearn](https://app.datacamp.com/learn/courses/linear-classifiers-in-python) Please complete 4
