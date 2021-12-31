@@ -460,6 +460,23 @@ Read https://www.investopedia.com/terms/m/mlr.asp on multiple linear regression
 
 # Week 15 - Support Vector Machines, Oversampling, and Undersampling
 
+## In Class Assignment due Friday, January 7th, 2022 @ 8pm
+1. [Oversampling and Undersampling](https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/)
+2. [SVM Sklearn Documentation](https://scikit-learn.org/stable/modules/svm.html)
+3. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, January 12, 2022 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Linear Classifiers in sklearn](https://learn.datacamp.com/courses/linear-classifiers-in-python) Please complete 1-2
+2. [Python Data Science Toolbox Part 2](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-2) - Please complete 2-3
+
+### Notebook
+1. You do not have a notebook to complete this week. Your ETL projects are due next week and should be submitted under week 15 on canvas.
+
+### Optional Reading
+No optional readings this week. Make sure you understand very well what an SVM is and the kinds of problems it can be used to solve!
+
 # Week 16 - Decision Trees and ETL Code Reviews
 
 # Week 17 - Ensemble Learning and Random Forest
