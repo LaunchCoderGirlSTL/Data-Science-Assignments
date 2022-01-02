@@ -25,9 +25,11 @@ You must submit a link to your group github repository with:
 
 1. A jupyter notebook with all your ETL code in it. I suggest using psycopg2, but you are free to use any other libraries you find.
 
-2. 5-10 SQL queries that highlight how your tables work. You must use at least three joins. Include a comment for each one indicating what it is doing.
+2. 5-10 SQL queries that highlight how your tables work and what they show. You must use at least three joins. Include a comment for each one indicating what it is doing.
 
-3. Be prepared to present on the process you went through. This should not take longer than 8 minutes. Your presentation will be in a code review, 
+3. A data model with the proper cardinality and degrees labeled and explained.
+
+4. Be prepared to present on the process you went through. This should not take longer than 8 minutes. Your presentation will be in a code review, 
 so please do not create a powerpoint. Instead, you will walk through what code things you learned when working on this project. Do NOT simply go through all your code in an exhaustive manner. 
 
 
