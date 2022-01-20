@@ -510,7 +510,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 1. [ROC Curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) 
 2. Submit your group activity to Canvas using the git url! 
 
-## Homework due Wednesday, January 26, 2021 @ 5:30pm
+## Homework due Wednesday, January 26, 2022 @ 5:30pm
 
 ### Readings/Videos/DataCamp
 1. [Machine Learning with Tree-Based Models](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) Please complete 4-5
@@ -528,11 +528,11 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 # Week 18 - Intro to Neural Networks
 
-## In Class Assignment due Friday, January 28th, 2021 @ 8pm
+## In Class Assignment due Friday, January 28th, 2022 @ 8pm
 1. [PyTorch Loss Functions](https://neptune.ai/blog/pytorch-loss-functions)
 2. Submit your group activity to Canvas using the git url! 
 
-## Homework due Wednesday, February 2, 2021 @ 5:30pm
+## Homework due Wednesday, February 2, 2022 @ 5:30pm
 
 ### Readings/Videos/DataCamp
 1. [Intro to Deep Learning](https://learn.datacamp.com/courses/introduction-to-deep-learning-in-python) please complete 3-4
