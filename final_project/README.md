@@ -1,6 +1,6 @@
 # Final Project
 
-## Due Wednesday, August 11th, 2021. Presentations will occur on this day
+## Due Wednesday, March 9th, 2022. Presentations will occur on this day
 
 You will be highlighting everything you have learned during this course in the final presentation. You can make
 this project an extension of your other projects, but you do not have to. You are probably tired of exploring
