@@ -638,6 +638,8 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 ### Optional Reading
 
+[Flask APIs GETting and POSTing](https://towardsdatascience.com/a-series-on-flask-apis-part-1-getting-and-posting-33985dfe8816)
+
 [Deploying Azure App Service](https://docs.microsoft.com/en-us/azure/developer/python/tutorial-deploy-app-service-on-linux-04)
 
 [Creating APIs](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
