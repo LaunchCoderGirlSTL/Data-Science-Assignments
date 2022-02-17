@@ -1,0 +1,15 @@
+1. make sure your flask app works
+2. Go to Azure portal: portal.azure.com
+3. Create a resource group
+4. Create a web app in APp services
+5. Go to deployment center in app services
+	- add a username and password under user scope
+6. make sure your flask app isnt in another repo (such as the one for this class)
+(flask app needs to be in its own repository)
+7.git remote add flask-app <URI from previous step>
+8. Git commit
+9. git push <app-name> master
+10. GO to settings>configuration>general settings
+- add a startup command: gunicorn --bind=0.0.0.0 --timeout 500 <app-name>:app
+11. Retart the application
+12. Go to your address, and see your API!
