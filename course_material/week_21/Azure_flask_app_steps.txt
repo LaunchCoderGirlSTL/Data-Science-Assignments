@@ -13,3 +13,6 @@
 - add a startup command: gunicorn --bind=0.0.0.0 --timeout 500 <app-name>:app
 11. Retart the application
 12. Go to your address, and see your API!
+
+I suggest using the following instructions if you get stuck. On step 3 here I suggest deploying using local git from the Azure Portal.
+https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-portal%2Cterminal-bash%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cdeploy-instructions-zip-azcli
