@@ -633,7 +633,7 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 ### Notebook
 1. Create a python application to answer the questions in the APIs_hw.docx file under week 21.
-2. Embed screenshots into your jupyter notebook showing you completed DataCamp's Cloud Computing for Everyone
+2. Embed screenshots into your jupyter notebook showing you completed DataCamp's Cloud Computing for Everyone.
 3. Write any conceptual questions, clarifications, and notes in comments. Be sure to number appropriately.
 
 ### Optional Reading
@@ -650,6 +650,54 @@ No optional readings this week. Make sure you understand very well what an SVM i
 
 # Week 22 - Webscraping in Python
 
+## In Class Assignment due Friday, February 25th, 2022 @ 8pm
+1. [Selenium Web Scraping](https://www.scrapingbee.com/blog/selenium-python/)
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, March 2nd, 2022 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Web Scraping in python](https://learn.datacamp.com/courses/web-scraping-with-python) Please complete 2-4
+2. [MongoDB in Python](https://learn.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python) Please complete 1-2
+3. Install MongoDB for next class. https://www.mongodb.com/try/download/community . [Instructions](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#) To confirm it is working, follow the instructions to run the command line tool, and type in "show dbs" once that is running. If you see some results (usually admin, config, and local), it should be properly installed.
+4. [How we learnt to stop worrying and love web scraping](https://www.nature.com/articles/d41586-020-02558-0) 
+
+### Notebook
+1. Create a python application to answer the questions in the webscraping_hw.docx file under week 22.
+2. Embed screenshots into your readme showing you completed DataCamp's Web Scraping in Python and 1-2 in MongoDB in Python.
+3. Write any conceptual questions, clarifications, and notes in a readme.md file. Be sure to number appropriately.
+
+### Optional Reading
+
+[Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+[Splinter Documentations](https://splinter.readthedocs.io/en/latest/drivers/chrome.html)
+
+[Beautiful Soup](https://realpython.com/beautiful-soup-web-scraper-python/)
+
+[More Beautiful Soup](https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/)
+
+[Even More BS](https://www.datacamp.com/community/tutorials/amazon-web-scraping-using-beautifulsoup)
+
 # Week 23 - MongoDB
+
+## In Class Assignment due Friday, March 4th, 2022 @ 8pm
+1. [NoSQL Explained](https://www.mongodb.com/nosql-explained)
+2. Submit your group activity to Canvas using the git url! 
+
+### Readings/Videos/DataCamp
+1. Delete any running services in your [Azure account](https://portal.azure.com) so you dont incur unwanted charges
+2. [MongoDB in Python](https://learn.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python) Please complete 3-4
+
+### Notebook
+There is no notebook assignment this week. Please complete your final projects with your group and be ready to present next week!
+
+### Optional Reading
+
+[NoSQL databases](https://riak.com/resources/nosql-databases/index.html?p=9937.html)
+
+[NoSQL vs SQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql
+
+[MongoDB](https://www.geeksforgeeks.org/mongodb-database-collection-and-document/)
 
 # Week 24 - Final Project Presentations
