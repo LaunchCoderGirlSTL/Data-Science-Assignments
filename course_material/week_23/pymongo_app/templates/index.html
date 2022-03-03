@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Flask Templates</title>
+</head>
+
+<body>
+  <div class="container">
+    {% for item in data %}
+    <div>
+              <h4>{{ item.name }}</h4>
+              <h6>Number of Seasons: {{ item.seasons }}</h6>
+              <p>Show Duration: {{ item.duration }}</p>
+              <p>Year: {{ item.year }}</p>
+      </div>
+      {% endfor %}
+  </div>
+</body>
+
+</html>
