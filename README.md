@@ -1,5 +1,3 @@
-https://gist.github.com/smirs/5c097be048b0cb9c48a95498cdcd4bfd.js
-
 # Data-Science-Assignments
 Repository for the Data Science learning track to host assignments.
 
